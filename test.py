@@ -1,5 +1,6 @@
 import Algorithmia
 import numpy as np
+import itertools
 
 # Fill in with search terms
 search_terms = [
