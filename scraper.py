@@ -1,17 +1,16 @@
 import requests
+import time
 from bs4 import BeautifulSoup
 import pandas as pd
+import datetime
 
 # PERSONAL TIP: use py not python (this is 3.9)
 # 3 parts: extract, transform, load
-
-def get_proxies():
-    res = requests.get('https://free-proxy-list.net/', headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'})
-    soup = BeautifulSoup(res.text,"lxml")
-
-    for items in soup.select("#proxylisttable tbody tr"):
-        proxy_list = ':'.join([item.text for item in items.select("td")[:2]])
-    return proxy_list
+jobs = []
+proxy_list = {
+    "http": "http://ykvgvroz-rotate:9rhpmcjoqup7@p.webshare.io:80/",
+    "https": "http://ykvgvroz-rotate:9rhpmcjoqup7@p.webshare.io:80/"
+}
 
 def extract(search, location, page):
     # set headers (user agent)
@@ -20,7 +19,7 @@ def extract(search, location, page):
     # Pages are 0, 10, 20...
     url = "https://www.indeed.com/jobs?q={s}&l={l}&start={p}".format(s = search, p = page*10, l = location)
     # use requests to get url
-    r = requests.get(url, headers)
+    r = requests.get(url, headers, proxies=proxy_list)
     soup = BeautifulSoup(r.content, 'html.parser')
     return soup
 
@@ -44,19 +43,39 @@ def transform(soup):
             }
             jobs.append(job)
 
-jobs = []
 def main():
-    print(get_proxies())
-    searches = ['python+developer']
-    locations = ['San+Francisco+Bay+Area%2C+CA', 'New+York%2C+NY', 'Austin%2C+TX']
-    pages = 1
+    # searches = ['Data+Engineer',
+    #             'Data+Analyst',
+    #             'Infrastructure',
+    #             'CIO',
+    #             'AI',
+    #             'Machine+Learning']
+    searches = ['Data+Engineer']
+    locations = ['San+Francisco+Bay+Area%2C+CA', 
+                 'San+Diego%2C+CA',
+                 'Los+Angeles%2C+CA',
+                 'New+York%2C+NY', 
+                 'Austin%2C+TX',
+                 'Seattle%2C+WA',
+                 'Denver%2C+CO',
+                 'Boston%2C+MA',
+                 ]
+    pages = 2 # no. pages to search for each search/loc pair
+    sleep = 30 # seconds between each request
+    remaining = len(locations) * len(searches) * pages # number of searches remaining
     for loc in locations:
         for search in searches:
-            for i in range(1):
-                print('DEBUG: searching page {p} of {s} jobs in {l}'.format(p = i, s = search, l = loc))
+            for i in range(pages):
+                print('DEBUG: searching page {p} of {s} jobs in {l}'.format(p = i + 1, s = search, l = loc))
                 c = transform(extract(search, loc, i))
+                for j in reversed(range(sleep)):
+                    if (j + 1) % 5 == 0:
+                        print("DEBUG: sleeping {s}".format(s = j + 1))
+                    time.sleep(1)
+                remaining -= 1
+                print('DEBUG: approximately {t} left'.format(t = str(datetime.timedelta(seconds = remaining * sleep))))
     print(jobs)
-    df = pd.DataFrame(joblist)
+    df = pd.DataFrame(jobs)
     print(df.head())
     df.to_csv('jobs.csv')
 
