@@ -1,25 +1,29 @@
-,title,company,location,search_job,search_location
-0,Data Engineer,Philz Coffee,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-1,Data Engineer,Ryzen Solutions,"Cupertino, CA 95014",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-2,Data Engineer,ACL Digital,"Cupertino, CA 95014•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-3,"Data Engineer, Data Science Platform - New College Grad",NVIDIA,"Santa Clara, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-4,Data Engineer,Grid Dynamics,"San Francisco, CA 94107 (South Of Market area)",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-5,Data Analyst/Engineer,mroads,"Mountain View, CA 94043",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-6,"Data Engineer, Consultant",Blue Shield of California,"Oakland, CA 94607 (Downtown area)",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-7,Data Scientist Software Engineer,Johnson & Johnson Family of Companies,"Santa Clara, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-8,Data Infrastructure Engineer II,BigCommerce,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA
-9,Hadoop Data Engineer,Techwave Consulting Inc.,"San Diego, CA 92101",Data+Engineer,San+Diego%2C+CA
-10,"Associate, Data Scientist Engineer",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA
-11,Data Engineer,National Education Partners,"San Diego, CA 92106",Data+Engineer,San+Diego%2C+CA
-12,Business Intelligence Data Engineer,National Funding,"San Diego, CA 92121 (University City area)",Data+Engineer,San+Diego%2C+CA
-13,Staff AWS Data Engineer,ResMed,"San Diego, CA 92123 (Kearny Mesa area)+2 locations",Data+Engineer,San+Diego%2C+CA
-14,Data Engineer - Data Science,Vyant Bio,"La Jolla, CA 92037",Data+Engineer,San+Diego%2C+CA
-15,DataBricks Data Engineer,"Visvero, Inc.","Carlsbad, CA 92008",Data+Engineer,San+Diego%2C+CA
-16,Big Data Engineer - PySpark,Logic20/20,"San Diego, CA",Data+Engineer,San+Diego%2C+CA
-17,Senior Program Engineer - Asset Data Insights,Xylem,"San Diego, CA 92121",Data+Engineer,San+Diego%2C+CA
-18,Associate Data Engineer - Analytics,CoStar Group,"San Diego, CA 92122",Data+Engineer,San+Diego%2C+CA
-19,Senior Program Engineer - Network Data Insights,Xylem,"San Diego, CA 92121",Data+Engineer,San+Diego%2C+CA
-20,Sr. Data Engineer,Thermo Fisher Scientific,"Carlsbad, CA",Data+Engineer,San+Diego%2C+CA
-21,Data Engineer,Sony Interactive Entertainment PlayStation,"San Diego, CA",Data+Engineer,San+Diego%2C+CA
-22,Data Engineer,NTT DATA,"Carlsbad, CA 92008+1 location",Data+Engineer,San+Diego%2C+CA
-23,"Senior Associate, Data Scientist Engineer",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA
+,title,company,location,search_job,search_location,days_ago
+0,Data Engineer,Ryzen Solutions,"Cupertino, CA 95014",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
+1,Data Engineer,i3 Patterns Inc,"San Francisco, CA•Temporarily Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
+2,Data Engineer - 4036504,Accenture,"Walnut Creek, CA+1 location",Data+Engineer,San+Francisco+Bay+Area%2C+CA,10
+3,Data Engineer: Remote,"Stefanini, Inc","San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
+4,GCP Data Engineer,CA-One Tech Cloud Inc,"Mountain View, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
+5,Data Engineer,Philz Coffee,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,15
+6,"Data Analytics Engineer [Remote, Crypto]",Acala,"San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,7
+7,"Senior Software Engineer - Customer Data Services, Cash App",Cash App,"San Francisco, CA 94103 (South of Market area)•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,8
+8,"Data Engineer, Marketing",Square,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,9
+9,Data Center Engineer,Integrass,"San Jose, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
+10,Data Engineer II,Course Hero,"Redwood City, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,12
+11,Data Engineer,Next Step Systems,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,9
+12,Sr. Data Engineer,eGrove Systems Corporation,"Fremont, CA•Temporarily Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,2
+13,Distinguished Engineer - Data Ingestion and Stream Processin...,Splunk,"San Francisco, CA 94107 (South Of Market area)+1 location",Data+Engineer,San+Francisco+Bay+Area%2C+CA,15
+14,"Staff Software Engineer : Data Management Services, Core Inf...",Slack,"San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
+15,Big Data Engineer E1579,Nisum,"San Jose, CA 95128 (West San Jose area)",Data+Engineer,San+Francisco+Bay+Area%2C+CA,10
+16,Sr. Data Engineer (Data Scientist) - 2 Roles Open,Sendlane,"San Diego, CA",Data+Engineer,San+Diego%2C+CA,10
+17,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
+18,Associate Data Engineer - Analytics,CoStar Group,"San Diego, CA 92122",Data+Engineer,San+Diego%2C+CA,15
+19,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"San Diego, CA 92101 (Marina area)",Data+Engineer,San+Diego%2C+CA,9
+20,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",Data+Engineer,San+Diego%2C+CA,14
+21,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
+22,Sr. Data Engineer,NTT DATA,"Carlsbad, CA 92008",Data+Engineer,San+Diego%2C+CA,10
+23,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
+24,"Associate, Software Engineer - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
+25,Cyber Security Data Engineer University Grad,ViaSat,"Carlsbad, CA",Data+Engineer,San+Diego%2C+CA,11
+26,Data Engineer,ACL Digital,"San Diego, CA 92109",Data+Engineer,San+Diego%2C+CA,3
+27,Hadoop Data Engineer,Techwave Consulting Inc.,"San Diego, CA 92101",Data+Engineer,San+Diego%2C+CA,15
