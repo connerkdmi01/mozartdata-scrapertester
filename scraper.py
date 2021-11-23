@@ -4,14 +4,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
 import os
-import tkinter as tk
-from tkinter import filedialog, Text
 
 # PERSONAL TIP: use py not python (this is 3.9)
-# 3 parts: extract, transform, load\
-    
-# tk root
-root = tk.Tk()
+# 3 parts: extract, transform, load
+
 # global jobs list, contains dictionaries of jobs
 jobs = []
 # proxies that will automatically rotate with each access
@@ -129,15 +125,8 @@ def load():
     df = pd.DataFrame(jobs) # make a panda dataframe of jobs
     print(df.head()) # show first few entries of dataframe
     df.to_csv(filename) # export to csv
-
-# TODO: make gui
-def display():
-    canvas = tk.Canvas(root, height=700, width=700, bg="#263D42")
-    canvas.pack()
-    root.mainloop()
     
 def main():
-    # display()
     load()
     
 
