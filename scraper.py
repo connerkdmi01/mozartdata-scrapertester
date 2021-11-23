@@ -137,6 +137,7 @@ def display():
     root.mainloop()
     
 def main():
+    # display()
     load()
     
 
