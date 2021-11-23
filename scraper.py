@@ -55,24 +55,46 @@ def transform(soup, search_job, search_location):
             jobs.append(job)
 
 def load():
-    searches = ['Data+Engineer',
-                'Data+Analyst',
-                'Infrastructure',
-                'CIO',
-                'AI',
-                'Machine+Learning']
-    locations = ['San+Francisco+Bay+Area%2C+CA', 
-                 'San+Diego%2C+CA',
-                 'Los+Angeles%2C+CA',
-                 'New+York%2C+NY', 
-                 'Austin%2C+TX',
-                 'Seattle%2C+WA',
-                 'Denver%2C+CO',
-                 'Boston%2C+MA',
-                 ]
+    # searches = ['Data+Engineer',
+    #             'Data+Analyst',
+    #             'Infrastructure',
+    #             'CIO',
+    #             'AI',
+    #             'Machine+Learning']
+    # locations = ['San+Francisco+Bay+Area%2C+CA', 
+    #              'San+Diego%2C+CA',
+    #              'Los+Angeles%2C+CA',
+    #              'New+York%2C+NY', 
+    #              'Austin%2C+TX',
+    #              'Seattle%2C+WA',
+    #              'Denver%2C+CO',
+    #              'Boston%2C+MA',
+    #              ]
     # searches = ['Data+Engineer']
     # locations = ['San+Francisco+Bay+Area%2C+CA', 
     #              'San+Diego%2C+CA']
+    
+    searches_raw = ['Data Engineer',
+                    'Data Analyst',
+                    'Infrastructure',
+                    'CIO',
+                    'AI',
+                    'Machine Learning'
+                    ]
+    locations_raw = [('San Francisco Bay Area', 'CA'), 
+                    ('San Diego', 'CA'),
+                    ('Los Angeles', 'CA'),
+                    ('New York', 'NY'), 
+                    ('Austin', 'TX'),
+                    ('Seattle', 'WA'),
+                    ('Denver', 'CO'),
+                    ('Boston', 'MA'),
+                    ]
+    
+    # turns raw searches and locations into Indeed URL format
+    searches = searchParse(searches_raw)
+    locations = locationParse(locations_raw)
+    
     pages = 2 # no. pages to search for each search/loc pair
     limit = 50 # no. results per page (50 is max)
     radius = 50 # no. miles around location
@@ -125,6 +147,16 @@ def load():
     df = pd.DataFrame(jobs) # make a panda dataframe of jobs
     print(df.head()) # show first few entries of dataframe
     df.to_csv(filename) # export to csv
+    
+# assumes searches is array of search terms
+# returns searches with + instead of spaces
+def searchParse(searches):
+    return [search.replace(' ', '+') for search in searches]
+    
+# assumes locations is array of tuples of (city, state abbreviation)
+# returns city%2C+state
+def locationParse(locations):
+    return ['{c}%2C+{s}'.format(c=loc[0].replace(' ', '+'), s=loc[1]) for loc in locations]
     
 def main():
     load()
