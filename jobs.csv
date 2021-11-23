@@ -1,29 +1,1585 @@
-,title,company,location,search_job,search_location,days_ago
-0,Data Engineer,Ryzen Solutions,"Cupertino, CA 95014",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
-1,Data Engineer,i3 Patterns Inc,"San Francisco, CA•Temporarily Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
-2,Data Engineer - 4036504,Accenture,"Walnut Creek, CA+1 location",Data+Engineer,San+Francisco+Bay+Area%2C+CA,10
-3,Data Engineer: Remote,"Stefanini, Inc","San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
-4,GCP Data Engineer,CA-One Tech Cloud Inc,"Mountain View, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
-5,Data Engineer,Philz Coffee,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,15
-6,"Data Analytics Engineer [Remote, Crypto]",Acala,"San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,7
-7,"Senior Software Engineer - Customer Data Services, Cash App",Cash App,"San Francisco, CA 94103 (South of Market area)•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,8
-8,"Data Engineer, Marketing",Square,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,9
-9,Data Center Engineer,Integrass,"San Jose, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,3
-10,Data Engineer II,Course Hero,"Redwood City, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,12
-11,Data Engineer,Next Step Systems,"San Francisco, CA",Data+Engineer,San+Francisco+Bay+Area%2C+CA,9
-12,Sr. Data Engineer,eGrove Systems Corporation,"Fremont, CA•Temporarily Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,2
-13,Distinguished Engineer - Data Ingestion and Stream Processin...,Splunk,"San Francisco, CA 94107 (South Of Market area)+1 location",Data+Engineer,San+Francisco+Bay+Area%2C+CA,15
-14,"Staff Software Engineer : Data Management Services, Core Inf...",Slack,"San Francisco, CA•Remote",Data+Engineer,San+Francisco+Bay+Area%2C+CA,11
-15,Big Data Engineer E1579,Nisum,"San Jose, CA 95128 (West San Jose area)",Data+Engineer,San+Francisco+Bay+Area%2C+CA,10
-16,Sr. Data Engineer (Data Scientist) - 2 Roles Open,Sendlane,"San Diego, CA",Data+Engineer,San+Diego%2C+CA,10
-17,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
-18,Associate Data Engineer - Analytics,CoStar Group,"San Diego, CA 92122",Data+Engineer,San+Diego%2C+CA,15
-19,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"San Diego, CA 92101 (Marina area)",Data+Engineer,San+Diego%2C+CA,9
-20,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",Data+Engineer,San+Diego%2C+CA,14
-21,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
-22,Sr. Data Engineer,NTT DATA,"Carlsbad, CA 92008",Data+Engineer,San+Diego%2C+CA,10
-23,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
-24,"Associate, Software Engineer - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)",Data+Engineer,San+Diego%2C+CA,14
-25,Cyber Security Data Engineer University Grad,ViaSat,"Carlsbad, CA",Data+Engineer,San+Diego%2C+CA,11
-26,Data Engineer,ACL Digital,"San Diego, CA 92109",Data+Engineer,San+Diego%2C+CA,3
-27,Hadoop Data Engineer,Techwave Consulting Inc.,"San Diego, CA 92101",Data+Engineer,San+Diego%2C+CA,15
+,title,company,location,days_ago,search_job,search_location
+0,Data Engineer - 4036504,Accenture,"Walnut Creek, CA+1 location",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+1,Data Engineer,Ryzen Solutions,"Cupertino, CA 95014",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+2,Data Engineer,i3 Patterns Inc,"San Francisco, CA•Temporarily Remote",3,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+3,GCP Data Engineer,CA-One Tech Cloud Inc,"Mountain View, CA•Remote",3,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+4,Data Center Engineer,Integrass,"San Jose, CA",3,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+5,"Senior Software Engineer - Customer Data Services, Cash App",Cash App,"San Francisco, CA 94103 (South of Market area)•Remote",8,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+6,"Data Engineer, Marketing",Square,"San Francisco, CA",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+7,Data Engineer,Philz Coffee,"San Francisco, CA",15,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+8,Big Data Engineer E1579,Nisum,"San Jose, CA 95128 (West San Jose area)",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+9,Data Engineer: Remote,"Stefanini, Inc","San Francisco, CA•Remote",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+10,Data Engineer,Johnson Controls,"San Jose, CA",15,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+11,Data Engineer II,Course Hero,"Redwood City, CA",12,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+12,Data Engineer,Sony Interactive Entertainment PlayStation,"San Mateo, CA",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+13,"Staff Software Engineer : Data Management Services, Core Inf...",Slack,"San Francisco, CA•Remote",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+14,Sr. Data Engineer,eGrove Systems Corporation,"Fremont, CA•Temporarily Remote",2,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+15,"Senior Data Engineer, Big Data - Data Platform",Visa,"Palo Alto, CA (Evergreen Park area)+5 locations",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+16,Senior Data Engineer,Transcend Digital,"San Francisco, CA",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+17,Principal Engineer/Researcher - Data Platform,Toyota,"Mountain View, CA 94035",15,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+18,Staff Software Engineer - Genomic Data Platform,"GRAIL, Inc.","Menlo Park, CA",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+19,Data Engineer,Ripcord,"Hayward, CA 94544 (Tennyson-Alquire area)",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+20,Machine Learning Data Engineer - Technology Development Grou...,Apple,"Cupertino, CA",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+21,Marketing Data Engineer - Marketing Technology,Supercell,"San Francisco, CA 94104 (Financial District area)",12,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+22,Data Engineer : 21-06855,Akraya Inc.,"Santa Clara, CA 95054•Remote",12,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+23,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"San Jose, CA 95113 (Downtown area)",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+24,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"Santa Clara, CA 95054+2 locations",14,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+25,DevOps Data Engineer,Albertsons Companies,"Pleasanton, CA 94588",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+26,"AI/ML - Sr. Data Engineer, Siri and Language Technologies",Apple,"Cupertino, CA",14,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+27,"Software Engineer, Data Engineering, Ads Platform Engineerin...",Apple,"Cupertino, CA",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+28,Lead Data Engineer,TCS,"Redwood City, CA",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+29,Senior Data Center Engineer,SiriusXM,"San Jose, CA 95128 (Willow Glen area)",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+30,Data Engineer II - Patient Data / AI / ML,Change Healthcare,"Emeryville, CA+1 location",14,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+31,Senior Data Engineer - Personalization,Roblox,"San Mateo, CA",12,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+32,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"Walnut Creek, CA 94596+2 locations",14,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+33,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"Santa Clara, CA 95054+5 locations",14,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+34,R&D Engineer 1 (Technical Data Management),Keysight Technologies,"Santa Rosa, CA",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+35,"DATA ENGINEER-Santa Clara, CA",Belden Inc.,"Fremont, CA",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+36,(USA) Senior Data Engineer,Walmart,"Sunnyvale, CA 94087",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+37,Senior Data Engineer,Franklin Energy,"Oakland, CA",15,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+38,Senior Data Engineer,Barracuda Networks Inc.,"Campbell, CA 95008•Remote",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+39,"Software Engineer, Data Infrastructure",LendingClub,"San Francisco, CA",12,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+40,Senior Software Engineer - Data Lake,Snowflake,"San Mateo, CA 94401 (Downtown area)",9,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+41,"Principal Software Engineer-Data Domain, RAID/Storage Pool -...",Dell Technologies,"Santa Clara, CA•Remote",10,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+42,Lead Data Engineer,Mati,"San Francisco, CA 94111 (North Waterfront area)",15,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+43,"Staff Software Engineer : Data Management Services, Core Inf...",Salesforce,"San Francisco, CA 94105 (Financial District/South Beach area)",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+44,VMware Tanzu Data Engineer (Greenplum) - Opportunity for Wor...,VMware,"Palo Alto, CA+1 location•Remote",11,Data+Engineer,San+Francisco+Bay+Area%2C+CA
+45,Global Data Analyst,The Clorox Company,"Pleasanton, CA",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+46,Research Data Analyst,University of California San Francisco,"San Francisco, CA 94143 (Inner Sunset area)+2 locations",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+47,Data Analyst,Epic Games,"San Francisco, CA",13,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+48,Research Data Analyst 1,Stanford University,"Stanford, CA+1 location",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+49,Associate Regulatory Data Analyst,Federal Reserve Bank of San Francisco,"San Francisco, CA (Financial District/South Beach area)•Temporarily Remote",12,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+50,Data Scientist Analyst - Finance,Aviatrix,"Santa Clara, CA",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+51,Lab Analyst I,"Ultra Clean Holdings, Inc.","Fremont, CA 94538",9,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+52,Data Analyst - New Business,"Grammarly, Inc.","San Francisco, CA 94104 (Financial District area)•Remote",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+53,Analyst,Judicial Council of California,"San Francisco, CA 94102 (Tenderloin area)",9,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+54,Senior Workplace Data Analyst,CBRE,"San Francisco, CA 94105 (South Beach area)",12,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+55,"Data Analyst, Payments Risk, Trust and Safety",Google,"Sunnyvale, CA (Lakewood area)",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+56,Remote Sensing Data Analyst,Orbital Sidekick,"San Francisco, CA",3,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+57,Seasonal Business Analyst,Intuit,"Mountain View, CA 94043",14,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+58,Data Insights + Analytics - Associate Regulatory Data Analys...,Federal Reserve Bank of San Francisco,"San Francisco, CA 94105 (Financial District/South Beach area)",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+59,Data Visualization,DISH,"Foster City, CA 94404",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+60,Customer Analyst,Mozart Data,"San Francisco, CA",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+61,Functional Business Analyst Specialist Lead,Kaiser Permanente,"Oakland, CA",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+62,Associate Management Analyst,"City of Berkeley, CA","Berkeley, CA 94704 (Downtown Berkeley area)",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+63,Senior Data Systems Analyst (0599U) 26777,University of California Berkeley,"Berkeley, CA 94720",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+64,"Sr. Business Analyst, Data Governance",Sony Interactive Entertainment PlayStation,"San Mateo, CA",12,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+65,Business Data Analyst,Inxeption,"Brisbane, CA 94005",12,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+66,Data Analytics Specialist,Fragomen,"San Francisco, CA 94105 (Financial District/South Beach area)",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+67,Business Analyst Co-Op,AlignTech,"San Jose, CA 95134 (North San Jose area)",9,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+68,"Data Analyst II- onsite at Client at Sunnyvale, CA",Astreya,"San Jose, CA+1 location",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+69,Risk Analytics Analyst,Visa,"Foster City, CA+1 location",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+70,Program Analyst,Planate Management Group,"Palo Alto, CA",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+71,Senior Data Analyst - Marketing,Pinnacle Group,"Sunnyvale, CA",15,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+72,"Manager, Business Analyst",Gap Inc.,"San Francisco, CA 94105 (Financial District/South Beach area)",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+73,Principal Data Analyst,Afterpay Touch,"San Francisco, CA•Temporarily Remote",12,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+74,"Data Analyst - Security, Integrity, and Investigations",Facebook App,"Menlo Park, CA+3 locations",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+75,Professional Loan Credit Analyst,First Republic Bank,"San Francisco, CA 94111 (Financial District area)+1 location",14,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+76,Business Analyst,Cisco Systems,"San Jose, CA",10,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+77,Senior Data Analyst - FP&A,Celonis SE,"San Francisco, CA",11,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+78,Senior Data Analyst - Office of Economic and Workforce Devel...,City and County of San Francisco,"San Francisco, CA 94102 (Downtown area)",9,Data+Analyst,San+Francisco+Bay+Area%2C+CA
+79,Environmental Justice Associate & Climate Research Associate...,City and County of San Francisco,"San Francisco, CA 94103 (South of Market area)",11,Infrastructure,San+Francisco+Bay+Area%2C+CA
+80,Mailing Machine Operator,"County of Contra Costa, California","Contra Costa County, CA",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+81,"Director, Product Management, Google Coherence Initiative",Google,"Mountain View, CA+1 location",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+82,Design Architect - San Francisco Public Works (5268),City and County of San Francisco,"San Francisco, CA 94103 (Mission area)",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+83,Administrative Services Manager,"County of Marin, CA","Marin County, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+84,Cable Splicer (Specialty A) - Department of Technology (7308...,City and County of San Francisco,"San Francisco, CA 94124 (Bayview Hunters Point area)+1 location",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+85,On-Call Biologist,Jacobs,"Oakland, CA 94602 (Upper Dimond area)",14,Infrastructure,San+Francisco+Bay+Area%2C+CA
+86,Datacenter Technician I,Microsoft,"Santa Clara, CA 95050",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+87,Influencer Marketing Specialist,thredUP Inc,"Oakland, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+88,Front Desk Associate - 6 month contract,RocketPower,"Burlingame, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+89,Office Manager - 6 month contract,RocketPower,"Burlingame, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+90,2022 Computing Sciences Student Program,Lawrence Berkeley National Laboratory,"San Francisco Bay Area, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+91,Temporary Laborer,California Water Service Group (CWSG),"Los Altos, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+92,ASSOCIATE GOVERNMENTAL PROGRAM ANALYST,California Public Utilities Commission,"San Francisco County, CA",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+93,CALTRANS HIGHWAY MAINTENANCE WORKER JC-277786,Caltrans - CA Dept. of Transportation,"San Jose, CA (Downtown area)+2 locations",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+94,Front Desk Associate - 6 month contract,RocketPower,"Burlingame, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+95,"Associate Director, Community & Government Relations, East B...",University of California San Francisco,"San Francisco, CA 94143 (Inner Sunset area)",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+96,Transportation Surveyor JC-275120,Caltrans - CA Dept. of Transportation,"San Jose, CA (Downtown area)",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+97,Facilities Manager- 6 months Contract,RocketPower,"Burlingame, CA",12,Infrastructure,San+Francisco+Bay+Area%2C+CA
+98,IT Business Operations Consultant - REMOTE,Kaiser Permanente,"Pleasanton, CA+1 location•Remote",10,Infrastructure,San+Francisco+Bay+Area%2C+CA
+99,Project Analyst - Real Estate & Infrastructure Construction,Turner & Townsend,"Sunnyvale, CA",11,Infrastructure,San+Francisco+Bay+Area%2C+CA
+100,Project Manager,Ceres Policy Research LLC,"Oakland, CA•Remote",2,Infrastructure,San+Francisco+Bay+Area%2C+CA
+101,Linux System Administrator,"SolGenie Technologies, Inc.","Santa Clara, CA",5,Infrastructure,San+Francisco+Bay+Area%2C+CA
+102,Head of Growth & Marketing,Obviously AI,"San Francisco, CA 94117 (Yerba Buena area)",13,Infrastructure,San+Francisco+Bay+Area%2C+CA
+103,IT Director,Gurnick Academy of Medical Arts,"San Mateo, CA 94401 (North Central area)",5,CIO,San+Francisco+Bay+Area%2C+CA
+104,Senior Director of Information Technology,Good Samaritan Hospital,"San Jose, CA 95124",12,CIO,San+Francisco+Bay+Area%2C+CA
+105,Information Security Director,Peach Finance,"Oakland, CA 94612 (Downtown area)•Remote",10,CIO,San+Francisco+Bay+Area%2C+CA
+106,Chief Information Security Officer (CISO),Earthjustice,"San Francisco, CA 94111 (Financial District area)",15,CIO,San+Francisco+Bay+Area%2C+CA
+107,Senior Director of Information Technology,Good Samaritan Hospital,"San Jose, CA 95124",12,CIO,San+Francisco+Bay+Area%2C+CA
+108,Information Security Director,Peach Finance,"Oakland, CA 94612 (Downtown area)•Remote",10,CIO,San+Francisco+Bay+Area%2C+CA
+109,Chief Information Security Officer (CISO),Earthjustice,"San Francisco, CA 94111 (Financial District area)",15,CIO,San+Francisco+Bay+Area%2C+CA
+110,IT Director,Gurnick Academy of Medical Arts,"San Mateo, CA 94401 (North Central area)",5,CIO,San+Francisco+Bay+Area%2C+CA
+111,Sr. People Operations Generalist (100% Remote),The Mom Project,"Redwood City, CA•Remote",10,AI,San+Francisco+Bay+Area%2C+CA
+112,"Experience Researcher, AI",Adobe,"San Francisco, CA",12,AI,San+Francisco+Bay+Area%2C+CA
+113,AI Residency Program 2022 - US Locations,Facebook App,"Menlo Park, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+114,"Partner SA, Textract, Service Acceleration, APO","Amazon Web Services, Inc.","San Francisco, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+115,"Visiting Researcher, Sociologist",Facebook App,"San Francisco, CA+7 locations",11,AI,San+Francisco+Bay+Area%2C+CA
+116,"Executive Assistant, Alexa AI",Amazon.com Services LLC,"Sunnyvale, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+117,Data Scientist – Deep Learning,Bosch Group,"Sunnyvale, CA 94085 (East Murphy area)",11,AI,San+Francisco+Bay+Area%2C+CA
+118,Associate CIO for Research,University of California San Francisco,"San Francisco, CA 94143 (Inner Sunset area)",9,AI,San+Francisco+Bay+Area%2C+CA
+119,Executive/Personal Assistant to CEO,"JBV Capital, LLC","San Francisco, CA",2,AI,San+Francisco+Bay+Area%2C+CA
+120,"R&D Director, Machine Learning & AI",Prosper,"San Francisco, CA 94105 (Financial District/South Beach area)•Temporarily Remote",9,AI,San+Francisco+Bay+Area%2C+CA
+121,"Staff Software Engineer, Computational Photography",Google,"Mountain View, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+122,"Associate AI Trainer, AI Center of Excellence",Coupa Software,"San Mateo, CA",12,AI,San+Francisco+Bay+Area%2C+CA
+123,"Program Manager, Responsible AI",Facebook App,"Menlo Park, CA+2 locations",11,AI,San+Francisco+Bay+Area%2C+CA
+124,"Visiting Research Engineer, Question Answering & Summarizati...",Facebook App,"Menlo Park, CA+3 locations",11,AI,San+Francisco+Bay+Area%2C+CA
+125,Conversational AI Content Strategist,Facebook App,"San Francisco, CA+1 location",11,AI,San+Francisco+Bay+Area%2C+CA
+126,HR Operations Specialist,Lily AI,"Mountain View, CA",9,AI,San+Francisco+Bay+Area%2C+CA
+127,VP of Operations and People,Securly,"San Jose, CA•Remote",11,AI,San+Francisco+Bay+Area%2C+CA
+128,"Staff Software Engineer, Network AI, Google Cloud",Google,"Mountain View, CA",9,AI,San+Francisco+Bay+Area%2C+CA
+129,"Visiting Scientist, AI",Facebook App,"Menlo Park, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+130,"Research Engineer, Applied Research",OpenAI,"San Francisco, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+131,Data Scientist,Bosch Group,"Sunnyvale, CA 94085 (East Murphy area)+1 location",11,AI,San+Francisco+Bay+Area%2C+CA
+132,"AI/ML Specialist, Distributed","Amazon Web Services, Inc.","Santa Clara, CA 94085",12,AI,San+Francisco+Bay+Area%2C+CA
+133,"Research Scientist, AI (PhD)",Facebook App,"Menlo Park, CA+27 locations",11,AI,San+Francisco+Bay+Area%2C+CA
+134,Visiting Linguist,Facebook App,"Menlo Park, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+135,AI Recruiter - Cybersecurity,Bolster Inc,"Los Altos, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+136,AI/ML Developer Advocate,Facebook App,"Menlo Park, CA",11,AI,San+Francisco+Bay+Area%2C+CA
+137,Data Engineer II - Patient Data / AI / ML,Change Healthcare,"Emeryville, CA+1 location",14,AI,San+Francisco+Bay+Area%2C+CA
+138,"AI Research Scientist - Palo Alto, CA - 2022 ReEntry Program","JPMorgan Chase Bank, N.A.","Palo Alto, CA",9,AI,San+Francisco+Bay+Area%2C+CA
+139,"Product Manager, Data & ML Foundation","Grammarly, Inc.","San Francisco, CA 94104 (Financial District/South Beach area)•Remote",15,AI,San+Francisco+Bay+Area%2C+CA
+140,Data Scientist - AI/ML,Hypersonix Inc.,"San Jose, CA 95131 (North Valley area)+1 location•Remote",10,AI,San+Francisco+Bay+Area%2C+CA
+141,Head of Product Business Development,Intuit,"Mountain View, CA 94043",15,AI,San+Francisco+Bay+Area%2C+CA
+142,Business Transformation Consultant - Automation,IBM,"San Jose, CA 95101 (North Valley area)",11,AI,San+Francisco+Bay+Area%2C+CA
+143,TECHNICAL WRITER (Contract Position),Esperanto.ai,"Mountain View, CA 94040",12,AI,San+Francisco+Bay+Area%2C+CA
+144,Visual Merchandiser,The RealReal,"Larkspur, CA 94939",9,AI,San+Francisco+Bay+Area%2C+CA
+145,Machine Learning Engineer,Moveworks.ai,"Mountain View, CA",12,AI,San+Francisco+Bay+Area%2C+CA
+146,"Product Manager, Computer Perception Technologies, Google Re...",Google,"Mountain View, CA",15,AI,San+Francisco+Bay+Area%2C+CA
+147,"Lead Product Manager, Machine Learning, Kaggle",Google,"San Francisco, CA",9,AI,San+Francisco+Bay+Area%2C+CA
+148,"Machine Learning Modeler, Ecommerce",Square,"San Francisco, CA",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+149,"Experience Researcher, AI",Adobe,"San Francisco, CA",12,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+150,"Lead Product Manager, Machine Learning, Kaggle",Google,"San Francisco, CA",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+151,Machine Learning Engineer,Moveworks.ai,"Mountain View, CA",12,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+152,"Data Scientist - Machine Learning, Creator Analytics","Twitch Interactive, Inc.","San Francisco, CA+5 locations",10,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+153,Full-time Engineering Opportunities - SHPE 2021,Apple,"Cupertino, CA+1 location",14,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+154,Data Scientist – Deep Learning,Bosch Group,"Sunnyvale, CA 94085 (East Murphy area)",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+155,Jr. Developer,Deloitte,"Foster City, CA+1 location",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+156,Project Engineer Associate (Entry Level),LOCKHEED MARTIN CORPORATION,"Sunnyvale, CA 94089 (Lakewood area)",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+157,"Staff Software Engineer, Computational Photography",Google,"Mountain View, CA",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+158,Senior Technical Recruiter (Machine Learning),"Grammarly, Inc.","San Francisco, CA 94104 (Financial District area)•Remote",12,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+159,Chief Data and Learning Officer,UpTogether,"Oakland, CA 94612•Remote",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+160,"Data Analyst, Payments Risk, Trust and Safety",Google,"Sunnyvale, CA (Lakewood area)",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+161,Computational Chemist,HolyGrail,"Mountain View, CA•Remote",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+162,"R&D Director, Machine Learning & AI",Prosper,"San Francisco, CA 94105 (Financial District/South Beach area)•Temporarily Remote",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+163,Machine Learning Engineer,Imagry Inc,"San Jose, CA",3,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+164,Machine Learning Research Engineer,Adobe,"San Jose, CA+1 location",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+165,Data Scientist (associate level),Doorstead,"San Francisco, CA•Remote",8,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+166,Senior Machine Learning Engineer (Marketing Personalization...,Udemy,"Mountain View, CA+3 locations",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+167,"Software Engineer, Reinforcement Learning Engineer",Woven Planet Level 5,"Palo Alto, CA",10,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+168,Senior Data Scientist,Nauto,"Palo Alto, CA+1 location",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+169,Research Scientist - Statistical Learning and Experimentatio...,Facebook App,"San Francisco, CA+55 locations",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+170,"Visiting Researcher, Sociologist",Facebook App,"San Francisco, CA+9 locations",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+171,"Lead Product Manager, Machine Learning, Kaggle",Google,"San Francisco, CA",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+172,Project Engineer Associate (Entry Level),LOCKHEED MARTIN CORPORATION,"Sunnyvale, CA 94089 (Lakewood area)",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+173,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"San Francisco, CA•Remote",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+174,"Tech Bus Services Princ Associate- Machine Learning, Artific...",Wells Fargo,"San Francisco, CA",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+175,RWD Data Scientist,Roche,"South San Francisco, CA 94080",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+176,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"San Jose, CA 95131 (North Valley area)+1 location",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+177,"Senior Machine Learning Engineer (Modeling), Cash App",Cash App,"San Francisco, CA 94103 (South of Market area)",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+178,"Product Manager, Data & ML Foundation","Grammarly, Inc.","San Francisco, CA 94104 (Financial District/South Beach area)•Remote",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+179,Software Engineer,Ambarella,"Santa Clara, CA",9,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+180,"Research Engineer, Applied Research",OpenAI,"San Francisco, CA",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+181,Engineering Manager - Machine Learning,Afresh,"San Francisco, CA+2 locations",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+182,Data Visualization,DISH,"Foster City, CA 94404",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+183,Physical Scientist,LeoLabs,"Menlo Park, CA",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+184,Senior Data Scientist,PayPal,"San Jose, CA 95131 (North Valley area)",10,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+185,Machine learning software engineer (experienced),Cadence Design Systems,"San Jose, CA 95134 (North San Jose area)",15,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+186,Senior Machine Learning Engineer,wepay,"Redwood City, CA 94063 (Downtown area)",11,Machine+Learning,San+Francisco+Bay+Area%2C+CA
+187,Sr. Data Engineer (Data Scientist) - 2 Roles Open,Sendlane,"San Diego, CA",10,Data+Engineer,San+Diego%2C+CA
+188,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Data+Engineer,San+Diego%2C+CA
+189,Associate Data Engineer - Analytics,CoStar Group,"San Diego, CA 92122",15,Data+Engineer,San+Diego%2C+CA
+190,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"San Diego, CA 92101 (Marina area)",9,Data+Engineer,San+Diego%2C+CA
+191,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",14,Data+Engineer,San+Diego%2C+CA
+192,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Data+Engineer,San+Diego%2C+CA
+193,Sr. Data Engineer,NTT DATA,"Carlsbad, CA 92008",10,Data+Engineer,San+Diego%2C+CA
+194,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Data+Engineer,San+Diego%2C+CA
+195,"Associate, Software Engineer - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Data+Engineer,San+Diego%2C+CA
+196,Cyber Security Data Engineer University Grad,ViaSat,"Carlsbad, CA",11,Data+Engineer,San+Diego%2C+CA
+197,Data Engineer,ACL Digital,"San Diego, CA 92109",3,Data+Engineer,San+Diego%2C+CA
+198,Hadoop Data Engineer,Techwave Consulting Inc.,"San Diego, CA 92101",15,Data+Engineer,San+Diego%2C+CA
+199,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",14,Data+Engineer,San+Diego%2C+CA
+200,Sr. Data Engineer (Data Scientist) - 2 Roles Open,Sendlane,"San Diego, CA",10,Data+Engineer,San+Diego%2C+CA
+201,Associate Data Engineer - Analytics,CoStar Group,"San Diego, CA 92122",15,Data+Engineer,San+Diego%2C+CA
+202,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"San Diego, CA 92101 (Marina area)",9,Data+Engineer,San+Diego%2C+CA
+203,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",14,Data+Engineer,San+Diego%2C+CA
+204,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"San Diego, CA 92121 (Core-Columbia area)+1 location",14,Data+Engineer,San+Diego%2C+CA
+205,Sr. Data Engineer,NTT DATA,"Carlsbad, CA 92008",10,Data+Engineer,San+Diego%2C+CA
+206,Cyber Security Data Engineer University Grad,ViaSat,"Carlsbad, CA",11,Data+Engineer,San+Diego%2C+CA
+207,Data Engineer,ACL Digital,"San Diego, CA 92109",3,Data+Engineer,San+Diego%2C+CA
+208,Hadoop Data Engineer,Techwave Consulting Inc.,"San Diego, CA 92101+1 location",15,Data+Engineer,San+Diego%2C+CA
+209,LMS Data Analyst,Institutional Shareholder Services,"San Diego, CA",15,Data+Analyst,San+Diego%2C+CA
+210,Data Analyst,Leidos,"San Diego, CA 92121 (University City area)•Temporarily Remote",9,Data+Analyst,San+Diego%2C+CA
+211,Financial Analyst,Rady Children's Physician Management Services,"Kearny Mesa, CA",12,Data+Analyst,San+Diego%2C+CA
+212,Data Analyst,Tetra Tech Inc.,California,3,Data+Analyst,San+Diego%2C+CA
+213,Customer Retention Data Analyst,ViaSat,"Carlsbad, CA",11,Data+Analyst,San+Diego%2C+CA
+214,Data Analyst,MPF Federal LLC,"San Diego, CA 92102•Remote",12,Data+Analyst,San+Diego%2C+CA
+215,Business Analyst,PeopleCaddie,"San Diego, CA",13,Data+Analyst,San+Diego%2C+CA
+216,Business Analyst,Kyriba,"San Diego, CA 92121 (University City area)",10,Data+Analyst,San+Diego%2C+CA
+217,Data Analytics Specialist,PeopleCaddie,"San Diego, CA",13,Data+Analyst,San+Diego%2C+CA
+218,Data Analyst University Grad,ViaSat,"Carlsbad, CA+1 location",11,Data+Analyst,San+Diego%2C+CA
+219,Portfolio Reporting Analyst,Ascent Funding,"San Diego, CA 92101 (Core-Columbia area)",4,Data+Analyst,San+Diego%2C+CA
+220,Data Security Analyst,Financial Services Client,"San Diego, CA•Remote",3,Data+Analyst,San+Diego%2C+CA
+221,Assistant Financial Analyst,UC San Diego,"San Diego, CA (University City area)",15,Data+Analyst,San+Diego%2C+CA
+222,Data Specialist,Veterans Village of San Diego (VVSD),"San Diego, CA 92110 (Mission Hills area)",11,Data+Analyst,San+Diego%2C+CA
+223,Business Data Analyst 2,Illumina,"San Diego, CA",9,Data+Analyst,San+Diego%2C+CA
+224,Seasonal Business Analyst,Intuit,"San Diego, CA 92129 (Torrey Highlands area)",14,Data+Analyst,San+Diego%2C+CA
+225,Logistics Program Analyst University Grad,ViaSat,"Carlsbad, CA",11,Data+Analyst,San+Diego%2C+CA
+226,Senior Game Data Analyst,Amazon.com Services LLC,"San Diego, CA",15,Data+Analyst,San+Diego%2C+CA
+227,Process Analyst Associate,ICW Group,"San Diego, CA 92128",10,Data+Analyst,San+Diego%2C+CA
+228,Project Controls Analyst,AECOM,"San Diego, CA 92108",9,Data+Analyst,San+Diego%2C+CA
+229,Sales Business Analyst,Milton's Baking,"Carlsbad, CA 92008 (North Beach area)",6,Data+Analyst,San+Diego%2C+CA
+230,Portfolio Reporting Analyst,The Goal Family of Companies,"San Diego, CA 92101",12,Data+Analyst,San+Diego%2C+CA
+231,Process Analyst Associate,"ICW Group Holdings, Inc","San Diego, CA 92128",10,Data+Analyst,San+Diego%2C+CA
+232,Business Analyst,Premier Business Support,"San Diego, CA 92108",9,Data+Analyst,San+Diego%2C+CA
+233,Senior Data Analyst,Lytx,"San Diego, CA",12,Data+Analyst,San+Diego%2C+CA
+234,Sales and Operations Analyst,Boochcraft,"San Diego, CA",15,Data+Analyst,San+Diego%2C+CA
+235,"Professional, Business Analysis",CoreLogic,"San Diego, CA 92131 (Scripps Ranch area)",12,Data+Analyst,San+Diego%2C+CA
+236,Sales Analyst,NuFACE,"Vista, CA",12,Data+Analyst,San+Diego%2C+CA
+237,Business Analyst ? Procurement,4Liberty,"San Diego, CA 92123",11,Data+Analyst,San+Diego%2C+CA
+238,Global Chief Data Office Insights Analyst,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+2 locations",10,Data+Analyst,San+Diego%2C+CA
+239,Sr. Data Analyst,Thermo Fisher Scientific,"Carlsbad, CA",15,Data+Analyst,San+Diego%2C+CA
+240,Senior Business Analyst,Veyo Logistics,"San Diego, CA",12,Data+Analyst,San+Diego%2C+CA
+241,Program Analyst - Advanced Diagnostics Team,"Qualcomm Technologies, Inc.","San Diego, CA",12,Data+Analyst,San+Diego%2C+CA
+242,Staff Financial Analyst --Revenue Forecasting,Qualcomm Incorporated,"San Diego, CA",12,Data+Analyst,San+Diego%2C+CA
+243,Transformation Business Analyst,National University,"San Diego, CA 92106",12,Data+Analyst,San+Diego%2C+CA
+244,Specialist - Business Analysis,BNY Mellon,"San Diego, CA 92130 (Carmel Valley area)",15,Data+Analyst,San+Diego%2C+CA
+245,"Director, Data Analytics",Element Biosciences,"San Diego, CA",15,Data+Analyst,San+Diego%2C+CA
+246,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"San Diego, CA 92101 (Marina area)",9,Data+Analyst,San+Diego%2C+CA
+247,OFRO SNAP Data Analysis & Modeling Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,Data+Analyst,San+Diego%2C+CA
+248,Senior Business Intelligence Analyst,UC San Diego,"San Diego, CA 92103 (Hillcrest area)",11,Data+Analyst,San+Diego%2C+CA
+249,Staff Business Analyst,Dexcom,"San Diego, CA",9,Data+Analyst,San+Diego%2C+CA
+250,Lead BISO Analyst (Enabling Areas),Deloitte,"San Diego, CA 92101 (Marina area)",10,Data+Analyst,San+Diego%2C+CA
+251,Price/Cost Analyst,General Atomics and Affiliated Companies,"San Diego, CA",14,Data+Analyst,San+Diego%2C+CA
+252,SR Analyst – BRT- Business Reinvention Team,LPL Financial,"San Diego, CA",9,Data+Analyst,San+Diego%2C+CA
+253,Data Analytics Manager,Collins Aerospace,"Chula Vista, CA",10,Data+Analyst,San+Diego%2C+CA
+254,"Associate Director, Clinical Data Reporting and Analytics",Bristol Myers Squibb,"San Diego, CA",9,Data+Analyst,San+Diego%2C+CA
+255,Sr. Business Analyst - Salesforce,Zscaler,"San Diego, CA•Remote",14,Data+Analyst,San+Diego%2C+CA
+256,User Experience (UX)/ Business Analyst (BA),"Kleinfelder, Inc.","San Diego, CA",10,Data+Analyst,San+Diego%2C+CA
+257,BOS Platform Business Analyst,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,Data+Analyst,San+Diego%2C+CA
+258,"Senior Manager, Business Analyst",ViaSat,"San Diego, CA",11,Data+Analyst,San+Diego%2C+CA
+259,Board Certified Behavior Analyst (BCBA),Achieve Beyond Pediatric Therapy & Autism Services,"San Diego, CA",15,Data+Analyst,San+Diego%2C+CA
+260,Fixed Term - PwC Technology - Business Analyst,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,Data+Analyst,San+Diego%2C+CA
+261,Service Desk Technician,Locana,"San Diego, CA",12,Infrastructure,San+Diego%2C+CA
+262,Soils Technician,Atlas Technical Consultants,"San Diego, CA 92120 (Grantville area)",3,Infrastructure,San+Diego%2C+CA
+263,Digital Marketing Specialist,UC San Diego,"San Diego, CA 92093 (Torrey Pines area)",10,Infrastructure,San+Diego%2C+CA
+264,Utility Locator,Otay Water District,"San Diego, CA",11,Infrastructure,San+Diego%2C+CA
+265,Data Analyst,Tetra Tech Inc.,California,3,Infrastructure,San+Diego%2C+CA
+266,Hardware Engineer - Entry Level (San Diego),Apple,"San Diego, CA",9,Infrastructure,San+Diego%2C+CA
+267,"Operations Coordinator, San Diego",Lime,"San Diego, CA",11,Infrastructure,San+Diego%2C+CA
+268,Level 1 Help Desk Technician,ISD Solutions,"San Diego, CA 92123",3,Infrastructure,San+Diego%2C+CA
+269,Building Service Engineer,San Diego State University,"San Diego, CA 92182 (College West area)",10,Infrastructure,San+Diego%2C+CA
+270,Facilities Director,EF Education First,"San Diego, CA 92110 (Midway District area)",14,Infrastructure,San+Diego%2C+CA
+271,Mechanical Construction Inspector- Water Infrastructure,"Parsons Group, Inc.","San Diego, CA 92101 (Core-Columbia area)",4,Infrastructure,San+Diego%2C+CA
+272,Research Associate – Assay Development II,Abbott Laboratories,"San Diego, CA",12,Infrastructure,San+Diego%2C+CA
+273,Production Technicians,Tetra Tech,"San Diego, CA",10,Infrastructure,San+Diego%2C+CA
+274,Software Developer Entrepreneurial Opportunity for Purpose-D...,Tramigo,"San Diego, CA 92101 (Park West area)",4,Infrastructure,San+Diego%2C+CA
+275,Client Services Associate,Red Door Interactive,"San Diego, CA 92101 (East Village area)",9,Infrastructure,San+Diego%2C+CA
+276,Contract Compliance Analyst/Coordinator,IBI Group,"San Diego, CA 92101 (Core-Columbia area)•Temporarily Remote",9,Infrastructure,San+Diego%2C+CA
+277,"Manager, Branch Operations I",Core & Main,"San Diego, CA 92114 (Encanto area)+1 location",9,Infrastructure,San+Diego%2C+CA
+278,Hardware Engineer - Entry Level (San Diego),Apple,"San Diego, CA",9,Infrastructure,San+Diego%2C+CA
+279,Associate TMO Analyst,Deloitte,"San Diego, CA 92101 (Marina area)",13,Infrastructure,San+Diego%2C+CA
+280,Project Controls Analyst,AECOM,"San Diego, CA 92108",9,Infrastructure,San+Diego%2C+CA
+281,Data Analyst,Tetra Tech Inc.,California,3,Infrastructure,San+Diego%2C+CA
+282,Laborer IV,North Wind Group,"San Diego, CA",11,Infrastructure,San+Diego%2C+CA
+283,Mechanical Construction Inspector- Water Infrastructure,"Parsons Group, Inc.","San Diego, CA 92101 (Core-Columbia area)",4,Infrastructure,San+Diego%2C+CA
+284,Infrastructure Engineer,Sigma Connectivity,"San Diego, CA",15,Infrastructure,San+Diego%2C+CA
+285,Consultant Professional Services,AT&T,"San Diego, CA",14,Infrastructure,San+Diego%2C+CA
+286,Staff Geologist,AECOM,"San Diego, CA 92108",11,Infrastructure,San+Diego%2C+CA
+287,Manufacturing Supervisor,SeeScan,"San Diego, CA 92123 (Kearny Mesa area)",15,Infrastructure,San+Diego%2C+CA
+288,Recruiter - Consumer & Small Business Banking - Regional Rec...,Wells Fargo,"San Diego, CA+1 location",11,Infrastructure,San+Diego%2C+CA
+289,Building Service Engineer,California State University,"San Diego, CA",10,Infrastructure,San+Diego%2C+CA
+290,Clinical Informatics Specialist,Accenture,"San Diego, CA",12,AI,San+Diego%2C+CA
+291,Systems Engineer,Booz Allen Hamilton,"San Diego, CA 92108 (Mission Valley East area)",10,AI,San+Diego%2C+CA
+292,"Head of Finance, Sleep & Resipiratory Care",ResMed,"San Diego, CA 92123 (Kearny Mesa area)•Remote",15,AI,San+Diego%2C+CA
+293,Data Analyst University Grad,ViaSat,"Carlsbad, CA",11,AI,San+Diego%2C+CA
+294,Software Engineer University Grad,ViaSat,"Carlsbad, CA+1 location•Remote",11,AI,San+Diego%2C+CA
+295,"Data Scientist, Consultant",Deloitte,"San Diego, CA 92101 (Marina area)+3 locations",10,AI,San+Diego%2C+CA
+296,Business Applications Scrum Master,ViaSat,"San Diego, CA",11,AI,San+Diego%2C+CA
+297,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"San Diego, CA 92121",12,AI,San+Diego%2C+CA
+298,"Sr. Program Manager, Abuse Prevention",Amazon.com Services LLC,"San Diego, CA",9,AI,San+Diego%2C+CA
+299,Machine Learning Developer University Grad,ViaSat,"Carlsbad, CA",11,AI,San+Diego%2C+CA
+300,Assistant Professor: Renewable Energy,San Diego State University,"San Diego, CA 92182 (College West area)",10,AI,San+Diego%2C+CA
+301,Senior Algorithms Engineer,ViaSat,"Carlsbad, CA",11,AI,San+Diego%2C+CA
+302,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"Carlsbad, CA•Remote",15,AI,San+Diego%2C+CA
+303,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+304,Digital Strategy Manager,Accenture,"San Diego, CA",11,AI,San+Diego%2C+CA
+305,"Sr. Manager, Program Advisory & Delivery",Deloitte,"San Diego, CA 92101 (Marina area)",14,AI,San+Diego%2C+CA
+306,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"San Diego, CA 92101 (Marina area)",9,AI,San+Diego%2C+CA
+307,Virtual Senior AI/ML Ops,Deloitte,"San Diego, CA 92101 (Marina area)",15,AI,San+Diego%2C+CA
+308,PwC Digital Products - Product Operations Manager,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+309,"Commercial Analyst III, Clinical Diagnostics Division",Thermo Fisher Scientific,"San Diego, CA",11,AI,San+Diego%2C+CA
+310,"VP, Commercial Analytics and Insights",Illumina,"San Diego, CA",14,AI,San+Diego%2C+CA
+311,"Senior Manager, Commercial Excellence",Thermo Fisher Scientific,"Carlsbad, CA•Remote",11,AI,San+Diego%2C+CA
+312,"Senior Scientist, Data Science",Johnson & Johnson Family of Companies,"San Diego, CA",10,AI,San+Diego%2C+CA
+313,Data Engineering Manager,ViaSat,"San Diego, CA",11,AI,San+Diego%2C+CA
+314,Sr Patent Agent I-Remote,Thermo Fisher Scientific,"Carlsbad, CA•Remote",11,AI,San+Diego%2C+CA
+315,Data Engineering Consultant,Accenture,"San Diego, CA+1 location",9,AI,San+Diego%2C+CA
+316,Associate/Full Professor: Digital Signal Processing,San Diego State University,"San Diego, CA 92182 (College West area)",15,AI,San+Diego%2C+CA
+317,Cyber Security Project Engineer,ViaSat,"Carlsbad, CA+1 location",11,AI,San+Diego%2C+CA
+318,Full Stack Developer,Trabus Technologies,"San Diego, CA 92108 (Mission Valley West area)",11,AI,San+Diego%2C+CA
+319,"Data Privacy Sr Associate - Governance, Privacy & Ethics - P...",PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+320,Alliance Manager - GPS Strategy & Analytics - Informatica/Sn...,Deloitte,"San Diego, CA 92101 (Marina area)",14,AI,San+Diego%2C+CA
+321,PwC Digital Products - Back End Developer - Sr. Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+322,Senior Advanced Software Engineer,WarnerMedia,"Carlsbad, CA 92008 (Village area)",11,AI,San+Diego%2C+CA
+323,Autonomy and ADAS R&D Systems Engineer,"Qualcomm Technologies, Inc.","San Diego, CA",12,AI,San+Diego%2C+CA
+324,Senior Satellite Communications Security Engineer,Leidos,"San Diego, CA 92121 (University City area)",12,AI,San+Diego%2C+CA
+325,PwC Digital - QA Lead - Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,AI,San+Diego%2C+CA
+326,PwC Digital Upskilling-Data Scientist-Senior Manager,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+327,SAP Hyperscaler Architect Director,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+2 locations",10,AI,San+Diego%2C+CA
+328,Technical Lead,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,AI,San+Diego%2C+CA
+329,PwC Digital - DevOps - Sr. Manager,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+330,UX Design - Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+331,SAP UX Architect Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,AI,San+Diego%2C+CA
+332,Senior Solutions Architect,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,AI,San+Diego%2C+CA
+333,Recruiting Coordinator,TuSimple,"San Diego, CA+1 location",12,AI,San+Diego%2C+CA
+334,Deal Data Assistant,Gunderson Dettmer,"San Diego, CA 92130",15,AI,San+Diego%2C+CA
+335,Digital Learning Analyst,EDF Renewables,"San Diego, CA•Remote",15,AI,San+Diego%2C+CA
+336,Crypto Quant trader/ NFT Trader / Crypto Portfolio Manager,HedgeFund,"San Diego, CA•Remote",7,AI,San+Diego%2C+CA
+337,Staff Software Engineer - Ads Team,Indeed,"San Diego, CA",9,Machine+Learning,San+Diego%2C+CA
+338,Software Developer Entrepreneurial Opportunity for Purpose-D...,Tramigo,"San Diego, CA 92101 (Park West area)",4,Machine+Learning,San+Diego%2C+CA
+339,"Machine Learning Engineer II, Private Brands Foundational Se...",Amazon.com Services LLC,"San Diego, CA+1 location",10,Machine+Learning,San+Diego%2C+CA
+340,Program Analyst - Machine Learning Platform,TuSimple,"San Diego, CA",15,Machine+Learning,San+Diego%2C+CA
+341,Camera Algorithms Engineer,Apple,"San Diego, CA",9,Machine+Learning,San+Diego%2C+CA
+342,Full Stack Engineer,Apple,"San Diego, CA",15,Machine+Learning,San+Diego%2C+CA
+343,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"San Diego, CA 92121",12,Machine+Learning,San+Diego%2C+CA
+344,Machine Learning Developer University Grad,ViaSat,"Carlsbad, CA",11,Machine+Learning,San+Diego%2C+CA
+345,Scientist I (Oral Formulation Development),Catalent Pharma Solutions,"San Diego, CA",11,Machine+Learning,San+Diego%2C+CA
+346,Systems Engineer,Booz Allen Hamilton,"San Diego, CA 92108 (Mission Valley East area)",10,Machine+Learning,San+Diego%2C+CA
+347,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Machine+Learning,San+Diego%2C+CA
+348,"Software Development Engineer, Buyer Abuse",Amazon.com Services LLC,"San Diego, CA",15,Machine+Learning,San+Diego%2C+CA
+349,"Data Scientist, Consultant",Deloitte,"San Diego, CA 92101 (Marina area)+3 locations",10,Machine+Learning,San+Diego%2C+CA
+350,Software Engineer University Grad,ViaSat,"Carlsbad, CA+2 locations•Remote",11,Machine+Learning,San+Diego%2C+CA
+351,"Sr. Scientist, Spray Drying Center of Excellence",Catalent Pharma Solutions,"San Diego, CA•Remote",11,Machine+Learning,San+Diego%2C+CA
+352,"Applied Scientist, Perfect Order Experience",Amazon.com Services LLC,"San Diego, CA",11,Machine+Learning,San+Diego%2C+CA
+353,Deal Data Assistant,Gunderson Dettmer,"San Diego, CA 92130",15,Machine+Learning,San+Diego%2C+CA
+354,"Software Engineer II, Camera 3A, Pixel",Google,"San Diego, CA (Sorrento Valley area)",12,Machine+Learning,San+Diego%2C+CA
+355,Manager 2 Data and Analytics,Intuit,"San Diego, CA 92129 (Torrey Highlands area)",14,Machine+Learning,San+Diego%2C+CA
+356,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"Carlsbad, CA•Remote",15,Machine+Learning,San+Diego%2C+CA
+357,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"San Diego, CA 92101 (Marina area)",9,Machine+Learning,San+Diego%2C+CA
+358,Data Scientist University Grad,ViaSat,"Carlsbad, CA+1 location",11,Machine+Learning,San+Diego%2C+CA
+359,"Sr. Program Manager, Abuse Prevention",Amazon.com Services LLC,"San Diego, CA",9,Machine+Learning,San+Diego%2C+CA
+360,Cybersecurity Analyst - San Diego,La Jolla Logic,"San Diego, CA 92110 (Old Town area)",15,Machine+Learning,San+Diego%2C+CA
+361,"Senior Scientist, Data Science",Johnson & Johnson Family of Companies,"San Diego, CA",10,Machine+Learning,San+Diego%2C+CA
+362,Data Analyst University Grad,ViaSat,"Carlsbad, CA",11,Machine+Learning,San+Diego%2C+CA
+363,Full Stack Software Engineer,ViaSat,"Carlsbad, CA",11,Machine+Learning,San+Diego%2C+CA
+364,Principal Software Engineer,opentext,"San Diego, CA",11,Machine+Learning,San+Diego%2C+CA
+365,Mobile Technical Lead,Linus Health,"San Diego, CA•Remote",15,Machine+Learning,San+Diego%2C+CA
+366,Cyber Threat Intelligence Analyst,ViaSat,"Carlsbad, CA",11,Machine+Learning,San+Diego%2C+CA
+367,GCP Data Engineering Consultant,Accenture,"San Diego, CA+1 location",9,Machine+Learning,San+Diego%2C+CA
+368,Virtual Senior AI/ML Ops,Deloitte,"San Diego, CA 92101 (Marina area)",15,Machine+Learning,San+Diego%2C+CA
+369,Full Stack Developer,Trabus Technologies,"San Diego, CA 92108 (Mission Valley West area)",11,Machine+Learning,San+Diego%2C+CA
+370,Customer Transformation Data Scientist - Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,Machine+Learning,San+Diego%2C+CA
+371,Cyber Security Engineer,ViaSat,"San Diego, CA+1 location•Remote",11,Machine+Learning,San+Diego%2C+CA
+372,"Data Privacy Sr Associate - Governance, Privacy & Ethics - P...",PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+1 location",10,Machine+Learning,San+Diego%2C+CA
+373,Senior Algorithms Engineer,ViaSat,"Carlsbad, CA",11,Machine+Learning,San+Diego%2C+CA
+374,"Senior Manager, Business Analyst",ViaSat,"San Diego, CA",11,Machine+Learning,San+Diego%2C+CA
+375,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,Machine+Learning,San+Diego%2C+CA
+376,Autonomy and ADAS R&D Systems Engineer,"Qualcomm Technologies, Inc.","San Diego, CA",12,Machine+Learning,San+Diego%2C+CA
+377,Mid-Level Software Engineer,ViaSat,"Carlsbad, CA•Remote",11,Machine+Learning,San+Diego%2C+CA
+378,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"San Diego, CA 92121 (Core-Columbia area)",14,Machine+Learning,San+Diego%2C+CA
+379,PwC Digital - Fullstack Developer Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+3 locations",10,Machine+Learning,San+Diego%2C+CA
+380,SAP Hyperscaler Architect Director,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)+2 locations",10,Machine+Learning,San+Diego%2C+CA
+381,Sr. Data Engineer,NTT DATA,"Carlsbad, CA 92008",10,Machine+Learning,San+Diego%2C+CA
+382,Oracle Finance Cloud Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",10,Machine+Learning,San+Diego%2C+CA
+383,"Software Engineer, Data",Tinder,"Los Angeles, CA",15,Data+Engineer,Los+Angeles%2C+CA
+384,"Associate, Software Engineer - Advisory Data Organization",KPMG,"Los Angeles, CA 90071 (Downtown area)+1 location",14,Data+Engineer,Los+Angeles%2C+CA
+385,Data Engineer,"TAE Technologies, Inc.","Foothill Ranch, CA 92610+1 location",10,Data+Engineer,Los+Angeles%2C+CA
+386,"Associate, Snowflake Data Engineer",KPMG,"Los Angeles, CA 90071 (Downtown area)+1 location",9,Data+Engineer,Los+Angeles%2C+CA
+387,Data Engineer,Medtronic,"Northridge, CA 91325",9,Data+Engineer,Los+Angeles%2C+CA
+388,Data Engineer 1,Providence,"Irvine, CA 92604+2 locations",10,Data+Engineer,Los+Angeles%2C+CA
+389,Data Engineer,Amazon.com Services LLC,"Santa Monica, CA 90404 (Mid-City area)+5 locations",15,Data+Engineer,Los+Angeles%2C+CA
+390,Remote Data Test Engineer,Pluto TV,"Los Angeles, CA 90069•Remote",11,Data+Engineer,Los+Angeles%2C+CA
+391,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"Los Angeles, CA 90071 (Downtown area)+1 location",14,Data+Engineer,Los+Angeles%2C+CA
+392,"Data Engineer, Product Analytics",Facebook App,"Los Angeles, CA+1 location",11,Data+Engineer,Los+Angeles%2C+CA
+393,Senior Google Cloud Platform Data Engineer,Verizon,"Irvine, CA 92618+12 locations",10,Data+Engineer,Los+Angeles%2C+CA
+394,Senior Data Engineer,Trupanion,"Los Angeles, CA 90001•Remote",12,Data+Engineer,Los+Angeles%2C+CA
+395,Data Engineer,"American Honda Motor Co., Inc.","Torrance, CA 90501",11,Data+Engineer,Los+Angeles%2C+CA
+396,Data Engineer,The Wonderful Company,"Los Angeles, CA",15,Data+Engineer,Los+Angeles%2C+CA
+397,REMOTE - Senior Data Solutions Engineer,First American,"Santa Ana, CA 92707•Remote",15,Data+Engineer,Los+Angeles%2C+CA
+398,Sr. Data Engineer,WarnerMedia,"Culver City, CA+2 locations",11,Data+Engineer,Los+Angeles%2C+CA
+399,Sr. Data Protection Systems Engineer,Dell Technologies,"Orange County, CA",10,Data+Engineer,Los+Angeles%2C+CA
+400,Data Engineer,"Hitachi America, Ltd.","Cerritos, CA 90703•Remote",15,Data+Engineer,Los+Angeles%2C+CA
+401,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"Los Angeles, CA 90013 (Downtown area)",9,Data+Engineer,Los+Angeles%2C+CA
+402,Senior Data Engineer,Frontier Communications,"Los Angeles, CA•Remote",12,Data+Engineer,Los+Angeles%2C+CA
+403,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"Los Angeles, CA 90071 (Downtown area)+3 locations",14,Data+Engineer,Los+Angeles%2C+CA
+404,Senior Data Engineer- Data Streaming,Pluto TV,"Los Angeles, CA 90069",13,Data+Engineer,Los+Angeles%2C+CA
+405,Software Engineer - Routing and Data Path,Facebook App,"Northridge, CA",11,Data+Engineer,Los+Angeles%2C+CA
+406,Principal Test & Evaluation Data Operations and Instrumentat...,Supernal,"Irvine, CA",11,Data+Engineer,Los+Angeles%2C+CA
+407,Senior Data Engineer,System1,"Los Angeles, CA",10,Data+Engineer,Los+Angeles%2C+CA
+408,Senior Data Engineer- (Remote),Abbvie,"Irvine, CA•Remote",12,Data+Engineer,Los+Angeles%2C+CA
+409,Senior Data Engineer,Frontier Communications,"Los Angeles, CA•Remote",12,Data+Engineer,Los+Angeles%2C+CA
+410,Sr. Data Engineer,WarnerMedia,"Culver City, CA+2 locations",11,Data+Engineer,Los+Angeles%2C+CA
+411,Senior Data Engineer- (Remote),Abbvie,"Irvine, CA•Remote",12,Data+Engineer,Los+Angeles%2C+CA
+412,Senior Data Engineer,System1,"Los Angeles, CA",10,Data+Engineer,Los+Angeles%2C+CA
+413,REMOTE - Senior Data Solutions Engineer,First American,"Santa Ana, CA 92707•Remote",15,Data+Engineer,Los+Angeles%2C+CA
+414,Senior Data Engineer- Data Streaming,Pluto TV,"Los Angeles, CA 90069",13,Data+Engineer,Los+Angeles%2C+CA
+415,Software Engineer - Routing and Data Path,Facebook App,"Northridge, CA",11,Data+Engineer,Los+Angeles%2C+CA
+416,Data Protection Engineer,OSI Digital,"Irvine, CA",9,Data+Engineer,Los+Angeles%2C+CA
+417,Sr. Data Engineer,Supernal,"Irvine, CA",11,Data+Engineer,Los+Angeles%2C+CA
+418,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"Seal Beach, CA 90740+1 location",14,Data+Engineer,Los+Angeles%2C+CA
+419,Sr. Data Protection Systems Engineer,Dell Technologies,"Orange County, CA",10,Data+Engineer,Los+Angeles%2C+CA
+420,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"Seal Beach, CA 90740+1 location",14,Data+Engineer,Los+Angeles%2C+CA
+421,Principal Test & Evaluation Data Operations and Instrumentat...,Supernal,"Irvine, CA",11,Data+Engineer,Los+Angeles%2C+CA
+422,Sr Staff Data Engineer,WarnerMedia,"Culver City, CA",11,Data+Engineer,Los+Angeles%2C+CA
+423,Data Analyst,ABC Entertainment,"Burbank, CA",11,Data+Analyst,Los+Angeles%2C+CA
+424,Data Analyst,Disney Streaming,"Santa Monica, CA",9,Data+Analyst,Los+Angeles%2C+CA
+425,Data Analyst,Hulu,"Santa Monica, CA 90404",9,Data+Analyst,Los+Angeles%2C+CA
+426,Data Analyst,Trusted Media Brands,"Westlake Village, CA",10,Data+Analyst,Los+Angeles%2C+CA
+427,"Game Data Analyst, Kids Games",Amazon.com Services LLC,"Culver City, CA 90230",11,Data+Analyst,Los+Angeles%2C+CA
+428,Data Analyst,Deluxe Entertainment,"Burbank, CA",12,Data+Analyst,Los+Angeles%2C+CA
+429,Senior Business Data Analyst - Data & Analytical Capabilitie...,Intuit,"Los Angeles, CA (Woodland Hills area)+1 location",12,Data+Analyst,Los+Angeles%2C+CA
+430,Sales Data Analyst,Capital Group,"Irvine, CA 92618•Temporarily Remote",10,Data+Analyst,Los+Angeles%2C+CA
+431,Data Analyst,Bridg,"Los Angeles, CA 90064 (Sawtelle area)",10,Data+Analyst,Los+Angeles%2C+CA
+432,"People Analyst, Strategy, Planning, and Analysis, Recruiting",Google,"Los Angeles, CA (Venice area)",15,Data+Analyst,Los+Angeles%2C+CA
+433,"Data Analyst, Rights Management",WarnerMedia,"Playa Vista, CA 90094",11,Data+Analyst,Los+Angeles%2C+CA
+434,Senior Data Analyst (Remote),Molina Healthcare,"Long Beach, CA 90802•Remote",10,Data+Analyst,Los+Angeles%2C+CA
+435,Data Analyst Wizarding World Digital,WarnerMedia,"Burbank, CA 91505",11,Data+Analyst,Los+Angeles%2C+CA
+436,Clinical Data Analyst II (Temporary),L.A. Care Health Plan,"Los Angeles, CA 90017 (Westlake area)",9,Data+Analyst,Los+Angeles%2C+CA
+437,ADMINISTRATIVE ANALYST (TEMPORARY FOR CUSTOMER EXPERIENCE),Los Angeles County Metropolitan Transportation...,"Los Angeles County, CA",15,Data+Analyst,Los+Angeles%2C+CA
+438,Seasonal Business Analyst,Intuit,"Los Angeles, CA (Woodland Hills area)",14,Data+Analyst,Los+Angeles%2C+CA
+439,Data Analyst,"Avetta, LLC","Irvine, CA 92614 (San Joaquin Marsh area)",9,Data+Analyst,Los+Angeles%2C+CA
+440,Business Intelligence Analyst,California State University,"Pomona, CA",11,Data+Analyst,Los+Angeles%2C+CA
+441,ICTS Research Data Analyst,University of California - Irvine,"Irvine, CA+1 location",11,Data+Analyst,Los+Angeles%2C+CA
+442,QC Analyst I,Abbott Laboratories,"Pomona, CA",11,Data+Analyst,Los+Angeles%2C+CA
+443,Business Data Analyst,Carfax,"Ontario, CA•Temporarily Remote",15,Data+Analyst,Los+Angeles%2C+CA
+444,Data Analyst 4,Western Digital,"Irvine, CA",11,Data+Analyst,Los+Angeles%2C+CA
+445,Clinical Data Analyst II (Temporary),L.A. Care Health Plan,"Los Angeles, CA 90017 (Westlake area)",9,Data+Analyst,Los+Angeles%2C+CA
+446,ADMINISTRATIVE ANALYST (TEMPORARY FOR CUSTOMER EXPERIENCE),Los Angeles County Metropolitan Transportation...,"Los Angeles County, CA",15,Data+Analyst,Los+Angeles%2C+CA
+447,Sr Clinical Data Analyst,Cedars-Sinai Medical Center,"Los Angeles, CA 90048•Remote",3,Data+Analyst,Los+Angeles%2C+CA
+448,Seasonal Business Analyst,Intuit,"Los Angeles, CA (Woodland Hills area)",14,Data+Analyst,Los+Angeles%2C+CA
+449,Data Analyst,"Avetta, LLC","Irvine, CA 92614 (San Joaquin Marsh area)",9,Data+Analyst,Los+Angeles%2C+CA
+450,Client Implementation Business Analyst,Experian,"Costa Mesa, CA 92626",11,Data+Analyst,Los+Angeles%2C+CA
+451,Business Intelligence Analyst,California State University,"Pomona, CA",11,Data+Analyst,Los+Angeles%2C+CA
+452,Business Data Analyst,Carfax,"Ontario, CA•Temporarily Remote",15,Data+Analyst,Los+Angeles%2C+CA
+453,ICTS Research Data Analyst,University of California - Irvine,"Irvine, CA+1 location",11,Data+Analyst,Los+Angeles%2C+CA
+454,QC Analyst I,Abbott Laboratories,"Pomona, CA",11,Data+Analyst,Los+Angeles%2C+CA
+455,Data Analyst 4,Western Digital,"Irvine, CA",11,Data+Analyst,Los+Angeles%2C+CA
+456,Data Analyst,Internet Brands,"Los Angeles, CA",14,Data+Analyst,Los+Angeles%2C+CA
+457,Healthcare Data Analyst I - Quality Systems,Inland Empire Health Plans,"Rancho Cucamonga, CA 91730+1 location",15,Data+Analyst,Los+Angeles%2C+CA
+458,Senior Data Analyst,Supernatural,"Los Angeles, CA•Temporarily Remote",12,Data+Analyst,Los+Angeles%2C+CA
+459,"Senior Data Analyst, Market Research",WarnerMedia,"Burbank, CA 91505",11,Data+Analyst,Los+Angeles%2C+CA
+460,Business Analyst,Tech True Up,"Thousand Oaks, CA 91320",3,Data+Analyst,Los+Angeles%2C+CA
+461,Data Analyst II,Pancreatic Cancer Action Network,"Los Angeles, CA 90001",12,Data+Analyst,Los+Angeles%2C+CA
+462,REMOTE BI Analyst,CBS,"Burbank, CA 91505+2 locations•Remote",11,Data+Analyst,Los+Angeles%2C+CA
+463,Business Analyst,ICM Partners,"Los Angeles, CA 90067 (Century City area)",2,Data+Analyst,Los+Angeles%2C+CA
+464,Business Intelligence Analyst,Pitfire Artisan Pizza,"Venice, CA 90291",3,Data+Analyst,Los+Angeles%2C+CA
+465,"Financial Analyst, Technical Infrastructure",Google,"Los Angeles, CA (Venice area)",11,Infrastructure,Los+Angeles%2C+CA
+466,"Director, IT Infrastructure",HydroBuilder Holdings,"Los Angeles, CA 90021",9,Infrastructure,Los+Angeles%2C+CA
+467,IT Engineer - LA / Mountain View / Nashville,TikTok,"Los Angeles, CA",9,Infrastructure,Los+Angeles%2C+CA
+468,Operations Coordinator,Activision,"Santa Monica, CA•Temporarily Remote",15,Infrastructure,Los+Angeles%2C+CA
+469,IT Team Lead - LA/Mountain View,TikTok,"Los Angeles, CA",9,Infrastructure,Los+Angeles%2C+CA
+470,Construction Inspector,Harris & Associates,"Los Angeles, CA 90029",10,Infrastructure,Los+Angeles%2C+CA
+471,Network Engineer - LA / Mountain View,TikTok,"Los Angeles, CA",9,Infrastructure,Los+Angeles%2C+CA
+472,Construction Project Engineer,WarnerMedia,"Burbank, CA 91505",11,Infrastructure,Los+Angeles%2C+CA
+473,"Director, Social & Digital Marketing",Disney Streaming,"Glendale, CA",15,Infrastructure,Los+Angeles%2C+CA
+474,ADMINISTRATIVE SUPPORT ASSISTANT,California State University,"Los Angeles, CA 90032 (El Sereno area)",11,Infrastructure,Los+Angeles%2C+CA
+475,Urban Ecologist,Tetra Tech,"Pasadena, CA",12,Infrastructure,Los+Angeles%2C+CA
+476,DreamWorks Feature - Department TD,NBCUniversal,"Glendale, CA",11,Infrastructure,Los+Angeles%2C+CA
+477,"Vice President, Operations",Virgin Galactic,"Tustin, CA",15,Infrastructure,Los+Angeles%2C+CA
+478,Submission Technician,Activision,"El Segundo, CA",15,Infrastructure,Los+Angeles%2C+CA
+479,Assembler & Tester - 1st Shift,EATON,"Los Angeles, CA 90039 (Atwater Village area)",15,Infrastructure,Los+Angeles%2C+CA
+480,Core Infrastructure Architect,Pluto TV,"Los Angeles, CA 90069",12,Infrastructure,Los+Angeles%2C+CA
+481,Custodian,California State University,"Pomona, CA",11,Infrastructure,Los+Angeles%2C+CA
+482,IT Team Lead - LA/Mountain View,TikTok,"Los Angeles, CA",9,Infrastructure,Los+Angeles%2C+CA
+483,"Field Consultant#2177 ( Compton, CA)","7-Eleven, Inc.","Compton, CA",10,Infrastructure,Los+Angeles%2C+CA
+484,Operations Clerk 1 Lockbox,Wells Fargo,"El Monte, CA 91731 (Park El Monte area)",10,Infrastructure,Los+Angeles%2C+CA
+485,Urban Ecologist,Tetra Tech,"Pasadena, CA",12,Infrastructure,Los+Angeles%2C+CA
+486,Director of IT,Pangaea,"Los Angeles, CA",11,Infrastructure,Los+Angeles%2C+CA
+487,Mechanic Manager - Los Angeles,Lime,"Los Angeles, CA",10,Infrastructure,Los+Angeles%2C+CA
+488,"Community Relations Specialist, Associate",Orange County Transportation Authority,"Orange, CA 92868",15,Infrastructure,Los+Angeles%2C+CA
+489,Strategy and Corporate Development Advisor [HYBRID],Southern California Edison,"Rosemead, CA 91771+1 location",11,Infrastructure,Los+Angeles%2C+CA
+490,Construction Inspector,Harris & Associates,"Los Angeles, CA 90029",10,Infrastructure,Los+Angeles%2C+CA
+491,Accounts Payable Specialist - Cinelease,Herc Rentals,"Los Angeles, CA",13,Infrastructure,Los+Angeles%2C+CA
+492,Senior Systems Engineer,sweetgreen,"Los Angeles, CA",11,Infrastructure,Los+Angeles%2C+CA
+493,Construction Project Engineer,WarnerMedia,"Burbank, CA 91505",11,Infrastructure,Los+Angeles%2C+CA
+494,Assembler 2,Skyworks,"Newbury Park, CA 91320",12,Infrastructure,Los+Angeles%2C+CA
+495,"Director, IT Infrastructure",HydroBuilder Holdings,"Los Angeles, CA 90021",9,Infrastructure,Los+Angeles%2C+CA
+496,"Project Administrator - Valencia, CA",OHL North America,"Valencia, CA 91355",15,Infrastructure,Los+Angeles%2C+CA
+497,IT Technician,"Mullen Technologies, Inc","Brea, CA",3,Infrastructure,Los+Angeles%2C+CA
+498,"Vice President, Information Technology, Internal Audit",PennyMac,"Agoura Hills, CA 91301 (Whizin's Row area)",10,CIO,Los+Angeles%2C+CA
+499,"Vice President, Information Technology, Internal Audit",PennyMac,"Agoura Hills, CA 91301 (Whizin's Row area)",10,CIO,Los+Angeles%2C+CA
+500,"Director, User Experience, Support Platform",Google,"Los Angeles, CA (Venice area)",12,AI,Los+Angeles%2C+CA
+501,"Data Scientist Research Programmer, Entry Level",RAND Corporation,"Los Angeles, CA",11,AI,Los+Angeles%2C+CA
+502,AI and Data Operations- Visualization Consultant,Deloitte,"Los Angeles, CA 90013 (Downtown area)",9,AI,Los+Angeles%2C+CA
+503,Vice President of Client Engagement,Deep 6 AI,"Pasadena, CA•Remote",9,AI,Los+Angeles%2C+CA
+504,Conversational AI / Chatbot Developer,Deloitte,"Los Angeles, CA 90013 (Downtown area)",11,AI,Los+Angeles%2C+CA
+505,Heat Transfer Developer,Altair Engineering,"Irvine, CA 92614 (San Joaquin Marsh area)",9,AI,Los+Angeles%2C+CA
+506,Business Development Representative,Deep 6 AI,"Pasadena, CA•Remote",9,AI,Los+Angeles%2C+CA
+507,"Telco, Media & Entertainment - AI and Data Transformation Ma...",Deloitte,"Los Angeles, CA 90013 (Downtown area)",15,AI,Los+Angeles%2C+CA
+508,Systems Engineer,Altair Engineering,"Irvine, CA 92614 (San Joaquin Marsh area)+1 location",9,AI,Los+Angeles%2C+CA
+509,Virtual Senior AI/ML Ops,Deloitte,"Los Angeles, CA 90013 (Downtown area)",15,AI,Los+Angeles%2C+CA
+510,Research Scientist,Facebook App,"Los Angeles, CA+1 location",11,AI,Los+Angeles%2C+CA
+511,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"Los Angeles, CA 90013 (Downtown area)",9,AI,Los+Angeles%2C+CA
+512,Recruiter - Information Sciences Institute,USC,"Marina del Rey, CA 90292",14,AI,Los+Angeles%2C+CA
+513,"Specialist, Interactive Development & Production",WarnerMedia,"Burbank, CA 91505",11,AI,Los+Angeles%2C+CA
+514,Digital Strategy Manager,Accenture,"Los Angeles, CA 90013 (Downtown area)",11,AI,Los+Angeles%2C+CA
+515,"Data Scientist, Consultant",Deloitte,"Los Angeles, CA 90013 (Downtown area)+6 locations",10,AI,Los+Angeles%2C+CA
+516,User Experience Designer,Deloitte,"Los Angeles, CA 90013 (Downtown area)+1 location",10,AI,Los+Angeles%2C+CA
+517,Data Engineering Consultant,Accenture,"Los Angeles, CA 90013 (Downtown area)+1 location",9,AI,Los+Angeles%2C+CA
+518,Full Stack React + Python Dev / AI Software,Involve.ai,"Santa Monica, CA 90404•Remote",15,AI,Los+Angeles%2C+CA
+519,Digital Electrical Engineer,Altek Lab Inc,"Irvine, CA 92618 (Irvine Health and Science Complex area)",4,AI,Los+Angeles%2C+CA
+520,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"Los Angeles, CA 90013 (Downtown area)",9,AI,Los+Angeles%2C+CA
+521,Digital Strategy Manager,Accenture,"Los Angeles, CA 90013 (Downtown area)",11,AI,Los+Angeles%2C+CA
+522,Junior Clinical Data Analytics,Jade Business Services,"Northridge, CA",9,AI,Los+Angeles%2C+CA
+523,"Specialist, Interactive Development & Production",WarnerMedia,"Burbank, CA 91505",11,AI,Los+Angeles%2C+CA
+524,User Experience Designer,Deloitte,"Los Angeles, CA 90013 (Downtown area)+1 location",10,AI,Los+Angeles%2C+CA
+525,Full Stack React + Python Dev / AI Software,Involve.ai,"Santa Monica, CA 90404•Remote",15,AI,Los+Angeles%2C+CA
+526,Data Engineering Consultant,Accenture,"Los Angeles, CA 90013 (Downtown area)+1 location",9,AI,Los+Angeles%2C+CA
+527,Security Engineer (Remote),FloQast,"Los Angeles, CA•Remote",12,AI,Los+Angeles%2C+CA
+528,Signal Processing Engineer,"BioSig Technologies, Inc.","Los Angeles, CA 90025 (Sawtelle area)",5,AI,Los+Angeles%2C+CA
+529,"Director of Marketing, AI",Oculus,"Los Angeles, CA 90230",10,AI,Los+Angeles%2C+CA
+530,AI and Data Strategy Senior Manager,Deloitte,"Los Angeles, CA 90013 (Downtown area)+1 location",15,AI,Los+Angeles%2C+CA
+531,Gameplay Programmer - Ready at Dawn,Oculus,"Irvine, CA 92612 (San Joaquin Marsh area)",11,AI,Los+Angeles%2C+CA
+532,"Manager, Machine Learning Engineering",WarnerMedia,"Culver City, CA+2 locations",11,AI,Los+Angeles%2C+CA
+533,"Partner Engineer, AI/PyTorch",Facebook App,"Los Angeles, CA+3 locations",11,AI,Los+Angeles%2C+CA
+534,Psychiatrist - Outpatient,Savant Care Inc.,"Anaheim, CA 92807 (Anaheim Hills area)",3,AI,Los+Angeles%2C+CA
+535,Digital Product Manager Lead,Anthem,"Woodland Hills, CA 91367",9,AI,Los+Angeles%2C+CA
+536,Clinical R&D Analytics Experienced Associate,PRICE WATERHOUSE COOPERS,"Los Angeles, CA+2 locations",10,AI,Los+Angeles%2C+CA
+537,"Senior Software Engineer, Machine Learning",Sony Interactive Entertainment PlayStation,"Aliso Viejo, CA",11,AI,Los+Angeles%2C+CA
+538,Credit & Collections Supervisor,Altair Engineering,"Irvine, CA 92614 (San Joaquin Marsh area)",9,AI,Los+Angeles%2C+CA
+539,Electrical and Firmware Engineer,NumberOne AI,"Tustin, CA 92780",3,AI,Los+Angeles%2C+CA
+540,B2B Marketing Director,firstlight.ai,"Los Angeles, CA 90004",12,AI,Los+Angeles%2C+CA
+541,Thermal Controls Engineer,Altair Engineering,"Torrance, CA",9,AI,Los+Angeles%2C+CA
+542,Program Analyst - Machine Learning Platform,"TuSimple, Inc.","Los Angeles, CA",15,Machine+Learning,Los+Angeles%2C+CA
+543,Jr. Developer,Deloitte,"Los Angeles, CA 90013 (Downtown area)+2 locations",15,Machine+Learning,Los+Angeles%2C+CA
+544,Master Data Analyst / Specialist,Expatiate Communications,"Pasadena, CA 91101 (West Central area)•Temporarily Remote",3,Machine+Learning,Los+Angeles%2C+CA
+545,Data Scientist,Foursquare,"Los Angeles, CA",9,Machine+Learning,Los+Angeles%2C+CA
+546,Research Scientist - Statistical Learning and Experimentatio...,Facebook App,"Los Angeles, CA+1 location",11,Machine+Learning,Los+Angeles%2C+CA
+547,Machine Learning Engineer,Reach Out Digital Media,"Irvine, CA 92614 (Business District area)",3,Machine+Learning,Los+Angeles%2C+CA
+548,"Data Scientist Research Programmer, Entry Level",RAND Corporation,"Los Angeles, CA",11,Machine+Learning,Los+Angeles%2C+CA
+549,Data Scientist,WarnerMedia,"Burbank, CA 91505+3 locations",11,Machine+Learning,Los+Angeles%2C+CA
+550,"Data Analyst, Rights Management",WarnerMedia,"Playa Vista, CA 90094",11,Machine+Learning,Los+Angeles%2C+CA
+551,"Manager, Machine Learning Engineering",WarnerMedia,"Culver City, CA+2 locations",11,Machine+Learning,Los+Angeles%2C+CA
+552,Data Scientist I,UST Global,"Woodland Hills, CA 91364",12,Machine+Learning,Los+Angeles%2C+CA
+553,"People Analytics Manager, Strategy, Planning, and Analysis,...",Google,"Los Angeles, CA (Venice area)",15,Machine+Learning,Los+Angeles%2C+CA
+554,Data Scientist,"Neustar, Inc.","Los Angeles, CA 90025 (West Los Angeles area)",11,Machine+Learning,Los+Angeles%2C+CA
+555,UX/UI Xcelerator Rotation Program (Entry Level UX/UI),Experian,"Costa Mesa, CA 92626",14,Machine+Learning,Los+Angeles%2C+CA
+556,"Software Engineer, Machine Learning",Facebook App,"Los Angeles, CA+1 location",11,Machine+Learning,Los+Angeles%2C+CA
+557,"Product Manager, Content Discovery",Paramount+,"Burbank, CA 91505",12,Machine+Learning,Los+Angeles%2C+CA
+558,"Backend Engineer, Perception",Snapchat,"Los Angeles, CA 90291 (Venice area)",15,Machine+Learning,Los+Angeles%2C+CA
+559,Data Scientist,PRO IT,"Los Angeles, CA",3,Machine+Learning,Los+Angeles%2C+CA
+560,Data Scientist - Experian Consumer Services Remote-West Coas...,Experian,"Costa Mesa, CA 92626+2 locations•Remote",8,Machine+Learning,Los+Angeles%2C+CA
+561,Data Scientist (WFH),spar information systems,"Los Angeles, CA•Remote",3,Machine+Learning,Los+Angeles%2C+CA
+562,Senior Machine Learning Engineer - (Remote),Abbvie,"Irvine, CA•Remote",15,Machine+Learning,Los+Angeles%2C+CA
+563,"Associate, Data Scientist Engineer - Advisory Data Organizat...",KPMG,"Los Angeles, CA 90071 (Downtown area)+1 location",14,Machine+Learning,Los+Angeles%2C+CA
+564,Backend Engineer,Lighthouse.app,"Los Angeles, CA•Remote",10,Machine+Learning,Los+Angeles%2C+CA
+565,Data Engineer,"TAE Technologies, Inc.","Foothill Ranch, CA 92610+1 location",10,Machine+Learning,Los+Angeles%2C+CA
+566,Conversational AI / Chatbot Developer,Deloitte,"Los Angeles, CA 90013 (Downtown area)",11,Machine+Learning,Los+Angeles%2C+CA
+567,"Senior Software Engineer, Machine Learning",Sony Interactive Entertainment PlayStation,"Aliso Viejo, CA",11,Machine+Learning,Los+Angeles%2C+CA
+568,Principal Data Scientist,AT&T,"El Segundo, CA 90245",11,Machine+Learning,Los+Angeles%2C+CA
+569,"Sr. Director, Data Product Management",WarnerMedia,"Burbank, CA 91505",11,Machine+Learning,Los+Angeles%2C+CA
+570,Senior Data Scientist,Foursquare,"Los Angeles, CA",9,Machine+Learning,Los+Angeles%2C+CA
+571,"Sr Scientist, Software Research (computer vision, machine le...","Canon U.S.A., Inc.","Irvine, CA 92618 (Irvine Health and Science Complex area)",12,Machine+Learning,Los+Angeles%2C+CA
+572,"Researcher, Marketing Science Research",Facebook App,"Los Angeles, CA",11,Machine+Learning,Los+Angeles%2C+CA
+573,Digital Strategy Manager,Accenture,"Los Angeles, CA 90013 (Downtown area)",11,Machine+Learning,Los+Angeles%2C+CA
+574,Senior Data Engineer,Amazon.com Services LLC,"Santa Monica, CA 90404 (Mid-City area)+2 locations",15,Machine+Learning,Los+Angeles%2C+CA
+575,Speech and Audio ML Algorithm Engineer,Apple,"Culver City, CA",15,Machine+Learning,Los+Angeles%2C+CA
+576,Sr Analytics Engineer,WarnerMedia,"Culver City, CA",11,Machine+Learning,Los+Angeles%2C+CA
+577,"Firmware Principal Engineer - Irvine, CA or Santa Clara, CA",Dell Technologies,"Irvine, CA•Remote",10,Machine+Learning,Los+Angeles%2C+CA
+578,"Sr. Business Intelligence Engineer, Sales Operations",Amazon.com Services LLC,"Santa Monica, CA 90404 (Mid-City area)",10,Machine+Learning,Los+Angeles%2C+CA
+579,Applied Data Scientist,"Arcules, Inc.","Irvine, CA 92614•Remote",14,Machine+Learning,Los+Angeles%2C+CA
+580,"Senior Manager, Software Development, Core Personalization",Amazon.com Services LLC,"Irvine, CA",9,Machine+Learning,Los+Angeles%2C+CA
+581,"Partner Engineer, AI/PyTorch",Facebook App,"Los Angeles, CA+2 locations",11,Machine+Learning,Los+Angeles%2C+CA
+582,Virtual Senior AI/ML Ops,Deloitte,"Los Angeles, CA 90013 (Downtown area)",15,Machine+Learning,Los+Angeles%2C+CA
+583,Sr. Data Engineer,WarnerMedia,"Culver City, CA+2 locations",11,Machine+Learning,Los+Angeles%2C+CA
+584,"Data Scientist II, Marketing Measurement",Amazon.com Services LLC,"Irvine, CA",15,Machine+Learning,Los+Angeles%2C+CA
+585,"Telco, Media & Entertainment - AI and Data Transformation Ma...",Deloitte,"Los Angeles, CA 90013 (Downtown area)",15,Machine+Learning,Los+Angeles%2C+CA
+586,"Sr Engineer, Selling Control Platform",Nordstrom Inc,"Los Angeles, CA",10,Machine+Learning,Los+Angeles%2C+CA
+587,Data Engineer,The Wonderful Company,"Los Angeles, CA",15,Machine+Learning,Los+Angeles%2C+CA
+588,Senior Data Engineer,System1,"Los Angeles, CA",10,Machine+Learning,Los+Angeles%2C+CA
+589,Sr. (Data) Marketing Scientist,The Walt Disney Studios,"Burbank, CA 91505",14,Machine+Learning,Los+Angeles%2C+CA
+590,Sr. Data Protection Systems Engineer,Dell Technologies,"Orange County, CA",10,Machine+Learning,Los+Angeles%2C+CA
+591,2022 Embedded Systems and Communications Systems Engineer,The Aerospace Corporation,"El Segundo, CA",9,Machine+Learning,Los+Angeles%2C+CA
+592,Senior Python Engineer with Machine Learning experience,EPAM Systems,"Irvine, CA",10,Machine+Learning,Los+Angeles%2C+CA
+593,Data Scientist III,Health Net of California,"Woodland Hills, CA",11,Machine+Learning,Los+Angeles%2C+CA
+594,Senior Data Analyst - Telecommute,UnitedHealth Group,"El Segundo, CA 90245•Remote",10,Machine+Learning,Los+Angeles%2C+CA
+595,Senior Business Intelligence Developer,ThoughtFocus,"Irvine, CA",11,Machine+Learning,Los+Angeles%2C+CA
+596,"Director, Data Engineering (Facebook Financial)",Novi,"Los Angeles, CA",11,Machine+Learning,Los+Angeles%2C+CA
+597,"Associate, Snowflake Data Engineer",KPMG,"New York, NY+3 locations",9,Data+Engineer,New+York%2C+NY
+598,Data Engineer - 2,Stamford Hospital,"Stamford, CT",13,Data+Engineer,New+York%2C+NY
+599,"Customer Engineer, Data & AI",Microsoft,"New York, NY",9,Data+Engineer,New+York%2C+NY
+600,Data Engineer,Alloy,"New York, NY",10,Data+Engineer,New+York%2C+NY
+601,Data Engineer,Rho Business Banking,"New York, NY 10012 (SoHo area)",15,Data+Engineer,New+York%2C+NY
+602,Data Operations Engineer,Luxoft,"New York, NY 10006 (Financial District area)",12,Data+Engineer,New+York%2C+NY
+603,Data Engineer II,"Grubhub Holdings, Inc.","New York, NY 10018 (Garment District area)•Temporarily Remote",9,Data+Engineer,New+York%2C+NY
+604,AWS Data Engineer,Cognizant Technology Solutions,"Parsippany, NJ•Remote",10,Data+Engineer,New+York%2C+NY
+605,Data Engineer,Hearst Media Services,"New York, NY 10019 (Midtown area)•Remote",15,Data+Engineer,New+York%2C+NY
+606,Senior Data Engineer,Trupanion,"New York, NY 10001 (Chelsea area)+1 location•Remote",12,Data+Engineer,New+York%2C+NY
+607,Data Engineer,ASCAP,"New York, NY 10107 (Midtown area)",5,Data+Engineer,New+York%2C+NY
+608,Senior Data Engineer (CNN+),WarnerMedia,"New York, NY+2 locations",11,Data+Engineer,New+York%2C+NY
+609,Lead Data Engineer,Wiley,"Hoboken, NJ 07030•Remote",11,Data+Engineer,New+York%2C+NY
+610,Analytics Engineer - Data Intelligence Gateway (DIG),Alvarez & Marsal,"New York, NY+1 location",15,Data+Engineer,New+York%2C+NY
+611,Distinguished Data Engineer,Verizon,"Basking Ridge, NJ 07920+1 location",12,Data+Engineer,New+York%2C+NY
+612,"Associate, Software Engineer - Advisory Data Organization",KPMG,"New York, NY+3 locations",14,Data+Engineer,New+York%2C+NY
+613,Senior Data Engineer,Regeneron,"Sleepy Hollow, NY",8,Data+Engineer,New+York%2C+NY
+614,Cloud Data Engineer - JAVA/Kafka/Cassandra/Spark,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",9,Data+Engineer,New+York%2C+NY
+615,"Staff Software Engineer, Data SDKs",WarnerMedia,"New York, NY",11,Data+Engineer,New+York%2C+NY
+616,"Software Engineer II, Data SDKs",WarnerMedia,"New York, NY+1 location",11,Data+Engineer,New+York%2C+NY
+617,Data Engineer,ASCAP,"New York, NY 10107 (Midtown area)",5,Data+Engineer,New+York%2C+NY
+618,Cloud Data Engineer - JAVA/Kafka/Cassandra/Spark,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",9,Data+Engineer,New+York%2C+NY
+619,Technical Lead (Python/C++) Engineer - Realtime Data Service...,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",10,Data+Engineer,New+York%2C+NY
+620,Data Solution Engineer - 100% Remote,"CoEnterprise, LLC","New York, NY 10018 (Garment District area)•Remote",14,Data+Engineer,New+York%2C+NY
+621,"Staff Software Engineer, Data SDKs",WarnerMedia,"New York, NY",11,Data+Engineer,New+York%2C+NY
+622,Pre Sales Systems Engineer Unstructured Data - New York City...,Dell Technologies,"New York, NY",10,Data+Engineer,New+York%2C+NY
+623,Lead Data Engineer,QBE,"New York, NY",9,Data+Engineer,New+York%2C+NY
+624,"Staff Software Engineer : Data Management Services, Core Inf...",Salesforce,"New York, NY 10036 (Garment District area)",11,Data+Engineer,New+York%2C+NY
+625,Analytics Implementation Engineer - MarTech Data Integration,CBS,"New York, NY 10016 (Gramercy area)",10,Data+Engineer,New+York%2C+NY
+626,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"New York, NY+3 locations",14,Data+Engineer,New+York%2C+NY
+627,"Software Engineer, Data Partner Integrations",Alloy,"New York, NY•Remote",12,Data+Engineer,New+York%2C+NY
+628,Lead Data Engineer,Wiley,"Hoboken, NJ 07030•Remote",11,Data+Engineer,New+York%2C+NY
+629,Software Engineer - Business Data Solutions,Franklin Templeton Investments,"Stamford, CT",15,Data+Engineer,New+York%2C+NY
+630,Senior Data Warehouse Engineer,BlockFi,"New York, NY",9,Data+Engineer,New+York%2C+NY
+631,"Associate, Sales Engineer (SaE) - Advisory Data Organization",KPMG,"New York, NY+7 locations",14,Data+Engineer,New+York%2C+NY
+632,AWS Data Engineer,Cognizant Technology Solutions,"Parsippany, NJ•Remote",10,Data+Engineer,New+York%2C+NY
+633,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"Melville, NY 11747+3 locations",14,Data+Engineer,New+York%2C+NY
+634,Software Engineer II (Core Java/Big Data),"JPMorgan Chase Bank, N.A.","Jersey City, NJ",9,Data+Engineer,New+York%2C+NY
+635,Software Engineer - Routing and Data Path,Facebook App,"New York, NY",11,Data+Engineer,New+York%2C+NY
+636,"Data Engineer Manufacturing, Sr. Consultant - Analytics and...",Deloitte,"New York, NY",9,Data+Engineer,New+York%2C+NY
+637,"Software Engineer, Machine Learning (Places Data)",Facebook App,"New York, NY",10,Data+Engineer,New+York%2C+NY
+638,Senior Data Engineer,Epsilon,"New York, NY 10014 (SoHo area)",10,Data+Engineer,New+York%2C+NY
+639,Principal Software Engineer - Data Governance,Verizon,"Piscataway, NJ 08854+1 location",9,Data+Engineer,New+York%2C+NY
+640,Developer Engineer Big Data - Assistant Vice President,Deutsche Bank,"New York, NY",12,Data+Engineer,New+York%2C+NY
+641,Data Center Analyst,AllianceBernstein,"New York, NY 10020 (Midtown area)",12,Data+Analyst,New+York%2C+NY
+642,"Project Employee, Data Analyst",the NBA,"New York, NY 10022 (Midtown area)",12,Data+Analyst,New+York%2C+NY
+643,Data Analyst,Helene Fuld College of Nursing,"New York, NY 10035 (East Harlem area)+1 location",10,Data+Analyst,New+York%2C+NY
+644,"Data Analyst, Ads Finance",Google,"New York, NY (Chelsea area)",11,Data+Analyst,New+York%2C+NY
+645,Data Analyst,Sun River Health,"New York, NY+1 location",9,Data+Analyst,New+York%2C+NY
+646,Data Analyst,Alldus,"New York, NY•Remote",15,Data+Analyst,New+York%2C+NY
+647,Senior Data Analyst,Epic Games,"New York, NY",13,Data+Analyst,New+York%2C+NY
+648,"Senior Analyst, Data & Analysis",Digitas,"New York, NY 10104 (Midtown area)+1 location",12,Data+Analyst,New+York%2C+NY
+649,Service Desk Support Analyst I,First Republic Bank,"New York, NY 10020 (Midtown area)",9,Data+Analyst,New+York%2C+NY
+650,Data Operations Analyst,Reonomy,"New York, NY 10017 (Turtle Bay area)",10,Data+Analyst,New+York%2C+NY
+651,"Analyst, Data Insights",WarnerMedia,"New York, NY",11,Data+Analyst,New+York%2C+NY
+652,Product Data Analyst,Criteo,"New York, NY 10016 (Gramercy area)",16,Data+Analyst,New+York%2C+NY
+653,SMS / SRC Data Analyst,"Atlas Air, Inc","Purchase, NY 10577",9,Data+Analyst,New+York%2C+NY
+654,Master Data Analyst,Danone,"White Plains, NY 10605",9,Data+Analyst,New+York%2C+NY
+655,Associate Data and Research Analyst,Columbia University,"New York, NY+1 location",12,Data+Analyst,New+York%2C+NY
+656,Data Analyst,New York Life Insurance Co,"New York, NY",14,Data+Analyst,New+York%2C+NY
+657,Research and Data Associate,NYC Careers,"Brooklyn, NY 11201",11,Data+Analyst,New+York%2C+NY
+658,Data Analyst,Outten & Golden,"New York, NY 10017 (Turtle Bay area)",11,Data+Analyst,New+York%2C+NY
+659,Big Data Platform Data Analyst,"JPMorgan Chase Bank, N.A.","Jersey City, NJ+1 location",15,Data+Analyst,New+York%2C+NY
+660,"Data Analyst, Finance Analytics",Hulu,"New York, NY 10036",10,Data+Analyst,New+York%2C+NY
+661,Business Analyst P&A,J.Crew,"New York, NY 10281 (Battery Park area)",10,Data+Analyst,New+York%2C+NY
+662,Market Data Senior Analyst,"Concertiv, Inc","New York, NY•Remote",6,Data+Analyst,New+York%2C+NY
+663,Master Data Analyst,Danone,"White Plains, NY 10605",9,Data+Analyst,New+York%2C+NY
+664,"Analyst, Data Architecture",Spark Foundry,"New York, NY 10014 (SoHo area)",15,Data+Analyst,New+York%2C+NY
+665,Senior Data Analyst / Engineer,Tier1 IT,"New York, NY 10055 (Midtown area)",3,Data+Analyst,New+York%2C+NY
+666,SMS / SRC Data Analyst,"Atlas Air, Inc","Purchase, NY 10577",9,Data+Analyst,New+York%2C+NY
+667,Data Analyst,New York Life Insurance Co,"New York, NY",14,Data+Analyst,New+York%2C+NY
+668,Research and Data Associate,NYC Careers,"Brooklyn, NY 11201",11,Data+Analyst,New+York%2C+NY
+669,Entry Level Business Analyst,PROMARKETEXCHANGE,"Jersey City, NJ",4,Data+Analyst,New+York%2C+NY
+670,Associate Data and Research Analyst,Columbia University,"New York, NY+1 location",12,Data+Analyst,New+York%2C+NY
+671,Data Analyst,Outten & Golden,"New York, NY 10017 (Turtle Bay area)",11,Data+Analyst,New+York%2C+NY
+672,Analyst - Loan Data Remediation,CRISIL LIMITED,"New York, NY 10041 (Financial District area)•Temporarily Remote",4,Data+Analyst,New+York%2C+NY
+673,Big Data Platform Data Analyst,"JPMorgan Chase Bank, N.A.","Jersey City, NJ+1 location",15,Data+Analyst,New+York%2C+NY
+674,"Data Analyst, Finance Analytics",Hulu,"New York, NY 10036",10,Data+Analyst,New+York%2C+NY
+675,Data Analyst/Engineer - USA/Canada (Remote or Office),VerticalScope Inc.,"Manhattan, NY 10001 (Chelsea area)•Remote",12,Data+Analyst,New+York%2C+NY
+676,Business Analyst P&A,J.Crew,"New York, NY 10281 (Battery Park area)",10,Data+Analyst,New+York%2C+NY
+677,Fixed Income Data Analyst,Tradeweb Markets LLC,"New York, NY 10001 (Chelsea area)",11,Data+Analyst,New+York%2C+NY
+678,CLINICAL DATA ANALYST,Montefiore Medical Center,"Bronx, NY 10467 (Williams Bridge area)+2 locations",11,Data+Analyst,New+York%2C+NY
+679,Senior Data Analyst,"Wredtape, Inc","New York, NY 10014 (West Village area)",3,Data+Analyst,New+York%2C+NY
+680,Media Analyst,WebMD,"New York, NY 10014 (West Village area)",15,Data+Analyst,New+York%2C+NY
+681,Data Analyst (part-time),Shine Early Learning,"New York, NY",11,Data+Analyst,New+York%2C+NY
+682,Technical Data Analyst,EHE Health,"New York, NY",12,Data+Analyst,New+York%2C+NY
+683,"Analyst, Data and Insights Group - Marketing Analytics",The New York Times,"New York, NY",10,Data+Analyst,New+York%2C+NY
+684,IT Compliance Coordinator,"FROM, The Digital Transformation Agency","New York, NY 10154 (Midtown area)",3,Infrastructure,New+York%2C+NY
+685,Data Analyst Supporting the FBI,FSA Federal,"New York, NY 10278 (Financial District area)",15,Infrastructure,New+York%2C+NY
+686,Electrician,NYC Careers,"New York, NY",11,Infrastructure,New+York%2C+NY
+687,Desktop Support Specialist,Collins Consulting DBA Razzino Associates,"New York, NY 10005 (Financial District area)",2,Infrastructure,New+York%2C+NY
+688,Solar Sales Representative,"ABC PRO GRP, LLC","New Brunswick, NJ 08901",10,Infrastructure,New+York%2C+NY
+689,"Administrative Assistant, People",SwagUp,"New York, NY•Remote",3,Infrastructure,New+York%2C+NY
+690,Assistant Investment Officer,United Nations,"New York, NY+2 locations",11,Infrastructure,New+York%2C+NY
+691,Remote Systems Administrator,Change Healthcare,"New York, NY+1 location•Remote",10,Infrastructure,New+York%2C+NY
+692,2022 Macquarie Capital Full Time Analyst Opportunity,Macquarie Group Limited,"New York, NY",15,Infrastructure,New+York%2C+NY
+693,"Software Engineer, Platform",Spotify,"New York, NY•Remote",12,Infrastructure,New+York%2C+NY
+694,Infrastructure Engineer,Smart Hire,"New York, NY",6,Infrastructure,New+York%2C+NY
+695,Data Center Analyst,AllianceBernstein,"New York, NY 10020 (Midtown area)",12,Infrastructure,New+York%2C+NY
+696,IT Support Engineer,Spring Health,"New York, NY 10003 (Flatiron area)•Remote",9,Infrastructure,New+York%2C+NY
+697,Technicien de Maintenance Multitechnique F/H,VINCI,"Weehawken, NJ",11,Infrastructure,New+York%2C+NY
+698,Xactly Administrator,S&P Global,"New York, NY 10041 (Financial District area)",12,Infrastructure,New+York%2C+NY
+699,Director of Operations,Serhant.,"New York, NY 10012 (SoHo area)",6,Infrastructure,New+York%2C+NY
+700,"Associate/VP, Quantitative Developer - AMRS Structured Desk",Bank of America,"New York, NY",10,Infrastructure,New+York%2C+NY
+701,"Account Manager, Startup","Amazon Web Services, Inc.","New York, NY",11,Infrastructure,New+York%2C+NY
+702,Campus Recruiting Coordinator,Macquarie Group Limited,"New York, NY",9,Infrastructure,New+York%2C+NY
+703,IT Help Desk,"Ironclad, Inc.","New York, NY",12,Infrastructure,New+York%2C+NY
+704,Assistant Project Manager,AECOM,"New York, NY 10259 (Midtown area)",12,Infrastructure,New+York%2C+NY
+705,Tech for Social Good - Force for Good Americas Program Assoc...,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",14,Infrastructure,New+York%2C+NY
+706,University HR Diversity Program Specialist,The City University of New York (CUNY),"New York, NY",11,Infrastructure,New+York%2C+NY
+707,Facilities Engineering Specialist,Merck,"Rahway, NJ",12,Infrastructure,New+York%2C+NY
+708,"Senior Manager, Insights and Analytics",American Museum of Natural History,"New York, NY 10024 (Upper West Side area)",13,Infrastructure,New+York%2C+NY
+709,"Google Cloud Infrastructure Engineer, Telco, Professional Se...",Google,"New York, NY (Chelsea area)",11,Infrastructure,New+York%2C+NY
+710,"Systems Administrator, Linux, Mergers and Acquisitions Techn...",Google,"New York, NY (Chelsea area)",11,Infrastructure,New+York%2C+NY
+711,Summer Analyst,CIP Copenhagen Infrastructure Partners GmbH,"New York, NY 10011 (Chelsea area)",9,Infrastructure,New+York%2C+NY
+712,JOB ADMIN ANALYST,NYC Careers,"Manhattan, NY 10001 (Chelsea area)",9,Infrastructure,New+York%2C+NY
+713,Junior IT Administrator (D/F/M),Dailymotion,"New York, NY•Remote",8,Infrastructure,New+York%2C+NY
+714,Trade Execution Officer,United Nations,"New York, NY",9,Infrastructure,New+York%2C+NY
+715,Infrastructure Reporter - 6208,ION,"New York, NY+1 location•Remote",10,Infrastructure,New+York%2C+NY
+716,Cash Equities Trade Support Assoc I,"JPMorgan Chase Bank, N.A.","New York, NY+3 locations",14,Infrastructure,New+York%2C+NY
+717,Investing in Investors Program,BlackRock,"New York, NY 10055 (Midtown area)",9,Infrastructure,New+York%2C+NY
+718,Director IT Service Management (ITSM),NYC Careers,"New York, NY",14,CIO,New+York%2C+NY
+719,VP Global Head of IT,ICHNOS SCIENCES INC.,"New York, NY",10,CIO,New+York%2C+NY
+720,Chief Information Security Officer,OFF 5TH,"New York, NY",15,CIO,New+York%2C+NY
+721,"Information Security Officer, VP",Mizuho Americas,"Jersey City, NJ",12,CIO,New+York%2C+NY
+722,"IT Director, Supply Chain Deliver",Johnson & Johnson Family of Companies,"Raritan, NJ+1 location",11,CIO,New+York%2C+NY
+723,"Director, Nursing Informatics (IT Director) Mount Sinai Hosp...",Mount Sinai,"New York, NY",15,CIO,New+York%2C+NY
+724,Vice President & Assistant General Counsel – Privacy & Infor...,Univision communications inc,"New York, NY",15,CIO,New+York%2C+NY
+725,Assistant Vice President of Information Technology (MIS110),"Volunteers of America - Greater New York, Inc.","New York, NY",11,CIO,New+York%2C+NY
+726,Assistant Chief Information Officer (GIS),Westchester County Government,"White Plains, NY 10601",3,CIO,New+York%2C+NY
+727,IT Audit AVP/VP,Bank of China,"New York, NY 10018 (Clinton area)",4,CIO,New+York%2C+NY
+728,Assistant Chief Information Officer (GIS),Westchester County Government,"White Plains, NY 10601",3,CIO,New+York%2C+NY
+729,Director IT Service Management (ITSM),NYC Careers,"New York, NY",14,CIO,New+York%2C+NY
+730,Assistant Vice President of Information Technology (MIS110),"Volunteers of America - Greater New York, Inc.","New York, NY",11,CIO,New+York%2C+NY
+731,VP Global Head of IT,ICHNOS SCIENCES INC.,"New York, NY",10,CIO,New+York%2C+NY
+732,Chief Information Security Officer,OFF 5TH,"New York, NY",15,CIO,New+York%2C+NY
+733,"Information Security Officer, VP",Mizuho Americas,"Jersey City, NJ",12,CIO,New+York%2C+NY
+734,"IT Director, Supply Chain Deliver",Johnson & Johnson Family of Companies,"Raritan, NJ+1 location",11,CIO,New+York%2C+NY
+735,"Director, Nursing Informatics (IT Director) Mount Sinai Hosp...",Mount Sinai,"New York, NY",15,CIO,New+York%2C+NY
+736,Vice President & Assistant General Counsel – Privacy & Infor...,Univision communications inc,"New York, NY",15,CIO,New+York%2C+NY
+737,IT Audit AVP/VP,Bank of China,"New York, NY 10018 (Clinton area)",4,CIO,New+York%2C+NY
+738,AI Residency Program 2022 - US Locations,Facebook App,"New York, NY+7 locations",11,AI,New+York%2C+NY
+739,"Customer Engineer, Data & AI",Microsoft,"New York, NY",9,AI,New+York%2C+NY
+740,Applied AI ML Associate Sr,"JPMorgan Chase Bank, N.A.","New York, NY",14,AI,New+York%2C+NY
+741,An LGBTQ+ Recruiting Summit with AI & Tech Leaders,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",10,AI,New+York%2C+NY
+742,"Qualitative Researcher, AI",Facebook App,"New York, NY",11,AI,New+York%2C+NY
+743,Middle Office Specialist,UBS,"New York, NY",12,AI,New+York%2C+NY
+744,"Capgemini Invent - 2022 Campus, Associate Consultant - Life...",Capgemini Invent,"New York, NY",12,AI,New+York%2C+NY
+745,Associate Humanitarian Affairs Officer (TJO) [Temporary],United Nations,"New York, NY+2 locations",10,AI,New+York%2C+NY
+746,Underwriter,Biz2Credit Inc,"New York, NY 10119 (Chelsea area)",11,AI,New+York%2C+NY
+747,"Responsible Innovation Strategist, Content and Partnerships",Google,"New York, NY (Chelsea area)",11,AI,New+York%2C+NY
+748,AI and Data Operations- Visualization Consultant,Deloitte,"New York, NY",9,AI,New+York%2C+NY
+749,VR Developer for Low Vision Rehab,New Jersey Institute of Technology,"Newark, NJ 07102 (Central Business District area)",11,AI,New+York%2C+NY
+750,CCB - Applied AI ML - ED,"JPMorgan Chase Bank, N.A.","New York, NY",10,AI,New+York%2C+NY
+751,Applied AI ML Lead - Machine Learning Center of Excellence,"JPMorgan Chase Bank, N.A.","New York, NY+2 locations",9,AI,New+York%2C+NY
+752,Executive Director - Applied AI ML Director,"JPMorgan Chase Bank, N.A.","New York, NY+1 location",13,AI,New+York%2C+NY
+753,Product Manager,Marsh,"New York, NY 10036 (Midtown area)",10,AI,New+York%2C+NY
+754,Facebook AI Research Lead,Facebook App,"New York, NY+11 locations",11,AI,New+York%2C+NY
+755,"Program Manager, Responsible AI",Facebook App,"New York, NY+3 locations",11,AI,New+York%2C+NY
+756,AI Research Assoc Sr,"JPMorgan Chase Bank, N.A.","New York, NY+1 location",11,AI,New+York%2C+NY
+757,"Account Manager, Startup","Amazon Web Services, Inc.","New York, NY",11,AI,New+York%2C+NY
+758,Product Data Analyst,Criteo,"New York, NY 10016 (Gramercy area)",16,AI,New+York%2C+NY
+759,AI Engineer - Hux,Deloitte,"New York, NY+14 locations",15,AI,New+York%2C+NY
+760,Technical Writer,Cape Privacy,"New York, NY•Remote",12,AI,New+York%2C+NY
+761,Data Scientist-Bank and Mortgage,Citi,"New York, NY+1 location",10,AI,New+York%2C+NY
+762,AI Automation Process Analyst - Consultant,Deloitte,"New York, NY+1 location",10,AI,New+York%2C+NY
+763,Senior Associate - Digital AI/ML Product Manager,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",9,AI,New+York%2C+NY
+764,"Manager, Music Publishing Licensing and Partnerships",TikTok,"New York, NY 10017 (Midtown area)",10,AI,New+York%2C+NY
+765,"VP Product, Recommendation Engine","JPMorgan Chase Bank, N.A.","New York, NY",11,AI,New+York%2C+NY
+766,Data Scientist,Luxoft,"New York, NY 10006 (Financial District area)",9,AI,New+York%2C+NY
+767,Strategy Analyst,"JPMorgan Chase Bank, N.A.","New York, NY",14,AI,New+York%2C+NY
+768,"Senior Data Scientist, AI Team",Happify Health,"New York, NY",12,AI,New+York%2C+NY
+769,AI/ML Developer Advocate,Facebook App,"New York, NY",11,AI,New+York%2C+NY
+770,Data Scientist,Verizon,"Basking Ridge, NJ 07920",12,AI,New+York%2C+NY
+771,"Research Scientist, AI",Facebook App,"New York, NY+15 locations",11,AI,New+York%2C+NY
+772,"Data Science, Senior Consultant - Applied AI",Deloitte,"New York, NY+10 locations",9,AI,New+York%2C+NY
+773,Technical Project Manager-Digital Data and AI Engineering -...,"JPMorgan Chase Bank, N.A.","Jersey City, NJ",9,AI,New+York%2C+NY
+774,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"New York, NY 10036 (Midtown area)+4 locations",12,AI,New+York%2C+NY
+775,Data Engineer,Rho Business Banking,"New York, NY 10012 (SoHo area)",15,AI,New+York%2C+NY
+776,Computational Design Customer Success,Sidewalk Labs,"New York, NY 10001 (Chelsea area)",12,AI,New+York%2C+NY
+777,Digital Product Manager Lead,Anthem,"New York, NY 10005 (Financial District area)",9,AI,New+York%2C+NY
+778,Staff Machine Learning Engineer,WarnerMedia,"New York, NY+1 location•Remote",11,Machine+Learning,New+York%2C+NY
+779,Data Analyst,Disney Streaming,"New York, NY",11,Machine+Learning,New+York%2C+NY
+780,Machine Learning Engineer,Amazon.com Services LLC,"New York, NY+1 location",9,Machine+Learning,New+York%2C+NY
+781,Machine learning engineers,NR Consulting LLC,"New York, NY",9,Machine+Learning,New+York%2C+NY
+782,AI Residency Program 2022 - US Locations,Facebook App,"New York, NY",11,Machine+Learning,New+York%2C+NY
+783,"Sr. Manager, Machine Learning",Quizlet,"New York, NY",12,Machine+Learning,New+York%2C+NY
+784,"Mobile Engineer II, Machine Learning (CNN+)",WarnerMedia,"New York, NY•Remote",11,Machine+Learning,New+York%2C+NY
+785,"Senior Machine Learning Engineer (Modeling), Cash App",Cash App,"New York, NY",15,Machine+Learning,New+York%2C+NY
+786,"Software Engineer, Ads Measurement",TikTok,"New York, NY 10017 (Midtown area)",10,Machine+Learning,New+York%2C+NY
+787,"Responsible Innovation Strategist, Content and Partnerships",Google,"New York, NY (Chelsea area)",11,Machine+Learning,New+York%2C+NY
+788,Data Scientist,Presidio,"New York, NY 10119 (Chelsea area)+1 location",12,Machine+Learning,New+York%2C+NY
+789,Data Scientist I (CNN +),WarnerMedia,"New York, NY+2 locations",11,Machine+Learning,New+York%2C+NY
+790,Quantitative Research,"JPMorgan Chase Bank, N.A.","New York, NY+1 location",11,Machine+Learning,New+York%2C+NY
+791,"Customer Engineer, Data & AI",Microsoft,"New York, NY+1 location",9,Machine+Learning,New+York%2C+NY
+792,Data Engineer,Alloy,"New York, NY",10,Machine+Learning,New+York%2C+NY
+793,QA Engineer,Runway AI,"New York, NY",10,Machine+Learning,New+York%2C+NY
+794,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"New York, NY 10036 (Midtown area)+1 location",12,Machine+Learning,New+York%2C+NY
+795,Research Scientist - Statistical Learning and Experimentatio...,Facebook App,"New York, NY+24 locations",11,Machine+Learning,New+York%2C+NY
+796,Jr. Developer,Deloitte,"Jericho, NY 11753",15,Machine+Learning,New+York%2C+NY
+797,"Data Scientist, Podcast Monetization",Spotify,"New York, NY•Remote",11,Machine+Learning,New+York%2C+NY
+798,Data Scientist-Bank and Mortgage,Citi,"New York, NY+2 locations",10,Machine+Learning,New+York%2C+NY
+799,Jr. Developer,Deloitte,"Jericho, NY 11753",15,Machine+Learning,New+York%2C+NY
+800,Data Engineer,Alloy,"New York, NY",10,Machine+Learning,New+York%2C+NY
+801,QA Engineer,Runway AI,"New York, NY",10,Machine+Learning,New+York%2C+NY
+802,Research Scientist - Statistical Learning and Experimentatio...,Facebook App,"New York, NY+24 locations",11,Machine+Learning,New+York%2C+NY
+803,"Senior Technical Product Manager, Machine Learning",Alaffia Health,"New York, NY",11,Machine+Learning,New+York%2C+NY
+804,"Data Scientist, Podcast Monetization",Spotify,"New York, NY•Remote",11,Machine+Learning,New+York%2C+NY
+805,Platform Data Engineer,Haystacks.ai,"New York, NY 10001 (Chelsea area)•Temporarily Remote",4,Machine+Learning,New+York%2C+NY
+806,Quantitative Research - Investible Index and Nexus - Associa...,"JPMorgan Chase Bank, N.A.","New York, NY+1 location",9,Machine+Learning,New+York%2C+NY
+807,Data Scientist - Commerce Products,Twitch,"New York, NY 10011 (Chelsea area)",9,Machine+Learning,New+York%2C+NY
+808,Data Scientist,Verizon,"Basking Ridge, NJ 07920",12,Machine+Learning,New+York%2C+NY
+809,Data Scientist,Luxoft,"New York, NY 10006 (Financial District area)",9,Machine+Learning,New+York%2C+NY
+810,"Data Engineer, Advertiser Behavior Analytics",Amazon.com Services LLC,"New York, NY+1 location",14,Machine+Learning,New+York%2C+NY
+811,Customer Intelligence Data Scientist - Opportunity for Worki...,VMware,"New York, NY+1 location•Remote",12,Machine+Learning,New+York%2C+NY
+812,Manager 2 Data and Analytics,Intuit,"New York, NY 10012",14,Machine+Learning,New+York%2C+NY
+813,Data Scientist,Millennium Management LLC,"New York, NY",11,Machine+Learning,New+York%2C+NY
+814,"VP, Data Science",Amex,"New York, NY+2 locations",9,Machine+Learning,New+York%2C+NY
+815,Python/React developer,"JPMorgan Chase Bank, N.A.","New York, NY+4 locations",9,Machine+Learning,New+York%2C+NY
+816,"Senior Data Scientist, Books Advertising",Amazon.com Services LLC,"New York, NY",10,Machine+Learning,New+York%2C+NY
+817,Data Science Commercial Lead,Pfizer,"New York, NY 10017 (Tudor City area)",11,Machine+Learning,New+York%2C+NY
+818,Senior Director,GalaxE.Solutions,"New York, NY•Remote",12,Machine+Learning,New+York%2C+NY
+819,Data Engineer,Nomi Health,"Austin, TX 73301 (St Edwards area)",11,Data+Engineer,Austin%2C+TX
+820,Senior Data Engineer,GTS Technology Solutions,"Austin, TX 78730",10,Data+Engineer,Austin%2C+TX
+821,Data Engineer,ventechsoft INC,"Austin, TX",3,Data+Engineer,Austin%2C+TX
+822,Data Engineer 1,PayPal,"Austin, TX 78729",10,Data+Engineer,Austin%2C+TX
+823,Associate Data Engineer (REMOTE),Activate Care,"Austin, TX 73301 (St Edwards area)•Remote",10,Data+Engineer,Austin%2C+TX
+824,"Data Analytics Engineer [Remote, Crypto]",Acala,"Austin, TX•Remote",7,Data+Engineer,Austin%2C+TX
+825,Data Engineer,Dell Technologies,"Round Rock, TX+7 locations•Remote",10,Data+Engineer,Austin%2C+TX
+826,Data Engineer,General Motors,"Austin, TX",10,Data+Engineer,Austin%2C+TX
+827,Data Engineer,Epitec,"Austin, TX 78753 (Windsor Hills area)",10,Data+Engineer,Austin%2C+TX
+828,Senior Data Engineer,Trupanion,"Austin, TX 78701 (Downtown area)•Remote",12,Data+Engineer,Austin%2C+TX
+829,"Data Engineer, GMS",Facebook App,"Austin, TX+4 locations",11,Data+Engineer,Austin%2C+TX
+830,"Data Engineer, SRC Engineering",Amazon.com Services LLC,"Austin, TX",14,Data+Engineer,Austin%2C+TX
+831,Senior Data Engineer,SciPlay,"Austin, TX•Temporarily Remote",12,Data+Engineer,Austin%2C+TX
+832,Data Engineer II,Expedia Group,"Austin, TX 78758 (North Austin area)",14,Data+Engineer,Austin%2C+TX
+833,Distinguished Engineer - Data Ingestion and Stream Processin...,Splunk,"Austin, TX 73301 (St Edwards area)",15,Data+Engineer,Austin%2C+TX
+834,Senior Data Engineer,BigCommerce,"Austin, TX",14,Data+Engineer,Austin%2C+TX
+835,"Senior Associate, Data Scientist Engineer– Advisory Data Org...",KPMG,"Austin, TX 78701 (Downtown area)",14,Data+Engineer,Austin%2C+TX
+836,Marketing Data Engineer Consultant,Dell Technologies,"Round Rock, TX•Remote",10,Data+Engineer,Austin%2C+TX
+837,Senior Associate Software Engineer– Advisory Data Organizati...,KPMG,"Austin, TX 78701 (Downtown area)",14,Data+Engineer,Austin%2C+TX
+838,Software Engineer - Big Data Automation,General Motors,"Austin, TX",9,Data+Engineer,Austin%2C+TX
+839,"Associate, Software Engineer - Advisory Data Organization",KPMG,"Austin, TX 78701 (Downtown area)",14,Data+Engineer,Austin%2C+TX
+840,"Hardware System Engineer, Data Analytics",Facebook App,"Austin, TX",11,Data+Engineer,Austin%2C+TX
+841,Sr Principal Software Engineer/Architect-C# AI/Data Science...,Dell Technologies,"Round Rock, TX•Remote",10,Data+Engineer,Austin%2C+TX
+842,Staff Engineer (Big Data) - Cloud Data Platform,"Guidewire Software, Inc.","Austin, TX•Remote",11,Data+Engineer,Austin%2C+TX
+843,Technical Staff Software Engineer-Data Analytics/Data Scienc...,Dell Technologies,"Round Rock, TX•Remote",10,Data+Engineer,Austin%2C+TX
+844,Data Engineer,ventechsoft INC,"Austin, TX",3,Data+Engineer,Austin%2C+TX
+845,Associate Data Engineer (REMOTE),Activate Care,"Austin, TX 73301 (St Edwards area)•Remote",10,Data+Engineer,Austin%2C+TX
+846,"Data Analytics Engineer [Remote, Crypto]",Acala,"Austin, TX•Remote",7,Data+Engineer,Austin%2C+TX
+847,Data Engineer,Nomi Health,"Austin, TX 73301 (St Edwards area)",11,Data+Engineer,Austin%2C+TX
+848,Senior Data Engineer,BigCommerce,"Austin, TX",14,Data+Engineer,Austin%2C+TX
+849,"Staff Data Software Engineer (Scala/Python, Apache Spark, ET...",Lookout,"Austin, TX•Remote",13,Data+Engineer,Austin%2C+TX
+850,"Senior Staff Software Engineer - (Java, API Design, Data str...",Lookout,"Austin, TX+1 location•Remote",13,Data+Engineer,Austin%2C+TX
+851,Program Improvement Data Analyst,Texas Department of Agriculture,"Austin, TX 78701 (Downtown area)",15,Data+Analyst,Austin%2C+TX
+852,Temporary HR Data Analyst,TX Assoc of School Boa,"Austin, TX 78759 (Arboretum area)",10,Data+Analyst,Austin%2C+TX
+853,Financial Analyst II,Health & Human Services Comm,"Austin, TX 78751 (Triangle State area)",15,Data+Analyst,Austin%2C+TX
+854,Risk Data Analyst,Facebook App,"Austin, TX+1 location",11,Data+Analyst,Austin%2C+TX
+855,"Analyst, Investment Data Management",Dimensional Fund Advisors,"Austin, TX",12,Data+Analyst,Austin%2C+TX
+856,Americas Logistics Business Analyst,Apple,"Austin, TX",15,Data+Analyst,Austin%2C+TX
+857,Apple Support Business Analyst - Connect Support,Apple,"Austin, TX+1 location",11,Data+Analyst,Austin%2C+TX
+858,Business Intelligence Analyst,St Edwards University,"Austin, TX 78704 (South Lamar-South Congress area)",12,Data+Analyst,Austin%2C+TX
+859,IT Geospatial Analyst,City of Austin,"Austin, TX 78725 (MLK 183 area)",15,Data+Analyst,Austin%2C+TX
+860,Business Analyst,Expedia Group,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+861,"Business Analyst, Amazon Logistics",Amazon.com Services LLC,"Austin, TX+2 locations",11,Data+Analyst,Austin%2C+TX
+862,Risk Analytics Analyst,Visa,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+863,"Pricing Analyst, Product Marketing Finance (data analysis)",Apple,"Austin, TX",9,Data+Analyst,Austin%2C+TX
+864,Business Analyst II,Texas Department of Transportation,"Austin, TX 78704 (South River City area)",15,Data+Analyst,Austin%2C+TX
+865,"Sr. BI Analyst - SQL, Python & Data Visualization",CDK Global,"Austin, TX 78730",11,Data+Analyst,Austin%2C+TX
+866,Analyst for Strategic Compensation (Data Analyst III),TEXAS EDUCATION AGENCY,"Austin, TX 78701 (Downtown area)",12,Data+Analyst,Austin%2C+TX
+867,Customer insights / telemetry analyst,Dell Technologies,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+868,Supply Chain Analyst III,"Fluence Bioengineering, Inc.","Austin, TX 78744 (Mckinney area)",15,Data+Analyst,Austin%2C+TX
+869,Data Analytics Consulting Associate,PRICE WATERHOUSE COOPERS,"Austin, TX 78703 (Downtown area)",10,Data+Analyst,Austin%2C+TX
+870,"Sr. Analyst - Data Science (SQL, Python, Data Visualization)",CDK Global,"Austin, TX 78730",11,Data+Analyst,Austin%2C+TX
+871,Lead - Operational Data & Analytics,Visa,"Austin, TX",14,Data+Analyst,Austin%2C+TX
+872,Governance and Risk Compliance Analyst,Dell Technologies,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+873,Governance and Risk Compliance Analyst,Dell Technologies,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+874,Business Analyst,ESO,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+875,People System Administrator-Data Analyst (HRIS),KIPP Texas Public Schools,"Austin, TX",12,Data+Analyst,Austin%2C+TX
+876,Research Analyst Senior,City of Austin,"Austin, TX 78701 (Downtown area)",12,Data+Analyst,Austin%2C+TX
+877,TJJD - Data Analyst II / III / IV - Strategic Data Analyst -...,TEXAS JUVENILE JUSTICE DEPARTMENT,"Austin, TX 78701 (Downtown area)•Remote",12,Data+Analyst,Austin%2C+TX
+878,Senior Business Analyst,Whole Foods Market,"Austin, TX 78703 (Downtown area)",12,Data+Analyst,Austin%2C+TX
+879,"Advisor, Business Intelligence",Dell Technologies,"Round Rock, TX+2 locations",10,Data+Analyst,Austin%2C+TX
+880,Business Intelligence Advisor,Dell Technologies,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+881,Transformation Business Analyst,National University,"Austin, TX",12,Data+Analyst,Austin%2C+TX
+882,Business Analyst,Citizens Inc,"Austin, TX",12,Data+Analyst,Austin%2C+TX
+883,Technical Business Strategy Analyst/Product Management - Rem...,Dell Technologies,"Austin, TX•Remote",10,Data+Analyst,Austin%2C+TX
+884,Business Analyst 2,The Teltech Group,"Austin, TX",10,Data+Analyst,Austin%2C+TX
+885,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"Austin, TX",9,Data+Analyst,Austin%2C+TX
+886,"Director, Data & Analytics",BazaarVoice,"Austin, TX 78746",11,Data+Analyst,Austin%2C+TX
+887,Business Analyst,ICF,"Austin, TX",11,Data+Analyst,Austin%2C+TX
+888,eCommerce/Data Analytics Service Delivery Manager,Advance Auto Parts,"Austin, TX 78701 (Downtown area)",11,Data+Analyst,Austin%2C+TX
+889,Global Chief Data Office Business Integration Analyst,PRICE WATERHOUSE COOPERS,"Austin, TX 78703 (Downtown area)+2 locations",10,Data+Analyst,Austin%2C+TX
+890,Senior Business Intelligence Analyst,Granicus Inc.,"Austin, TX•Remote",10,Data+Analyst,Austin%2C+TX
+891,OFRO SNAP Data Analysis & Modeling Senior Associate,PRICE WATERHOUSE COOPERS,"Austin, TX 78703 (Downtown area)",10,Data+Analyst,Austin%2C+TX
+892,Business Intelligence Consultant,Dell Technologies,"Round Rock, TX",10,Data+Analyst,Austin%2C+TX
+893,Business Analyst (Bilingual),AETOS,"Austin, TX 78751 (Triangle State area)•Remote",14,Data+Analyst,Austin%2C+TX
+894,Tier 3 Application Support Analyst (Systems Analyst IV),TEXAS EDUCATION AGENCY,"Austin, TX 78701 (Downtown area)",10,Data+Analyst,Austin%2C+TX
+895,"Senior Business Intelligence Advisor - Remote, US",Dell Technologies,"Austin, TX+1 location•Remote",10,Data+Analyst,Austin%2C+TX
+896,"Senior Business Analyst, Workforce Planning",Salesforce,"Austin, TX",11,Data+Analyst,Austin%2C+TX
+897,Senior Salesforce Business Analyst,Pearson,"Austin, TX 78757 (North Shoal Creek area)+1 location",15,Data+Analyst,Austin%2C+TX
+898,"Senior Manager, Functional Lead/Business Analyst",Salesforce,"Austin, TX",12,Data+Analyst,Austin%2C+TX
+899,Sr. Business Analyst - Salesforce,Zscaler,"Austin, TX•Remote",14,Data+Analyst,Austin%2C+TX
+900,Warehouse Associate,Ferguson,"Austin, TX+1 location",10,Infrastructure,Austin%2C+TX
+901,"Account Executive, Small/Medium Business, Google Cloud",Google,"Austin, TX (Downtown area)",11,Infrastructure,Austin%2C+TX
+902,ETCH Equipment Maintenance Technician - Days 2 Shift,NXP Semiconductors,"Austin, TX 78735 (West Oak Hill area)",11,Infrastructure,Austin%2C+TX
+903,Supply Quality Manager,Amazon.com Services LLC,"Austin, TX",9,Infrastructure,Austin%2C+TX
+904,Director of MDT Programming,"Children's Advocacy Centers of Texas, Inc.","Austin, TX 78757 (Crestview area)•Remote",5,Infrastructure,Austin%2C+TX
+905,"Manager, US South Central States, AWS Public Policy",Amazon.com Services LLC,"Austin, TX",11,Infrastructure,Austin%2C+TX
+906,CISO (Remote),Everly Health,"Austin, TX•Remote",10,Infrastructure,Austin%2C+TX
+907,Damage Assessor (Disaster Recovery),AECOM,"Austin, TX 78703",9,Infrastructure,Austin%2C+TX
+908,Cybersecurity Apprentice,IBM,"Austin, TX 73301 (St Edwards area)",11,Infrastructure,Austin%2C+TX
+909,Staff BIM Modeler,Tesla,"Austin, TX",15,Infrastructure,Austin%2C+TX
+910,Energy Advisor,Leidos,"Austin, TX 78759 (Arboretum area)",9,Infrastructure,Austin%2C+TX
+911,Program Manager - Infrastructure Services - Programs & Solut...,Apple,"Austin, TX",11,Infrastructure,Austin%2C+TX
+912,Vice President - Emerging Technology and Disruptive Commerce...,"JPMorgan Chase Bank, N.A.","Austin, TX",9,Infrastructure,Austin%2C+TX
+913,Associate TMO Analyst,Deloitte,"Austin, TX",13,Infrastructure,Austin%2C+TX
+914,"Mid-Market Territory Manager, Google Cloud (Spanish)",Google,"Austin, TX (Downtown area)",10,Infrastructure,Austin%2C+TX
+915,Americas Retail Fulfillment Operations Manager,Apple,"Austin, TX",9,Infrastructure,Austin%2C+TX
+916,Data Center Operator I,Texas Legislative Council,"Austin, TX 78701 (Downtown area)",10,Infrastructure,Austin%2C+TX
+917,Sr. Materials and S&OP Manager,"Amazon Data Services, Inc.","Austin, TX",15,Infrastructure,Austin%2C+TX
+918,"Scaled Customer Engineer, Google Cloud",Google,"Austin, TX (Downtown area)",9,Infrastructure,Austin%2C+TX
+919,Patient Access Manager,R1 RCM Inc.,"Kyle, TX 78640+3 locations",15,Infrastructure,Austin%2C+TX
+920,Operations Analyst,Ferrovial Services,"Austin, TX",12,Infrastructure,Austin%2C+TX
+921,Cleans/Wet Etch Equipment Engineer,NXP Semiconductors,"Austin, TX 78735 (West Oak Hill area)+1 location",9,Infrastructure,Austin%2C+TX
+922,"Help Desk Specialists, Windows 10",IBM,"Austin, TX 73301 (St Edwards area)+1 location",11,Infrastructure,Austin%2C+TX
+923,"IT Support Analyst - Austin, TX",CalTech,"Cedar Park, TX 78613",15,Infrastructure,Austin%2C+TX
+924,"REGISTRAR (PART TIME) GATEWAY TECH - GEORGETOWN, TX",Orenda Education,"Georgetown, TX 78628",10,Infrastructure,Austin%2C+TX
+925,Business Process Improvement Manager,Superior HealthPlan,"Austin, TX",9,Infrastructure,Austin%2C+TX
+926,Quality Assurance Spec III,Health & Human Services Comm,"Austin, TX 78751 (Triangle State area)",11,Infrastructure,Austin%2C+TX
+927,ATMC Assoc Conversion - 8,NXP Semiconductors,"Austin, TX 78735 (West Oak Hill area)",9,Infrastructure,Austin%2C+TX
+928,"Sr. Sales Manager, EDU",Amazon.com Services LLC,"Austin, TX",14,Infrastructure,Austin%2C+TX
+929,"Director, Product Management – IT, DFS Digital Customer Mana...",Dell Technologies,"Round Rock, TX",10,CIO,Austin%2C+TX
+930,"Director, Product Management – IT, DFS Digital Customer Mana...",Dell Technologies,"Round Rock, TX",10,CIO,Austin%2C+TX
+931,"PR Manager, Alexa AI",Amazon.com Services LLC,"Austin, TX",9,AI,Austin%2C+TX
+932,Conversational AI Content Strategist,Facebook App,"Austin, TX",11,AI,Austin%2C+TX
+933,Americas Logistics Business Analyst,Apple,"Austin, TX",15,AI,Austin%2C+TX
+934,Senior Scientist,Pattern Bioscience,"Austin, TX 78759 (Arboretum area)",12,AI,Austin%2C+TX
+935,"AI/ML - Instructional Designer, Annotation Operations",Apple,"Austin, TX",11,AI,Austin%2C+TX
+936,People Ops Recruiting Coordinator,"Iron Ox, Inc.","Austin, TX+2 locations",12,AI,Austin%2C+TX
+937,Senior Data Scientist,Bumble,"Austin, TX",11,AI,Austin%2C+TX
+938,Customer Success Manager (Remote Friendly),Alegion,"Austin, TX 78702 (Rosewood area)•Remote",9,AI,Austin%2C+TX
+939,Senior Commercial - Machine Learning/AI Solutions,Demo - Rockwell Automation,"Austin, TX•Remote",15,AI,Austin%2C+TX
+940,"Director of Marketing, AI",Oculus,"Austin, TX",10,AI,Austin%2C+TX
+941,"Manager, Product Data Operations",Facebook App,"Austin, TX",11,AI,Austin%2C+TX
+942,Clinical Informatics Specialist,Accenture,"Austin, TX",12,AI,Austin%2C+TX
+943,Research Scientist - Industrial Organizational Psychology (R...,Pearson,"Austin, TX 78757 (North Shoal Creek area)•Remote",15,AI,Austin%2C+TX
+944,"Data Scientist, Consultant",Deloitte,"Austin, TX+3 locations",10,AI,Austin%2C+TX
+945,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"Austin, TX•Remote",15,AI,Austin%2C+TX
+946,"Project Manager, Product Data Operations",Facebook App,"Austin, TX",11,AI,Austin%2C+TX
+947,Client Success Manager,DISCO,"Austin, TX",10,AI,Austin%2C+TX
+948,Senior AI Engineer,"Certain Affinity, Inc.","Austin, TX 78752 (Highland area)",10,AI,Austin%2C+TX
+949,Telecom Systems Business (TSB) Program Director,Dell Technologies,"Austin, TX+8 locations",10,AI,Austin%2C+TX
+950,Graphic Designer,Kyndryl,"Austin, TX",11,AI,Austin%2C+TX
+951,AI/ML Product Manager (USA Remote),Dell Technologies,"Round Rock, TX+1 location•Remote",9,AI,Austin%2C+TX
+952,Senior AI Engineer,"Certain Affinity, Inc.","Austin, TX 78752 (Highland area)",10,AI,Austin%2C+TX
+953,Client Success Manager,DISCO,"Austin, TX",10,AI,Austin%2C+TX
+954,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"Austin, TX•Remote",15,AI,Austin%2C+TX
+955,Graphic Designer,Kyndryl,"Austin, TX",11,AI,Austin%2C+TX
+956,"Telco, Media & Entertainment - AI and Data Transformation Ma...",Deloitte,"Austin, TX",15,AI,Austin%2C+TX
+957,Strategy Manager,"SparkCognition Government Systems, Inc.","Austin, TX 78759 (Arboretum area)",9,AI,Austin%2C+TX
+958,VP of Engineering,Alldus,"Austin, TX",10,AI,Austin%2C+TX
+959,AI/ML Product Manager (USA Remote),Dell Technologies,"Round Rock, TX•Remote",9,AI,Austin%2C+TX
+960,"Consultant, Data Science",Dell Technologies,"Austin, TX+5 locations",9,AI,Austin%2C+TX
+961,Sr Manager - Digital Product Management,Charles Schwab,"Austin, TX",9,AI,Austin%2C+TX
+962,Telecom Systems Business (TSB) Program Director,Dell Technologies,"Austin, TX",10,AI,Austin%2C+TX
+963,Senior Legal Counsel,Nexthink,"Austin, TX",10,AI,Austin%2C+TX
+964,User Experience Designer,Deloitte,"Austin, TX",10,AI,Austin%2C+TX
+965,Conversational AI / Chatbot Developer,Deloitte,"Austin, TX",11,AI,Austin%2C+TX
+966,Automation Development Lead - Robotic Process Automation,Accenture,"Austin, TX•Remote",12,AI,Austin%2C+TX
+967,AI and Data Strategy Senior Manager,Deloitte,"Austin, TX+1 location",15,AI,Austin%2C+TX
+968,"HR Director, Facebook Business Group, Ops and Engineering",Facebook App,"Austin, TX",11,AI,Austin%2C+TX
+969,GPU & Accelerator System Development Engineer 2,Dell Technologies,"Round Rock, TX+1 location",10,AI,Austin%2C+TX
+970,Director of Integrity Foundations Operations,Facebook App,"Austin, TX",11,AI,Austin%2C+TX
+971,HR Technology Digital Ecosystem Designer,Facebook App,"Austin, TX",9,AI,Austin%2C+TX
+972,Sr. Manager - SaaS Analytics - Opportunity for Working Remot...,VMware,"Austin, TX•Remote",11,AI,Austin%2C+TX
+973,Data Scientist,Dealerware,"Austin, TX•Remote",15,Machine+Learning,Austin%2C+TX
+974,"Senior Manager, Software Engineering",Indeed,"Austin, TX+1 location•Remote",11,Machine+Learning,Austin%2C+TX
+975,Senior Data Engineer,GTS Technology Solutions,"Austin, TX 78730",10,Machine+Learning,Austin%2C+TX
+976,Machine Learning Performance Engineer - 124765,"Advanced Micro Devices, Inc.","Austin, TX",11,Machine+Learning,Austin%2C+TX
+977,Jr. Developer,Deloitte,"Austin, TX",15,Machine+Learning,Austin%2C+TX
+978,Desktop Support Specialist,AlertMedia,"Austin, TX",3,Machine+Learning,Austin%2C+TX
+979,Lab Support Engineer,Dell Technologies,"Round Rock, TX+2 locations",10,Machine+Learning,Austin%2C+TX
+980,Machine Learning DevOps Engineer,John Deere,"Austin, TX 78704 (South Lamar-South Congress area)•Remote",9,Machine+Learning,Austin%2C+TX
+981,Account Manager - E-Commerce Machine Learning,Granify,"Austin, TX 78702 (Rosewood area)",11,Machine+Learning,Austin%2C+TX
+982,Product Analysis Data Scientist,Apple,"Austin, TX+1 location",8,Machine+Learning,Austin%2C+TX
+983,UX Writer – Dell.com (100% Remote - US),Dell Technologies,"Austin, TX•Remote",10,Machine+Learning,Austin%2C+TX
+984,Mid-Level QA Engineer/Tester,Smarter Sorting,"Austin, TX",12,Machine+Learning,Austin%2C+TX
+985,Senior Commercial - Machine Learning/AI Solutions,Demo - Rockwell Automation,"Austin, TX•Remote",15,Machine+Learning,Austin%2C+TX
+986,Data Analyst,"Raybeam, Inc.","Austin, TX 78701 (Downtown area)•Temporarily Remote",2,Machine+Learning,Austin%2C+TX
+987,Americas Logistics Business Analyst,Apple,"Austin, TX",15,Machine+Learning,Austin%2C+TX
+988,"Sr Machine Learning Scientist, Recommender Systems",Expedia Group,"Austin, TX 78716",15,Machine+Learning,Austin%2C+TX
+989,"Data Scientist, Consultant",Deloitte,"Austin, TX+3 locations",10,Machine+Learning,Austin%2C+TX
+990,Senior Data Scientist - Consumer Decision Science,Glassdoor,"Austin, TX",12,Machine+Learning,Austin%2C+TX
+991,"Product Manager, AI & Machine Learning - REMOTE",Thermo Fisher Scientific,"Austin, TX•Remote",15,Machine+Learning,Austin%2C+TX
+992,Senior Data Scientist,Bumble,"Austin, TX",11,Machine+Learning,Austin%2C+TX
+993,Data Engineer,Dell Technologies,"Round Rock, TX+12 locations•Remote",10,Machine+Learning,Austin%2C+TX
+994,"Product Manager, Conversational Support",Apple,"Austin, TX",11,Machine+Learning,Austin%2C+TX
+995,"Product Manager - PowerEdge Servers (Remote, US)",Dell Technologies,"Round Rock, TX+5 locations•Remote",10,Machine+Learning,Austin%2C+TX
+996,VxRail Technical Support Engineer 2 (I6),Dell Technologies,"Round Rock, TX",10,Machine+Learning,Austin%2C+TX
+997,"Sr. Security Technologist - Round Rock, TX or Hopkinton, MA",Dell Technologies,"Round Rock, TX",10,Machine+Learning,Austin%2C+TX
+998,"Consultant, Data Science",Dell Technologies,"Austin, TX+5 locations",9,Machine+Learning,Austin%2C+TX
+999,Staff Software Engineer - Applied Insights,WellSky,"Austin, TX",12,Machine+Learning,Austin%2C+TX
+1000,"People Research Scientist, People Analytics (Future of Work)",Facebook App,"Austin, TX+4 locations",11,Machine+Learning,Austin%2C+TX
+1001,Data Engineer,Dell Technologies,"Round Rock, TX+10 locations•Remote",10,Machine+Learning,Austin%2C+TX
+1002,"Network Architect, Load Balancing Design (Remote-US)",Dell Technologies,"Round Rock, TX+1 location•Remote",10,Machine+Learning,Austin%2C+TX
+1003,Software Development Engineer,Amazon.com Services LLC,"Austin, TX+7 locations",14,Machine+Learning,Austin%2C+TX
+1004,Americas Logistics Business Analyst,Apple,"Austin, TX",15,Machine+Learning,Austin%2C+TX
+1005,"UEFI/BIOS Software Principal Engineer - Austin, TX",Dell Technologies,"Austin, TX+25 locations",10,Machine+Learning,Austin%2C+TX
+1006,Software Development Manager,Dell Technologies,"Austin, TX+1 location",10,Machine+Learning,Austin%2C+TX
+1007,Senior Data Scientist,Bumble,"Austin, TX",11,Machine+Learning,Austin%2C+TX
+1008,Strategy Director,Fresh Consulting,"Austin, TX",15,Machine+Learning,Austin%2C+TX
+1009,"Telecom Solutions Engineer, Telecom Systems Business",Dell Technologies,"Round Rock, TX+1 location",10,Machine+Learning,Austin%2C+TX
+1010,Digital Transformation Manager,Facebook App,"Austin, TX",11,Machine+Learning,Austin%2C+TX
+1011,"Transformation Program Manager - Austin, TX",Dell Technologies,"Austin, TX+3 locations",10,Machine+Learning,Austin%2C+TX
+1012,Partner Software Cloud PM Consultant,Dell Technologies,"Round Rock, TX+4 locations",10,Machine+Learning,Austin%2C+TX
+1013,Network Security Engineer,Dell Technologies,"Austin, TX+1 location•Remote",10,Machine+Learning,Austin%2C+TX
+1014,Deploy Program Manager (USA Remote),Dell Technologies,"Round Rock, TX•Remote",10,Machine+Learning,Austin%2C+TX
+1015,IT Network Engineer,Dell Technologies,"Austin, TX+2 locations",10,Machine+Learning,Austin%2C+TX
+1016,Security Engineer,Dell Technologies,"Round Rock, TX+2 locations•Remote",10,Machine+Learning,Austin%2C+TX
+1017,Digital Forensic Incident Response (DFIR) Consultant,Dell Technologies,"Austin, TX•Remote",10,Machine+Learning,Austin%2C+TX
+1018,Software Architect,Dell Technologies,"Round Rock, TX+10 locations•Remote",10,Machine+Learning,Austin%2C+TX
+1019,"Advisor, Business Intelligence",Dell Technologies,"Round Rock, TX+3 locations",10,Machine+Learning,Austin%2C+TX
+1020,GPU & Accelerator System Development Engineer 2,Dell Technologies,"Round Rock, TX+2 locations",10,Machine+Learning,Austin%2C+TX
+1021,"Principal Interaction/Visual Designer - Remote US or Austin,...",Dell Technologies,"Austin, TX+1 location•Remote",10,Machine+Learning,Austin%2C+TX
+1022,Data Engineer 1,Providence,"Seattle, WA 98194+5 locations",10,Data+Engineer,Seattle%2C+WA
+1023,Data Engineer Lu2686,Nisum,"Seattle, WA",10,Data+Engineer,Seattle%2C+WA
+1024,Software Engineer/Backend Data - Analytics Engineering,Apple,"Seattle, WA+2 locations",10,Data+Engineer,Seattle%2C+WA
+1025,Senior Data Engineer,Trupanion,"Seattle, WA 98108 (Georgetown area)•Remote",12,Data+Engineer,Seattle%2C+WA
+1026,Quality Engineer - Data Analytics,SoundCommerce,"Seattle, WA 98103 (Fremont area)",11,Data+Engineer,Seattle%2C+WA
+1027,Advisory Systems Engineer - Unstructured Data Solutions,Dell Technologies,"Seattle, WA",10,Data+Engineer,Seattle%2C+WA
+1028,Distinguished Engineer - Data Ingestion and Stream Processin...,Splunk,"Seattle, WA 98103 (Green Lake - Wallingford area)",15,Data+Engineer,Seattle%2C+WA
+1029,Software Engineer - I (Cloud and Data Platform),"JPMorgan Chase Bank, N.A.","Seattle, WA",10,Data+Engineer,Seattle%2C+WA
+1030,Data Engineer,Delta Dental of WA,"Seattle, WA 98109 (South Lake Union area)",15,Data+Engineer,Seattle%2C+WA
+1031,Software Development Engineer II - Data Visualization,Fred Hutchinson Cancer Research Center,"Seattle, WA 98109 (South Lake Union area)",12,Data+Engineer,Seattle%2C+WA
+1032,"Staff Software Engineer : Data Management Services, Core Inf...",Salesforce,"Seattle, WA",11,Data+Engineer,Seattle%2C+WA
+1033,Senior Data Engineer,System1,"Seattle, WA",10,Data+Engineer,Seattle%2C+WA
+1034,Sr. ACES Data Engineer Manager,Amazon.com Services LLC,"Seattle, WA",14,Data+Engineer,Seattle%2C+WA
+1035,"Engineer III, Data Engineer",Samsung Electronics,"Bellevue, WA 98004 (Downtown area)",15,Data+Engineer,Seattle%2C+WA
+1036,"Principal Software Engineer, Data Pipeline",WarnerMedia,"Seattle, WA",11,Data+Engineer,Seattle%2C+WA
+1037,VMware Tanzu Data Engineer (Greenplum) - Opportunity for Wor...,VMware,"Seattle, WA•Remote",11,Data+Engineer,Seattle%2C+WA
+1038,"DataCenter Structural Engineer, Data Center Design Engineeri...","Amazon Data Services, Inc.","Seattle, WA",15,Data+Engineer,Seattle%2C+WA
+1039,Senior Cloud Data Engineer,PRICE WATERHOUSE COOPERS,"Seattle, WA 98101 (Downtown area)",10,Data+Engineer,Seattle%2C+WA
+1040,"Hardware System Engineer, Data Analytics",Facebook App,"Seattle, WA+1 location",11,Data+Engineer,Seattle%2C+WA
+1041,Sr/Staff/Principal Software Engineer - Cloud and Big Data Pl...,"JPMorgan Chase Bank, N.A.","Seattle, WA",10,Data+Engineer,Seattle%2C+WA
+1042,Junior Data Engineer/Analyst -Entry Level,PCS GLOBAL TECH,"Seattle, WA•Temporarily Remote",3,Data+Engineer,Seattle%2C+WA
+1043,Data Engineer,Slalom Consulting,"Seattle, WA•Temporarily Remote",3,Data+Engineer,Seattle%2C+WA
+1044,"Senior Software Engineer, Big Data",Cognitiv.ai,"Bellevue, WA 98004 (Downtown area)",3,Data+Engineer,Seattle%2C+WA
+1045,"Data Analytics Engineer [Remote, Crypto]",Acala,"Seattle, WA•Remote",7,Data+Engineer,Seattle%2C+WA
+1046,Data Engineer,PIT SOLUTIONS,"Redmond, WA•Temporarily Remote",4,Data+Engineer,Seattle%2C+WA
+1047,Senior Data Engineer,mumba,"Seattle, WA•Remote",3,Data+Engineer,Seattle%2C+WA
+1048,Business Intelligence Engineer/Data Scientist-Remote,iFoodDecisionSciences,"Seattle, WA 98101 (Downtown area)•Remote",11,Data+Engineer,Seattle%2C+WA
+1049,Software Engineer II - Analysis of Large-scale (brain-wide)...,Allen Institute,"Seattle, WA 98109 (South Lake Union area)",10,Data+Engineer,Seattle%2C+WA
+1050,Data Software Engineer,WideOrbit,"Seattle, WA•Temporarily Remote",9,Data+Engineer,Seattle%2C+WA
+1051,Data Integration Engineer,Ohio Shared Information Services Inc,"Seattle, WA•Remote",15,Data+Engineer,Seattle%2C+WA
+1052,"Senior Staff Software Engineer - (Java, API Design, Data str...",Lookout,"Seattle, WA+1 location•Remote",13,Data+Engineer,Seattle%2C+WA
+1053,Data Analyst,"Raybeam, Inc.","Seattle, WA•Remote",2,Data+Analyst,Seattle%2C+WA
+1054,Junior Data Engineer/Analyst -Entry Level,PCS GLOBAL TECH,"Seattle, WA•Temporarily Remote",3,Data+Analyst,Seattle%2C+WA
+1055,HR Data Analyst,Microsoft,"Redmond, WA 98052 (Overlake area)",10,Data+Analyst,Seattle%2C+WA
+1056,Product Data Analyst,Aston Carter,"Bellevue, WA 98004 (North Bellevue area)",10,Data+Analyst,Seattle%2C+WA
+1057,Operations Analyst,"Amazon Web Services, Inc.","Seattle, WA",14,Data+Analyst,Seattle%2C+WA
+1058,DATA ANALYST,University of Washington,"Seattle, WA 98195 (University District area)•Remote",10,Data+Analyst,Seattle%2C+WA
+1059,Azure AI Data Analyst (Jr/Mid),WisEngineering,"Bellevue, WA",5,Data+Analyst,Seattle%2C+WA
+1060,Health Sciences Research Data Analyst,Veteran Affairs,"Seattle, WA 98108 (North Beacon Hill area)",3,Data+Analyst,Seattle%2C+WA
+1061,Clinical Data Analyst Per Diem,Overlake Medical Center,"Bellevue, WA 98004 (Downtown area)",9,Data+Analyst,Seattle%2C+WA
+1062,Business Analyst,King County,"Seattle, WA 98104 (Downtown area)+1 location•Remote",10,Data+Analyst,Seattle%2C+WA
+1063,Data Analyst I - Hybrid,ASK Consulting,"Bellevue, WA 98006 (Somerset area)",3,Data+Analyst,Seattle%2C+WA
+1064,Digital Analyst - Reporting,REI,"Seattle, WA",11,Data+Analyst,Seattle%2C+WA
+1065,Financial Planning Analyst,Alaska Airlines,"Seattle, WA 98194 (Downtown area)",15,Data+Analyst,Seattle%2C+WA
+1066,Data Analyst,Oculus,"Redmond, WA+2 locations",11,Data+Analyst,Seattle%2C+WA
+1067,Client Data Analyst I,Healthcare Management Administrators,"Bellevue, WA 98004 (Downtown area)",11,Data+Analyst,Seattle%2C+WA
+1068,"Workforce Analyst, Mission Control",Facebook App,"Seattle, WA",11,Data+Analyst,Seattle%2C+WA
+1069,BI ANALYST - GLOBAL SUPPLY CHAIN,Trident Seafoods Corporation,"Seattle, WA 98107 (Ballard area)",9,Data+Analyst,Seattle%2C+WA
+1070,Security Analyst II,Microsoft,"Redmond, WA 98052 (Overlake area)",14,Data+Analyst,Seattle%2C+WA
+1071,Business Analyst,Expedia Group,"Seattle, WA 98119 (Queen Anne area)",10,Data+Analyst,Seattle%2C+WA
+1072,INSTITUTIONAL ANALYST,University of Washington,"Seattle, WA 98195 (University District area)",10,Data+Analyst,Seattle%2C+WA
+1073,"Senior Pricing Analyst, Tableau",Salesforce,"Seattle, WA",11,Data+Analyst,Seattle%2C+WA
+1074,Insight & Analytics - Sr Data Analyst,WE Communications,"Bellevue, WA 98004 (Downtown area)•Remote",11,Data+Analyst,Seattle%2C+WA
+1075,Business Analytics Specialist- BI Developer,Microsoft,"Bellevue, WA",12,Data+Analyst,Seattle%2C+WA
+1076,Bi-Lingual Marketing Analyst/ Sr. Marketing Analyst (23/24),PACCAR,"Renton, WA 98055",15,Data+Analyst,Seattle%2C+WA
+1077,Business Analyst,"MV Transportation, Inc.","Redmond, WA",15,Data+Analyst,Seattle%2C+WA
+1078,Global Chief Data Office Insights Analyst,PRICE WATERHOUSE COOPERS,"Seattle, WA 98101 (Downtown area)+2 locations",10,Data+Analyst,Seattle%2C+WA
+1079,Business Analyst (Analytics),AAA Washington,"Bellevue, WA",12,Data+Analyst,Seattle%2C+WA
+1080,Principal Reimbursement BI Data Analyst PSJH,Providence,"Renton, WA 98057",15,Data+Analyst,Seattle%2C+WA
+1081,"Business Analyst II, S&OP",Amazon.com Services LLC,"Bellevue, WA",12,Data+Analyst,Seattle%2C+WA
+1082,Senior Business Analyst,Moss Adams,"Seattle, WA",12,Data+Analyst,Seattle%2C+WA
+1083,Orbital Reef Business Analyst,Blue Origin,"Kent, WA",9,Data+Analyst,Seattle%2C+WA
+1084,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"Seattle, WA 98104 (Downtown area)+1 location",9,Data+Analyst,Seattle%2C+WA
+1085,Transformation Business Analyst,National University,"Seattle, WA 98188",12,Data+Analyst,Seattle%2C+WA
+1086,Senior Salesforce Business Analyst,Pearson,"Olympia, WA+1 location",15,Data+Analyst,Seattle%2C+WA
+1087,OFRO SNAP Data Analysis & Modeling Senior Associate,PRICE WATERHOUSE COOPERS,"Seattle, WA 98101 (Downtown area)",10,Data+Analyst,Seattle%2C+WA
+1088,Director of Information Technology,Ubio Labs. Inc.,"Seattle, WA+3 locations",12,Infrastructure,Seattle%2C+WA
+1089,Manager of Software Test,Meteorcomm,"Renton, WA 98057",3,Infrastructure,Seattle%2C+WA
+1090,Test Site Specialist @ Federal Way Sacajawea Middle School i...,Curative Inc.,"Federal Way, WA 98003 (Steel Lake area)+1 location",10,Infrastructure,Seattle%2C+WA
+1091,Test Site Specialist @ Federal Way Educational Service Cente...,Curative Inc.,"Federal Way, WA 98003 (West Campus area)",10,Infrastructure,Seattle%2C+WA
+1092,Armed Bank Security Officer,Inter-Con Security Systems,"Seattle, WA 98119 (West Queen Anne area)",5,Infrastructure,Seattle%2C+WA
+1093,Business Intelligence Engineer,Epitec,"Redmond, WA 98052 (Overlake area)",12,Infrastructure,Seattle%2C+WA
+1094,Supply Chain Analyst,NuWest Group,"Everett, WA",10,Infrastructure,Seattle%2C+WA
+1095,Meter Reader,Landis Gyr,"Kirkland, WA•Remote",15,Infrastructure,Seattle%2C+WA
+1096,Meter Reader,Landis+Gyr,"Kirkland, WA•Remote",15,Infrastructure,Seattle%2C+WA
+1097,Controllership Analyst,"Amazon Web Services, Inc.","Seattle, WA",10,Infrastructure,Seattle%2C+WA
+1098,"Divisional Vice President, Cloud & Infrastructure Services",REI,"Seattle, WA",9,Infrastructure,Seattle%2C+WA
+1099,Operations Analyst,"Amazon Web Services, Inc.","Seattle, WA",14,Infrastructure,Seattle%2C+WA
+1100,Electric Vehicle Infrastructure Lead,Edison Energy Group,"Seattle, WA 98104•Remote",11,Infrastructure,Seattle%2C+WA
+1101,Jr. Salesforce Administrator,"Amazon Web Services, Inc.","Seattle, WA",10,Infrastructure,Seattle%2C+WA
+1102,Real Estate Agent,RexMont Real Estate Inc,"Bellevue, WA",2,Infrastructure,Seattle%2C+WA
+1103,Associate Engineer-Systems,Sound Transit,"Seattle, WA 98104 (International District area)",11,Infrastructure,Seattle%2C+WA
+1104,Mid-Level University Recruiting and Relations Specialist (Vi...,BOEING,"Renton, WA+1 location",9,Infrastructure,Seattle%2C+WA
+1105,"HR Director, Infrastructure",Facebook App,"Seattle, WA",11,Infrastructure,Seattle%2C+WA
+1106,"Inside Account Executive, Americas Inside Sales Team","Amazon Web Services, Inc.","Seattle, WA",15,Infrastructure,Seattle%2C+WA
+1107,Key Account Manager - Small Cell/DAS/Telco,Signify,"Seattle, WA•Remote",11,Infrastructure,Seattle%2C+WA
+1108,"Regional Manager, Northwest",Tesla,"Seattle, WA",15,Infrastructure,Seattle%2C+WA
+1109,"Nonprofit Solution Engineer, Engagement Solutions",Salesforce,"Seattle, WA+6 locations",10,Infrastructure,Seattle%2C+WA
+1110,Jr. Salesforce Administrator,"Amazon Web Services, Inc.","Seattle, WA",10,Infrastructure,Seattle%2C+WA
+1111,"MuleSoft Strategic Advisor, Customer Success Strategy & Arch...",Salesforce,"Seattle, WA",10,Infrastructure,Seattle%2C+WA
+1112,Datacenter Security Operations Manager,Microsoft,"Bothell, WA",15,Infrastructure,Seattle%2C+WA
+1113,Staff UI Infrastructure Engineer- Glide Division,Compass,"Seattle, WA 98104 (Pioneer Square area)+1 location",11,Infrastructure,Seattle%2C+WA
+1114,Executive Assistant,Oracle,"Seattle, WA",10,Infrastructure,Seattle%2C+WA
+1115,Mid-Level University Recruiting and Relations Specialist (Vi...,BOEING,"Renton, WA+1 location",9,Infrastructure,Seattle%2C+WA
+1116,Blockchain & Smart Contract Developer,"Arganteal, Corp.","Seattle, WA 98101 (Downtown area)•Remote",14,Infrastructure,Seattle%2C+WA
+1117,Sales Manager,"SBF Search, LLC","Seattle, WA",14,Infrastructure,Seattle%2C+WA
+1118,Infrastructure Svc Eng Advisor,Anthem,"Seattle, WA 98122 (Yesler Terrace area)",9,Infrastructure,Seattle%2C+WA
+1119,Director of Information Technology,Ubio Labs. Inc.,"Seattle, WA+3 locations",12,CIO,Seattle%2C+WA
+1120,AI Residency Program 2022 - US Locations,Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1121,Summer 2022 AI/ML Rotation Program Cohort,Apple,"Seattle, WA",10,AI,Seattle%2C+WA
+1122,Azure AI Data Analyst (Jr/Mid),WisEngineering,"Bellevue, WA",5,AI,Seattle%2C+WA
+1123,"AI/ML - Software Screener Engineer, Machine Translation",Apple,"Seattle, WA+3 locations",10,AI,Seattle%2C+WA
+1124,AI/ML,Apple,"Seattle, WA",9,AI,Seattle%2C+WA
+1125,"Qualitative Researcher, AI",Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1126,Industry AI Program Manager,Microsoft,"Redmond, WA 98052 (Overlake area)+1 location",15,AI,Seattle%2C+WA
+1127,Controller,Shelf Engine,"Seattle, WA",10,AI,Seattle%2C+WA
+1128,Economist,Amazon.com Services LLC,"Seattle, WA",9,AI,Seattle%2C+WA
+1129,"AI/ML Specialist, Personalization","Amazon Web Services, Inc.","Seattle, WA",12,AI,Seattle%2C+WA
+1130,"Technical Writer, TensorFlow",Google,"Seattle, WA (Fremont area)",15,AI,Seattle%2C+WA
+1131,"Quality Assurance Engineer - Robotics AI, Robotics AI",Amazon.com Services LLC,"Seattle, WA",14,AI,Seattle%2C+WA
+1132,"Program Manager, Core AI",Amazon.com Services LLC,"Seattle, WA+1 location",9,AI,Seattle%2C+WA
+1133,"Applied Scientist II, Robotics AI",Amazon.com Services LLC,"Seattle, WA+4 locations",15,AI,Seattle%2C+WA
+1134,"AI/ML - ML Research Lead, Machine Translation",Apple,"Seattle, WA",15,AI,Seattle%2C+WA
+1135,AI/ML Developer Advocate,Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1136,Designer,Microsoft,"Redmond, WA 98052 (Overlake area)+1 location",15,AI,Seattle%2C+WA
+1137,AI/ML - Sr Data Scientist,Apple,"Seattle, WA+1 location",9,AI,Seattle%2C+WA
+1138,Senior PM Manager,Microsoft,"Redmond, WA 98052 (Overlake area)+1 location",9,AI,Seattle%2C+WA
+1139,"AI/ML - Sr Engineering Program/Product Manager, ML Platform...",Apple,"Seattle, WA+1 location",10,AI,Seattle%2C+WA
+1140,Applied Machine Learning Scientist II,Microsoft,"Bellevue, WA+1 location",15,AI,Seattle%2C+WA
+1141,"Technology Communications Manager, AI Integrity",Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1142,"data scientist lead - Production AI, AI/ML Evolution",Starbucks,"Seattle, WA",10,AI,Seattle%2C+WA
+1143,"Research Scientist - Computer Vision, Fulfillment AI",Amazon.com Services LLC,"Seattle, WA",10,AI,Seattle%2C+WA
+1144,"Project Manager, Product Data Operations",Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1145,"AI/ML - iOS Platform Engineer, Siri and Language Technologie...",Apple,"Seattle, WA",14,AI,Seattle%2C+WA
+1146,"Sr Product Manager - Technical, Search Science & AI",Amazon.com Services LLC,"Seattle, WA+4 locations",9,AI,Seattle%2C+WA
+1147,"Telco, Media & Entertainment - AI and Data Transformation Ma...",Deloitte,"Seattle, WA 98104 (Downtown area)+3 locations",15,AI,Seattle%2C+WA
+1148,"AI/ML - Sr. Backend Software Engineer, Machine Translation",Apple,"Seattle, WA",10,AI,Seattle%2C+WA
+1149,"Technical Program Manager, Robotics AI",Amazon.com Services LLC,"Seattle, WA+5 locations",14,AI,Seattle%2C+WA
+1150,Head of Analytics,Shelf Engine,"Seattle, WA",15,AI,Seattle%2C+WA
+1151,"Art Director, Alexa B2BD Marketing",Amazon.com Services LLC,"Seattle, WA",11,AI,Seattle%2C+WA
+1152,Clinical Informatics Specialist,Accenture,"Seattle, WA 98101 (Downtown area)",12,AI,Seattle%2C+WA
+1153,"Director of Marketing, AI",Oculus,"Seattle, WA 98109 (South Lake Union area)",10,AI,Seattle%2C+WA
+1154,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"Seattle, WA 98101 (Downtown area)+1 location",10,AI,Seattle%2C+WA
+1155,"Manager, Product Data Operations",Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1156,"AI/ML - Sr Engineering Manager, Information Intelligence",Apple,"Seattle, WA+1 location",9,AI,Seattle%2C+WA
+1157,Senior Product Manager,Microsoft,"Bellevue, WA+1 location",15,AI,Seattle%2C+WA
+1158,"Program Manager, AI",Facebook App,"Seattle, WA",11,AI,Seattle%2C+WA
+1159,"Front End Engineer, Commerce Cloud",Salesforce,"Seattle, WA",11,AI,Seattle%2C+WA
+1160,Senior System Engineer,Microsoft,"Redmond, WA 98052 (Overlake area)",15,AI,Seattle%2C+WA
+1161,Data Analyst,"Raybeam, Inc.","Seattle, WA•Remote",2,Machine+Learning,Seattle%2C+WA
+1162,"Data Scientist 1, People Analytics (remote position)",Nordstrom Inc,"Seattle, WA•Remote",10,Machine+Learning,Seattle%2C+WA
+1163,"AI/ML - Machine Learning Engineer, ML Platform & Technology",Apple,"Seattle, WA",11,Machine+Learning,Seattle%2C+WA
+1164,Deep Learning Engineer - Perception Algorithms,Apple,"Seattle, WA",11,Machine+Learning,Seattle%2C+WA
+1165,Applied Machine Learning Scientist II,Microsoft,"Bellevue, WA+7 locations",15,Machine+Learning,Seattle%2C+WA
+1166,AI Residency Program 2022 - US Locations,Facebook App,"Seattle, WA+21 locations",11,Machine+Learning,Seattle%2C+WA
+1167,Machine Learning Engineer,Infobip,"Seattle, WA",16,Machine+Learning,Seattle%2C+WA
+1168,Machine Learning Engineer,Micron Technology,"Seattle, WA 98104 (Downtown area)",11,Machine+Learning,Seattle%2C+WA
+1169,Research Engineer in Machine Learning (Music),TikTok,"Seattle, WA+2 locations",15,Machine+Learning,Seattle%2C+WA
+1170,Machine Learning Scientist III,Expedia Group,"Seattle, WA 98127",10,Machine+Learning,Seattle%2C+WA
+1171,"Software Engineer lll, Machine Learning Infrastructure, Proj...",Google,"Seattle, WA (Fremont area)",10,Machine+Learning,Seattle%2C+WA
+1172,Business Analytics Specialist,Microsoft,"Bellevue, WA+1 location",9,Machine+Learning,Seattle%2C+WA
+1173,Data Scientist,Foursquare,"Seattle, WA+1 location",9,Machine+Learning,Seattle%2C+WA
+1174,Software Development Engineer II,Amazon.com Services LLC,"Bellevue, WA+24 locations",11,Machine+Learning,Seattle%2C+WA
+1175,Business Analytics Specialist- BI Developer,Microsoft,"Bellevue, WA",12,Machine+Learning,Seattle%2C+WA
+1176,Economist,Amazon.com Services LLC,"Seattle, WA+2 locations",9,Machine+Learning,Seattle%2C+WA
+1177,Software Development Engineer I,Apptio,"Bellevue, WA 98004 (Downtown area)•Remote",10,Machine+Learning,Seattle%2C+WA
+1178,ReactJS Developer,Epik Solutions,"Seattle, WA•Temporarily Remote",3,Machine+Learning,Seattle%2C+WA
+1179,"Program Manager, In Store Experience",Amazon.com Services LLC,"Seattle, WA+4 locations",9,Machine+Learning,Seattle%2C+WA
+1180,Operations Research Scientist,Convoy,"Seattle, WA 98101 (Downtown area)",14,Machine+Learning,Seattle%2C+WA
+1181,Software Engineer (Leadership) - Machine Learning,Facebook App,"Bellevue, WA+8 locations",11,Machine+Learning,Seattle%2C+WA
+1182,Digital Strategy Manager,Accenture,"Seattle, WA 98101 (Downtown area)",11,Machine+Learning,Seattle%2C+WA
+1183,"Project Manager, Product Data Operations",Facebook App,"Seattle, WA+1 location",11,Machine+Learning,Seattle%2C+WA
+1184,Research Scientist in NLP,TikTok,"Seattle, WA+1 location",15,Machine+Learning,Seattle%2C+WA
+1185,"Software Engineer- AML, TT",TikTok,"Seattle, WA+1 location",13,Machine+Learning,Seattle%2C+WA
+1186,Software Development Engineer II,Amazon.com Services LLC,"Bellevue, WA+24 locations",11,Machine+Learning,Seattle%2C+WA
+1187,"AI/ML Specialist, Personalization","Amazon Web Services, Inc.","Seattle, WA",12,Machine+Learning,Seattle%2C+WA
+1188,"Research Scientist, Natural Language Processing (NLP)",ByteDance,"Seattle, WA",13,Machine+Learning,Seattle%2C+WA
+1189,Software Development Engineer - AWS X-Ray,Amazon.com Services LLC,"Seattle, WA",10,Machine+Learning,Seattle%2C+WA
+1190,Tech Lead-Multimodal ML,TikTok,"Seattle, WA",15,Machine+Learning,Seattle%2C+WA
+1191,Research Data Scientist,Facebook App,"Seattle, WA+7 locations",11,Machine+Learning,Seattle%2C+WA
+1192,Data Center Operations Engineer I,"JPMorgan Chase Bank, N.A.","Aurora, CO",9,Data+Engineer,Denver%2C+CO
+1193,Data Engineer - Data Services (Remote) - Aegis,Aegis Premier Technologies,"Westminster, CO 80021+1 location•Remote",9,Data+Engineer,Denver%2C+CO
+1194,"Associate, Snowflake Data Engineer",KPMG,"Denver, CO+1 location",9,Data+Engineer,Denver%2C+CO
+1195,Data Engineer - Telecommute,UnitedHealth Group,"Denver, CO 80221•Remote",12,Data+Engineer,Denver%2C+CO
+1196,Data Engineer,DISH,"Denver, CO 80202 (Lodo area)+5 locations",12,Data+Engineer,Denver%2C+CO
+1197,"Staff Software Engineer : Data Management Services, Core Inf...",Salesforce,"Denver, CO",11,Data+Engineer,Denver%2C+CO
+1198,Senior Data Engineer,Trupanion,"Denver, CO 80110•Remote",12,Data+Engineer,Denver%2C+CO
+1199,IT Data Engineer,Lolli & Pops,"Denver, CO 80209",9,Data+Engineer,Denver%2C+CO
+1200,Senior Cloud Data Engineer (Open to Remote) - SimioCloud,Simio Cloud,"Westminster, CO 80021•Remote",15,Data+Engineer,Denver%2C+CO
+1201,Sr Business Operations Analyst- Data Engineer,DISH,"Englewood, CO 80112",10,Data+Engineer,Denver%2C+CO
+1202,Sr Machine Learning Data Engineer,DISH,"Englewood, CO 80112",15,Data+Engineer,Denver%2C+CO
+1203,Data Engineer - Trust Tech - Labs 2.0 - P&T,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Data+Engineer,Denver%2C+CO
+1204,"Data Analytics Engineer [Remote, Crypto]",Acala,"Denver, CO•Remote",7,Data+Engineer,Denver%2C+CO
+1205,Data Test Engineer,Technocore Global Solutions LLC,"Denver, CO 80206 (Cherry Creek area)",3,Data+Engineer,Denver%2C+CO
+1206,Data Warehouse Engineer,The Pro's Closet Inc.,"Louisville, CO•Temporarily Remote",12,Data+Engineer,Denver%2C+CO
+1207,Senior Data Engineer,Teladoc Health,"Denver, CO",10,Data+Engineer,Denver%2C+CO
+1208,Senior Python Data Engineer,AUTOPAY,"Denver, CO 80237 (Southeastern Denver area)",4,Data+Engineer,Denver%2C+CO
+1209,Big Data Engineer – Cloudera (BHJOB22048_731),ITmPowered,"Denver, CO•Temporarily Remote",12,Data+Engineer,Denver%2C+CO
+1210,Data Center Operations Engineer I,"JPMorgan Chase Bank, N.A.","Aurora, CO",9,Data+Engineer,Denver%2C+CO
+1211,Data Engineer - Data Services (Remote) - Aegis,Aegis Premier Technologies,"Westminster, CO 80021+1 location•Remote",9,Data+Engineer,Denver%2C+CO
+1212,"Associate, Snowflake Data Engineer",KPMG,"Denver, CO+1 location",9,Data+Engineer,Denver%2C+CO
+1213,Data Engineer - Telecommute,UnitedHealth Group,"Denver, CO 80221•Remote",12,Data+Engineer,Denver%2C+CO
+1214,Data Engineer,DISH,"Denver, CO 80202 (Lodo area)+5 locations",12,Data+Engineer,Denver%2C+CO
+1215,"Staff Software Engineer : Data Management Services, Core Inf...",Salesforce,"Denver, CO",11,Data+Engineer,Denver%2C+CO
+1216,Senior Data Engineer,Trupanion,"Denver, CO 80110•Remote",12,Data+Engineer,Denver%2C+CO
+1217,IT Data Engineer,Lolli & Pops,"Denver, CO 80209",9,Data+Engineer,Denver%2C+CO
+1218,Senior Cloud Data Engineer (Open to Remote) - SimioCloud,Simio Cloud,"Westminster, CO 80021•Remote",15,Data+Engineer,Denver%2C+CO
+1219,Sr Business Operations Analyst- Data Engineer,DISH,"Englewood, CO 80112",10,Data+Engineer,Denver%2C+CO
+1220,Sr Machine Learning Data Engineer,DISH,"Englewood, CO 80112",15,Data+Engineer,Denver%2C+CO
+1221,Data Engineer - Trust Tech - Labs 2.0 - P&T,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Data+Engineer,Denver%2C+CO
+1222,"Data Analytics Engineer [Remote, Crypto]",Acala,"Denver, CO•Remote",7,Data+Engineer,Denver%2C+CO
+1223,Data Test Engineer,Technocore Global Solutions LLC,"Denver, CO 80206 (Cherry Creek area)",3,Data+Engineer,Denver%2C+CO
+1224,Data Warehouse Engineer,The Pro's Closet Inc.,"Louisville, CO•Temporarily Remote",12,Data+Engineer,Denver%2C+CO
+1225,Senior Data Engineer,Teladoc Health,"Denver, CO",10,Data+Engineer,Denver%2C+CO
+1226,Senior Python Data Engineer,AUTOPAY,"Denver, CO 80237 (Southeastern Denver area)",4,Data+Engineer,Denver%2C+CO
+1227,Big Data Engineer – Cloudera (BHJOB22048_731),ITmPowered,"Denver, CO•Temporarily Remote",12,Data+Engineer,Denver%2C+CO
+1228,Data Analyst,"Raybeam, Inc.","Denver, CO 80202 (Lodo area)•Remote",2,Data+Analyst,Denver%2C+CO
+1229,Data Analyst (Partner Analytics),Strive Health,"Denver, CO 80202 (Central Business District area)•Remote",10,Data+Analyst,Denver%2C+CO
+1230,Digtial Data Analyst,Lumen,"Denver, CO 80202 (Central Business District area)",11,Data+Analyst,Denver%2C+CO
+1231,Senior Data Analyst - Product and Strategy,Assignar,"Denver, CO",3,Data+Analyst,Denver%2C+CO
+1232,Data Analyst II,RTD,"Denver, CO",14,Data+Analyst,Denver%2C+CO
+1233,Performance and Quality Analyst,Rocky Mountain Human Services,"Denver, CO 80231 (Hampden area)",9,Data+Analyst,Denver%2C+CO
+1234,Associated Product Analyst: Visa Data Manager,Visa,"Highlands Ranch, CO",11,Data+Analyst,Denver%2C+CO
+1235,Business Analyst,Eagle Harbor Solutions,"Denver, CO",9,Data+Analyst,Denver%2C+CO
+1236,Data Analyst,Sonepar Management Group,"Denver, CO",11,Data+Analyst,Denver%2C+CO
+1237,Supply Chain Analyst - Master Data,Xcel Energy,"Denver, CO 80202 (Union Station area)",9,Data+Analyst,Denver%2C+CO
+1238,Data Analyst - Technology Products Insights,Workday,"Boulder, CO 80301",9,Data+Analyst,Denver%2C+CO
+1239,Market Research Analyst,Oakwood Homes LLC,"Denver, CO 80249 (Gateway-Green Valley Ranch area)",9,Data+Analyst,Denver%2C+CO
+1240,Business Analyst (Remote),NEXGEN TECHNOLOGIES INC.,"Lakewood, CO•Remote",12,Data+Analyst,Denver%2C+CO
+1241,Benefits Analyst,Johns Manville,"Denver, CO 80202 (Central Business District area)",3,Data+Analyst,Denver%2C+CO
+1242,HR Analyst,Intrepid Potash,"Denver, CO",9,Data+Analyst,Denver%2C+CO
+1243,Financial Analyst,Breakthru Beverage Group,"Denver, CO 80238 (Stapleton area)",11,Data+Analyst,Denver%2C+CO
+1244,Data Analytics Associate - Performance Office - Department o...,City and County of Denver,"Denver, CO",10,Data+Analyst,Denver%2C+CO
+1245,Risk Analytics Analyst,Visa,"Highlands Ranch, CO",11,Data+Analyst,Denver%2C+CO
+1246,Data Center Configuration Management Analyst - TS/SCI w/Poly,General Dynamics Information Technology,"Aurora, CO",9,Data+Analyst,Denver%2C+CO
+1247,Business Analyst,DISH,"Englewood, CO 80112+3 locations",11,Data+Analyst,Denver%2C+CO
+1248,Senior Data Analyst,DISH,"Englewood, CO 80112",15,Data+Analyst,Denver%2C+CO
+1249,Senior Agile Analyst (Remote),Guild Education,"Denver, CO•Remote",30,Data+Analyst,Denver%2C+CO
+1250,Global Chief Data Office Business Integration Analyst,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,Data+Analyst,Denver%2C+CO
+1251,Sr IT Business Analyst,Caerus Operating LLC,"Denver, CO 80202 (Central Business District area)",12,Data+Analyst,Denver%2C+CO
+1252,Lead Marketing Analyst,Lumen,"Denver, CO 80202 (Central Business District area)",11,Data+Analyst,Denver%2C+CO
+1253,OFRO SNAP Data Analysis & Modeling Senior Associate,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Data+Analyst,Denver%2C+CO
+1254,Digtial Data Analyst,Lumen,"Denver, CO 80202 (Central Business District area)",11,Data+Analyst,Denver%2C+CO
+1255,"Senior Business Analyst, Workforce Planning",Salesforce,"Denver, CO",11,Data+Analyst,Denver%2C+CO
+1256,BI Analyst III - Spectrum Enterprise,Spectrum,"Greenwood Village, CO 80111",10,Data+Analyst,Denver%2C+CO
+1257,Senior Business Intelligence Analyst,Granicus Inc.,"Denver, CO•Remote",10,Data+Analyst,Denver%2C+CO
+1258,Senior Strategy & Performance Analyst,Xcel Energy,"Denver, CO 80202 (Union Station area)",12,Data+Analyst,Denver%2C+CO
+1259,Sr. Business Analyst - Salesforce,Zscaler,"Denver, CO•Remote",15,Data+Analyst,Denver%2C+CO
+1260,Senior Compensation Analyst (Remote Centric),Envision Healthcare,"Greenwood Village, CO 80111",15,Data+Analyst,Denver%2C+CO
+1261,Sr Business Operations Analyst- Data Engineer,DISH,"Englewood, CO 80112+3 locations",10,Data+Analyst,Denver%2C+CO
+1262,Business Analyst,Arrow Electronics,"Centennial, CO 80112",15,Data+Analyst,Denver%2C+CO
+1263,"Senior Manager, Functional Lead/Business Analyst",Salesforce,"Denver, CO",12,Data+Analyst,Denver%2C+CO
+1264,User Experience (UX)/ Business Analyst (BA),"Kleinfelder, Inc.","Denver, CO 80202 (Central Business District area)",11,Data+Analyst,Denver%2C+CO
+1265,Business Intelligence Analyst,Granicus Inc.,"Denver, CO•Remote",10,Data+Analyst,Denver%2C+CO
+1266,Senior Systems Analyst - Fraud,DISH,"Englewood, CO 80112",10,Data+Analyst,Denver%2C+CO
+1267,Lead Business Analyst,Lumen,"Denver, CO 80202 (Central Business District area)",11,Data+Analyst,Denver%2C+CO
+1268,BOS Platform Business Analyst,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+1 location",10,Data+Analyst,Denver%2C+CO
+1269,Benchman Carpenter,Condit Exhibits,"Denver, CO",3,Infrastructure,Denver%2C+CO
+1270,Software Engineer II,MILLER INTERNATIONAL,"Denver, CO 80260",3,Infrastructure,Denver%2C+CO
+1271,Warehouse Associate,Capstone Logistics LLC,"Commerce City, CO",6,Infrastructure,Denver%2C+CO
+1272,Administrative Assistant,PCL Construction,"Denver, CO",11,Infrastructure,Denver%2C+CO
+1273,Information Security Analyst,"Virsage Solutions, Inc","Denver, CO+1 location",3,Infrastructure,Denver%2C+CO
+1274,Tower Technician,VIKOR,"Denver, CO",4,Infrastructure,Denver%2C+CO
+1275,Transportation Security Inspector,TSA (Transportation Security Administration),"Denver, CO",10,Infrastructure,Denver%2C+CO
+1276,SailPoint Support Engineer,MTG Services,"Denver, CO",12,Infrastructure,Denver%2C+CO
+1277,Business Development Representative - IT Sales,Progent Corp.,"Denver, CO•Temporarily Remote",11,Infrastructure,Denver%2C+CO
+1278,Academic Advisor - Remote,Aspen University,"Denver, CO 80222 (Virginia Village area)•Remote",3,Infrastructure,Denver%2C+CO
+1279,Shipping and Receiving Clerk,AMP Robotics,"Denver, CO",3,Infrastructure,Denver%2C+CO
+1280,Facilities and Office Services Specialist,EF Educational Tours,"Denver, CO 80202 (Lodo area)",12,Infrastructure,Denver%2C+CO
+1281,Recruiter,DataDog,"Denver, CO",9,Infrastructure,Denver%2C+CO
+1282,Advocacy Coordinator,Nurse Family Partnership,"Denver, CO 80203 (Capitol Hill area)",12,Infrastructure,Denver%2C+CO
+1283,Cognos Administrator,Okaya LLC,"Denver, CO•Temporarily Remote",10,Infrastructure,Denver%2C+CO
+1284,Cognos Administrator,Okaya LLC,"Denver, CO•Temporarily Remote",10,Infrastructure,Denver%2C+CO
+1285,Customer Support Engineer,MeasuringU,"Denver, CO 80206 (Cherry Creek area)",3,Infrastructure,Denver%2C+CO
+1286,Office Manager,Omnia International,"Denver, CO 80224 (Washington Virginia Vale area)",12,Infrastructure,Denver%2C+CO
+1287,Account Executive,Popmenu,"Denver, CO",9,Infrastructure,Denver%2C+CO
+1288,Forklift Operator,Capstone Logistics LLC,"Henderson, CO 80640",15,Infrastructure,Denver%2C+CO
+1289,Senior Data Analyst - Product and Strategy,Assignar,"Denver, CO",3,Infrastructure,Denver%2C+CO
+1290,Litigation Legal Assistant,Kaplan Kirsch & Rockwell LLP,"Denver, CO 80202 (Central Business District area)",4,Infrastructure,Denver%2C+CO
+1291,"Nonprofit Solution Engineer, Engagement Solutions",Salesforce,"Denver, CO+1 location",10,Infrastructure,Denver%2C+CO
+1292,Account Executive (Denver),Technology Integration Group,"Louisville, CO 80027",3,Infrastructure,Denver%2C+CO
+1293,Controller,Location3,"Denver, CO 80202 (Central Business District area)•Remote",9,Infrastructure,Denver%2C+CO
+1294,Data Center Operations Engineer I,"JPMorgan Chase Bank, N.A.","Aurora, CO",9,Infrastructure,Denver%2C+CO
+1295,Systems Administrator - Hybrid/Remote to Denver,Ballard Spahr LLP,"Denver, CO 80202 (Union Station area)•Remote",11,Infrastructure,Denver%2C+CO
+1296,Packaging Technician,Lightshade Labs,"Denver, CO 80216 (Globeville area)",11,Infrastructure,Denver%2C+CO
+1297,ARPA DCW Data Infrastructure Specialist,State of Colorado Job Opportunities,"Denver, CO 80203 (North Capitol Hill area)•Temporarily Remote",10,Infrastructure,Denver%2C+CO
+1298,Mobility EPC,Aforce solutions,"Denver, CO 80216 (Stapleton area)",3,Infrastructure,Denver%2C+CO
+1299,Vice President of Information Technology,Salud Family Health Centers,"Fort Lupton, CO 80621",15,CIO,Denver%2C+CO
+1300,Director Information Technology Services,Air Methods Corporation,"Greenwood Village, CO 80111",11,CIO,Denver%2C+CO
+1301,SVP IT TECHNOLOGY OPERATIONS,Envision Healthcare,"Greenwood Village, CO 80111",12,CIO,Denver%2C+CO
+1302,Director Information Technology Services,Air Methods Corporation,"Greenwood Village, CO 80111",11,CIO,Denver%2C+CO
+1303,SVP IT TECHNOLOGY OPERATIONS,Envision Healthcare,"Greenwood Village, CO 80111",12,CIO,Denver%2C+CO
+1304,Vice President of Information Technology,Salud Family Health Centers,"Fort Lupton, CO 80621",15,CIO,Denver%2C+CO
+1305,"Assembly, Integration, and Test (AI&T) Lead | Aerospace",YORK SPACE SYSTEMS,"Denver, CO 80204 (Auraria area)",10,AI,Denver%2C+CO
+1306,PRA AI Collaborative Learning Lab in iSAT,University of Colorado Boulder,"Boulder, CO 80309 (Colorado University area)",11,AI,Denver%2C+CO
+1307,Digital Product Manager Lead,Anthem,"Denver, CO 80273 (Capitol Hill area)",9,AI,Denver%2C+CO
+1308,Product Manager - Software Defined Network,Verizon,"Lone Tree, CO 80124",12,AI,Denver%2C+CO
+1309,Technical Delivery Manager,Verizon,"Denver, CO 80202 (Central Business District area)",12,AI,Denver%2C+CO
+1310,"Director of Marketing, AI",Oculus,"Denver, CO",10,AI,Denver%2C+CO
+1311,AI R&D Program Manager,"The Stratagem Group, Inc","Aurora, CO 80011 (Norfolk Glen area)+1 location",10,AI,Denver%2C+CO
+1312,Research Scientist - Industrial Organizational Psychology (R...,Pearson,"Denver, CO•Remote",15,AI,Denver%2C+CO
+1313,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1314,"CIB-Wholesale Payments -Brand Partnerships Marketing, Vice P...","JPMorgan Chase Bank, N.A.","Denver, CO",13,AI,Denver%2C+CO
+1315,Senior Commercial Review Appraiser,U.S. Bank,"Denver, CO",10,AI,Denver%2C+CO
+1316,"AML Quality Assurance Analyst, Promontory Financial Group",IBM,"Denver, CO",11,AI,Denver%2C+CO
+1317,Machine Learning Ops Engineer (MLOps ) (Up to 25% Profit Sha...,CACI,"Denver, CO 80225",11,AI,Denver%2C+CO
+1318,"Sr. Specialist, Alternative Investments (Advisor Services)",Charles Schwab,"Lone Tree, CO 80124",14,AI,Denver%2C+CO
+1319,Postdoctoral Researcher: Reinforcement Learning for Control...,National Renewable Energy Laboratory,"Golden, CO 80401",10,AI,Denver%2C+CO
+1320,AI/Machine Learning Engineer,LOCKHEED MARTIN CORPORATION,"Littleton, CO 80125",10,AI,Denver%2C+CO
+1321,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"Denver, CO 80202 (Central Business District area)",12,AI,Denver%2C+CO
+1322,Software Engineer,LOCKHEED MARTIN CORPORATION,"Littleton, CO 80125",11,AI,Denver%2C+CO
+1323,Business Analyst,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1324,Business Analyst,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1325,Project Portfolio Microsoft Director,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1326,Legal Business Solutions Senior Associate,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1327,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"Denver, CO 80202 (Central Business District area)",12,AI,Denver%2C+CO
+1328,Senior Analyst/Developer,DISH,"Englewood, CO 80112+1 location",12,AI,Denver%2C+CO
+1329,"Sr. Specialist, Alternative Investments (Advisor Services)",Charles Schwab,"Lone Tree, CO 80124",14,AI,Denver%2C+CO
+1330,Director Broadcast Center -Operations,DISH,"Englewood, CO 80112",12,AI,Denver%2C+CO
+1331,Data Scientist - Data Exploitation,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1332,Staff Engineer - RF Automation,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1333,Cloud Director,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1334,Data Scientist - Experienced Associate - Go To Market,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+1 location",10,AI,Denver%2C+CO
+1335,Full Stack Blockchain Developer - AI & EmTech Lab - Labs 2.0,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1336,PwC Digital Products - Product Operations Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+1 location",10,AI,Denver%2C+CO
+1337,Lead Data Architect - Work from Home,Lumen,"Broomfield, CO 80021•Remote",15,AI,Denver%2C+CO
+1338,"Assistant Professor, Computer Science",The University Of Denver,"Denver, CO",15,AI,Denver%2C+CO
+1339,Chief Systems Engineer for Optical Payloads,LOCKHEED MARTIN CORPORATION,"Littleton, CO 80125",11,AI,Denver%2C+CO
+1340,Senior Software Engineer,zvelo,"Denver, CO•Remote",12,AI,Denver%2C+CO
+1341,Microsoft Project Portfolio Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1342,Scout- Distributed Cloud,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1343,"Senior Product Manager, Enterprise Wireless Product- PaaS Da...",DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1344,Tenure Track Faculty in Electrical and Computer Engineering...,The University Of Denver,"Denver, CO",11,AI,Denver%2C+CO
+1345,PwC Digital Products - Back End Developer - Sr. Associate,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,AI,Denver%2C+CO
+1346,Engineer Senior - Payload Test,Ball Aerospace,"Broomfield, CO 80020",15,AI,Denver%2C+CO
+1347,Scout-IoT & Devices,DISH,"Littleton, CO 80120",12,AI,Denver%2C+CO
+1348,"Chief Architect, Sling TV",DISH,"Englewood, CO 80112",12,AI,Denver%2C+CO
+1349,Technical Lead,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,AI,Denver%2C+CO
+1350,Enterprise Asset Management Java Developer,Microdesk,"Denver, CO",12,AI,Denver%2C+CO
+1351,"Manager - Pharma Strategy, DaVita Venture Group",DaVita,"Denver, CO 80202 (Union Station area)",15,AI,Denver%2C+CO
+1352,Lead Backend Engineer,Pearson,"Denver, CO",15,AI,Denver%2C+CO
+1353,SAP Hyperscaler Architect Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,AI,Denver%2C+CO
+1354,Data Analyst,"Raybeam, Inc.","Denver, CO 80202 (Lodo area)•Remote",2,Machine+Learning,Denver%2C+CO
+1355,Data Center Operations Engineer I,"JPMorgan Chase Bank, N.A.","Aurora, CO",9,Machine+Learning,Denver%2C+CO
+1356,Research Scientist - Algorithm Development & Machine Learnin...,LOCKHEED MARTIN CORPORATION,"Boulder, CO 80301",10,Machine+Learning,Denver%2C+CO
+1357,Research Technician IV/V (Build),National Renewable Energy Laboratory,"Golden, CO 80401",9,Machine+Learning,Denver%2C+CO
+1358,AI/Machine Learning Engineer,LOCKHEED MARTIN CORPORATION,"Littleton, CO 80125",10,Machine+Learning,Denver%2C+CO
+1359,CIRES Post-doctoral associate on Machine Learning for Space...,University of Colorado Boulder,"Boulder, CO 80305 (Central Boulder area)•Remote",15,Machine+Learning,Denver%2C+CO
+1360,Machine Learning Ops Engineer (MLOps ) (Up to 25% Profit Sha...,CACI,"Denver, CO 80225",11,Machine+Learning,Denver%2C+CO
+1361,Software Developer,Alchemer,"Louisville, CO 80027",3,Machine+Learning,Denver%2C+CO
+1362,Postdoctoral Researcher – Molecular Simulations,National Renewable Energy Laboratory,"Golden, CO 80401+1 location",15,Machine+Learning,Denver%2C+CO
+1363,Applied Scientist,Amazon.com Services LLC,"Boulder, CO+1 location",14,Machine+Learning,Denver%2C+CO
+1364,BI Analyst,"Connection, Inc.","Denver, CO 80230 (Lowry Field area)",10,Machine+Learning,Denver%2C+CO
+1365,Business Data Analyst,Prove,"Denver, CO",10,Machine+Learning,Denver%2C+CO
+1366,Machine Learning Engineer,Pearson,"Denver, CO",15,Machine+Learning,Denver%2C+CO
+1367,Full Stack Developer,"Koverse, Inc.","Denver, CO 80202 (Central Business District area)•Temporarily Remote",3,Machine+Learning,Denver%2C+CO
+1368,Principal Engineer - Artificial Intelligence and Machine Lea...,Verizon,"Denver, CO 80202 (Central Business District area)",12,Machine+Learning,Denver%2C+CO
+1369,"Service Desk Agent, Tier II",Health Current,"Denver, CO 80246 (Southeastern Denver area)",11,Machine+Learning,Denver%2C+CO
+1370,"Sr Engineer, Selling Control Platform",Nordstrom Inc,"Denver, CO",10,Machine+Learning,Denver%2C+CO
+1371,Senior Cloud Data Engineer (Open to Remote) - SimioCloud,Simio Cloud,"Westminster, CO 80021•Remote",15,Machine+Learning,Denver%2C+CO
+1372,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1373,Principal Architect I,Spectrum,"Greenwood Village, CO 80111+3 locations",10,Machine+Learning,Denver%2C+CO
+1374,Cloud Data Architect,Slalom Consulting,"Denver, CO 80202 (Central Business District area)",9,Machine+Learning,Denver%2C+CO
+1375,"Guidance, Navigation & Control / Software Manager",LOCKHEED MARTIN CORPORATION,"Littleton, CO 80125",9,Machine+Learning,Denver%2C+CO
+1376,Senior Principal RAN Hardware Engineering Technologist,Dell Technologies,"Denver, CO",10,Machine+Learning,Denver%2C+CO
+1377,Software Engineer,Isys Technologies,"Longmont, CO 80503",10,Machine+Learning,Denver%2C+CO
+1378,Enterprise Asset Management Java Developer,Microdesk,"Denver, CO",12,Machine+Learning,Denver%2C+CO
+1379,Lead Software Developer,S&P Global,"Denver, CO 80201+2 locations",10,Machine+Learning,Denver%2C+CO
+1380,Data Scientist - Experienced Associate - Go To Market,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,Machine+Learning,Denver%2C+CO
+1381,Lead Data Architect - Work from Home,Lumen,"Broomfield, CO 80021•Remote",15,Machine+Learning,Denver%2C+CO
+1382,Senior DevOps Engineer,Inspirato,"Denver, CO 80202 (Union Station area)",11,Machine+Learning,Denver%2C+CO
+1383,Data Engineer - Trust Tech - Labs 2.0 - P&T,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1384,Oracle EPM Cloud Senior Associate,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,Machine+Learning,Denver%2C+CO
+1385,Senior Data Engineer,DISH,"Littleton, CO 80120",12,Machine+Learning,Denver%2C+CO
+1386,PwC Digital Products - Fullstack Developer - Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+4 locations",10,Machine+Learning,Denver%2C+CO
+1387,Info Governance & Privacy - Data Analytics Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1388,Director Broadcast Center -Operations,DISH,"Englewood, CO 80112",12,Machine+Learning,Denver%2C+CO
+1389,DevOps Engineer II,DISH,"Littleton, CO 80120",14,Machine+Learning,Denver%2C+CO
+1390,Cloud Architect - VMware,DISH,"Littleton, CO 80120",12,Machine+Learning,Denver%2C+CO
+1391,Cloud Engineering - Senior Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1392,5G Network Assurance and Analytics Architect- Wireless Syste...,DISH,"Littleton, CO 80120",12,Machine+Learning,Denver%2C+CO
+1393,SAP Hyperscaler Architect Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+2 locations",10,Machine+Learning,Denver%2C+CO
+1394,Oracle Finance Cloud Senior Associate,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1395,Oracle EPM Cloud Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)",10,Machine+Learning,Denver%2C+CO
+1396,Oracle Finance Cloud Manager,PRICE WATERHOUSE COOPERS,"Denver, CO 80202 (Union Station area)+1 location",10,Machine+Learning,Denver%2C+CO
+1397,Data Analyst,"Raybeam, Inc.","Denver, CO 80202 (Lodo area)•Remote",2,Machine+Learning,Denver%2C+CO
+1398,"Service Desk Agent, Tier II",Health Current,"Denver, CO 80246 (Southeastern Denver area)",11,Machine+Learning,Denver%2C+CO
+1399,"Data Engineer, Boston Bruins",Delaware North,"Boston, MA",15,Data+Engineer,Boston%2C+MA
+1400,Junior Data Engineer,MIT,"Cambridge, MA 02139 (MIT area)",10,Data+Engineer,Boston%2C+MA
+1401,Data Engineer,Millipore Sigma,"Cambridge, MA 02142 (East Cambridge area)",15,Data+Engineer,Boston%2C+MA
+1402,Azure Data Engineer,GHK,"Boston, MA•Temporarily Remote",3,Data+Engineer,Boston%2C+MA
+1403,IT Senior Data Engineer,Boston Consulting Group,"Boston, MA 02109 (Downtown area)",9,Data+Engineer,Boston%2C+MA
+1404,Associate Data Engineer,Activate Care,"Boston, MA 02109 (Haymarket area)",10,Data+Engineer,Boston%2C+MA
+1405,5G Senior Data Engineer,Dell Technologies,"Hopkinton, MA",10,Data+Engineer,Boston%2C+MA
+1406,Data Engineer,Signiant,"Lexington, MA 02421",11,Data+Engineer,Boston%2C+MA
+1407,Snowflake Data Engineer,OKAY INTERNATIONAL,"Boston, MA•Temporarily Remote",10,Data+Engineer,Boston%2C+MA
+1408,Staff Data Engineer,Teladoc Health,"Quincy, MA",12,Data+Engineer,Boston%2C+MA
+1409,Senior Data Engineer,Trupanion,"Worcester, MA 01601•Remote",12,Data+Engineer,Boston%2C+MA
+1410,Data Engineer,Cervello Inc,"Boston, MA 02210 (South Boston area)+1 location",15,Data+Engineer,Boston%2C+MA
+1411,"Senior Software Engineer, Data Pipeline",PayScale,"Boston, MA",16,Data+Engineer,Boston%2C+MA
+1412,Quality Engineer - Data Analytics,Philips,"Cambridge, MA 02141 (East Cambridge area)",15,Data+Engineer,Boston%2C+MA
+1413,DATA-ENGINEER-PYTHON SAS-Providence RI-Full Time,Visionary Innovative Technology Solutions,"Providence, RI",3,Data+Engineer,Boston%2C+MA
+1414,Senior Software/Data Engineer,Harvard University,"Boston, MA•Temporarily Remote",11,Data+Engineer,Boston%2C+MA
+1415,Senior Data Engineer,ZoomInfo Technologies LLC,"Waltham, MA",10,Data+Engineer,Boston%2C+MA
+1416,Data Privacy Engineer,Clario,"Medford, MA 02155",10,Data+Engineer,Boston%2C+MA
+1417,Big Data Engineer,Integral Ad Science,"Boston, MA+2 locations•Remote",15,Data+Engineer,Boston%2C+MA
+1418,Software Cloud Engineer (Data),MassMutual,"Boston, MA 02124 (South Dorchester area)",9,Data+Engineer,Boston%2C+MA
+1419,Data Engineer,The RMR Group,"Newton, MA 02458 (Nonantum area)",12,Data+Engineer,Boston%2C+MA
+1420,Senior Google Cloud Platform Data Engineer,Verizon,"Boston, MA 02110 (Downtown area)",10,Data+Engineer,Boston%2C+MA
+1421,Senior Data Engineer,Teradyne,"North Reading, MA",9,Data+Engineer,Boston%2C+MA
+1422,Data Engineer,Koch Engineered Solutions,"Wilmington, MA 01887",14,Data+Engineer,Boston%2C+MA
+1423,"Data Engineer, Consultant - Manufacturing - Analytics and Co...",Deloitte,"Boston, MA 02116 (Back Bay area)",9,Data+Engineer,Boston%2C+MA
+1424,Data Engineer,Customer Portfolios,"Boston, MA 02210 (South Boston area)",15,Data+Engineer,Boston%2C+MA
+1425,Data Engineer II,Chewy,"Boston, MA 02210 (South Boston area)",12,Data+Engineer,Boston%2C+MA
+1426,Software Engineer - Routing and Data Path,Facebook App,"Boston, MA",11,Data+Engineer,Boston%2C+MA
+1427,"Director, Quant Data Engineer",Fidelity Investments,"Boston, MA 02210 (South Boston area)+1 location",9,Data+Engineer,Boston%2C+MA
+1428,"Software Engineer, Clinical Data Interface","PillPack, LLC","Boston, MA",15,Data+Engineer,Boston%2C+MA
+1429,Principal Software Engineer - Data Path,Casa Systems Inc,"Andover, MA 01810",14,Data+Engineer,Boston%2C+MA
+1430,Senior Data Engineer,"Seven Bridges Genomics, Inc.","Boston, MA+1 location",11,Data+Engineer,Boston%2C+MA
+1431,"Data Engineer/Data Analyst (Python, SAS, Credit Risk)",Arthur Grand Technologies Inc,"Providence, RI•Temporarily Remote",3,Data+Engineer,Boston%2C+MA
+1432,Data Integration Engineer,Ohio Shared Information Services Inc,"Boston, MA•Remote",15,Data+Engineer,Boston%2C+MA
+1433,"Staff Data Software Engineer (Scala/Python, Apache Spark, ET...",Lookout,"Boston, MA (South Boston area)•Remote",13,Data+Engineer,Boston%2C+MA
+1434,Senior Principal Software Engineer - Data Management,Dell Technologies,"Hopkinton, MA+1 location",9,Data+Engineer,Boston%2C+MA
+1435,VMware Tanzu Data Engineer (Greenplum) - Opportunity for Wor...,VMware,"Boston, MA•Remote",11,Data+Engineer,Boston%2C+MA
+1436,Data Devops Engineer,Experfy Inc,"Boston, MA",9,Data+Engineer,Boston%2C+MA
+1437,"Customer Data Engineer, Experienced Associate (FS)",PRICE WATERHOUSE COOPERS,"Boston, MA 02210 (South Boston area)",10,Data+Engineer,Boston%2C+MA
+1438,"Senior Software Development Engineer (Data Services, Health...",SOPHiA GENETICS,"Boston, MA 02116 (Back Bay area)",13,Data+Engineer,Boston%2C+MA
+1439,Data Automation Solution Developer & Process Engineer,PRICE WATERHOUSE COOPERS,"Boston, MA 02210 (South Boston area)",10,Data+Engineer,Boston%2C+MA
+1440,"Sr. Software Engineer, Data Engineering- Java/Python, Apache...",Lookout,"Boston, MA (South Boston area)+1 location•Remote",13,Data+Engineer,Boston%2C+MA
+1441,"Hardware System Engineer, Data Analytics",Facebook App,"Boston, MA",11,Data+Engineer,Boston%2C+MA
+1442,Senior Cloud Data Engineer,PRICE WATERHOUSE COOPERS,"Boston, MA 02210 (South Boston area)",10,Data+Engineer,Boston%2C+MA
+1443,Senior Software Engineer - Data Management,Dell Technologies,"Hopkinton, MA",9,Data+Engineer,Boston%2C+MA
+1444,Data Analyst-Remote,Boston Medical Center,"Boston, MA 02118 (South Boston area)+1 location•Remote",14,Data+Analyst,Boston%2C+MA
+1445,Data Analyst/Master Data Coordinator,Procter & Gamble,"Boston, MA 02108 (Back Bay-Beacon Hill area)",12,Data+Analyst,Boston%2C+MA
+1446,Data Analyst,BLUE PLANET,"Brockton, MA",9,Data+Analyst,Boston%2C+MA
+1447,Data Analyst II,IDEMIA,"Billerica, MA 01821•Remote",9,Data+Analyst,Boston%2C+MA
+1448,Data Analyst for the Special Education department,Worcester Public Schools,"Worcester, MA 01609",9,Data+Analyst,Boston%2C+MA
+1449,Senior Data Analyst,Epic Games,"Boston, MA",13,Data+Analyst,Boston%2C+MA
+1450,Data Analyst I,Massachusetts General Hospital(MGH),"Boston, MA 02114 (West End area)•Temporarily Remote",13,Data+Analyst,Boston%2C+MA
+1451,Compliance Data Analyst,Mass General Brigham(PHS),"Charlestown, MA 02129",9,Data+Analyst,Boston%2C+MA
+1452,Data Analysts/Report Writers,Acmeware,"Dedham, MA 02026 (Oakdale area)",13,Data+Analyst,Boston%2C+MA
+1453,Application Analyst II - Laboratory,Beth Israel Deaconess Medical Center,"Needham, MA",9,Data+Analyst,Boston%2C+MA
+1454,Data Analyst,MassMutual,"Boston, MA 02124 (South Dorchester area)+1 location",9,Data+Analyst,Boston%2C+MA
+1455,IT Business Analyst,NATIONAL GRID CO USA (NE POWER),"Waltham, MA+4 locations",10,Data+Analyst,Boston%2C+MA
+1456,Business Intelligence - Data Analyst,MassMutual,"Boston, MA 02124 (South Dorchester area)",9,Data+Analyst,Boston%2C+MA
+1457,Data Analyst,Straumann Group,"Andover, MA",9,Data+Analyst,Boston%2C+MA
+1458,Senior Data Analyst for Clinical Trial Systems,Massachusetts General Hospital(MGH),"Boston, MA 02114 (West End area)+1 location",10,Data+Analyst,Boston%2C+MA
+1459,Strategy & Business Analyst,Quickbase,"Boston, MA 02210 (South Boston area)",11,Data+Analyst,Boston%2C+MA
+1460,Data Transformation Analyst,Centric Consulting,"Boston, MA",9,Data+Analyst,Boston%2C+MA
+1461,Operations Research Analyst,BLUE PLANET,"Brockton, MA",9,Data+Analyst,Boston%2C+MA
+1462,Data Analyst - Senior Associate,State Street,"Boston, MA",10,Data+Analyst,Boston%2C+MA
+1463,Revenue & Data Analyst,Steward Health Care,"Watertown, MA",9,Data+Analyst,Boston%2C+MA
+1464,Business Analyst II,Anthem,"Hingham, MA 02043",11,Data+Analyst,Boston%2C+MA
+1465,Marketing Data Analyst,Five Star Senior Living,"Newton, MA 02458 (Newton Corner area)",10,Data+Analyst,Boston%2C+MA
+1466,Business Analyst - IS,Manulife,"Boston, MA 02116 (Back Bay area)",10,Data+Analyst,Boston%2C+MA
+1467,Services Business Analyst,Allscripts,"Boston, MA",15,Data+Analyst,Boston%2C+MA
+1468,Budget Analyst,Dept Housing & Community Dev,"Boston, MA 02114 (Beacon Hill area)+1 location",12,Data+Analyst,Boston%2C+MA
+1469,Senior Research Analyst,JLL,"Boston, MA",9,Data+Analyst,Boston%2C+MA
+1470,HR Business Analyst,Katalyst Healthcares & Life Sciences,"Lexington, MA 02420",11,Data+Analyst,Boston%2C+MA
+1471,Data Privacy Compliance Analyst,Clario,"Medford, MA 02155",10,Data+Analyst,Boston%2C+MA
+1472,Business Analyst,NECI,"Mansfield, MA 02048",9,Data+Analyst,Boston%2C+MA
+1473,Data Analytics Consulting Associate,PRICE WATERHOUSE COOPERS,"Boston, MA 02210 (South Boston area)",10,Data+Analyst,Boston%2C+MA
+1474,Desktop Support Specialist,Sanametrix,"Boston, MA 02109 (Downtown area)+1 location",5,Infrastructure,Boston%2C+MA
+1475,"Director, Customer Experience",Nexamp,"Boston, MA 02110 (Downtown Crossing area)",15,Infrastructure,Boston%2C+MA
+1476,Executive Assistant,Mass Law Reform Institute (MLRI),"Boston, MA 02108 (Downtown area)•Temporarily Remote",2,Infrastructure,Boston%2C+MA
+1477,Technical Project Manager – Offshore Wind US,PEAK Wind,"Boston, MA",4,Infrastructure,Boston%2C+MA
+1478,Director of IT Operations,AIM,"Boston, MA 02108 (Downtown area)",3,Infrastructure,Boston%2C+MA
+1479,Realtor,Andersen Group Realty - KW,"Boston, MA",4,Infrastructure,Boston%2C+MA
+1480,Medical Device Test Engineer,"Canon U.S.A., Inc.","Cambridge, MA 02139 (Area IV area)",14,Infrastructure,Boston%2C+MA
+1481,Investigative Analyst/ Records Examiner Supporting the DEA,FSA Federal,"Boston, MA 02203 (Central area)",11,Infrastructure,Boston%2C+MA
+1482,Specifications Reviewer,Mass Dept of Transportation,"Boston, MA 02116 (Back Bay area)",15,Infrastructure,Boston%2C+MA
+1483,Customer Success Manager,AtScale,"Boston, MA 02111 (Leather District area)",3,Infrastructure,Boston%2C+MA
+1484,Cleaning Associate,Block by Block,"Boston, MA 02111 (Downtown area)",9,Infrastructure,Boston%2C+MA
+1485,"Customer Success, JWOS",Amazon.com Services LLC,"Boston, MA",14,Infrastructure,Boston%2C+MA
+1486,Entry-Level FSS Security Consultant,IBM,"Cambridge, MA 02138 (West Cambridge area)",11,Infrastructure,Boston%2C+MA
+1487,Manager of Public Outreach and Engagement,Mass Dept of Transportation,"Boston, MA 02116 (Back Bay area)",15,Infrastructure,Boston%2C+MA
+1488,Campaign Manager,Raise Up MA,"Boston, MA 02111 (Downtown Crossing area)",3,Infrastructure,Boston%2C+MA
+1489,Armenian Medical InPerson Interpreter,Stratus Video,"Boston, MA",11,Infrastructure,Boston%2C+MA
+1490,Administrative Assistant,Broad Institute,"Cambridge, MA 02142 (Kendall Square area)",11,Infrastructure,Boston%2C+MA
+1491,IT Support Specialist,Ethos Cannabis,"Watertown, MA 02472•Temporarily Remote",3,Infrastructure,Boston%2C+MA
+1492,Technical Research Assistant 1,BWH/Harvard Cohorts Biorepository,"Boston, MA 02115 (Fenway-Kenmore area)",4,Infrastructure,Boston%2C+MA
+1493,Director of Content,Snyk,"Boston, MA",12,Infrastructure,Boston%2C+MA
+1494,Territory Sales Manager (Remote),Firemon,"Boston, MA•Remote",11,Infrastructure,Boston%2C+MA
+1495,Executive Assistant,Volumetric Building Companies,"Somerville, MA 02143 (Union Square area)",15,Infrastructure,Boston%2C+MA
+1496,"CENTER ADMINISTRATOR, College of Arts & Sciences, Sociology",Boston University,"Boston, MA 02215 (Kenmore area)",9,Infrastructure,Boston%2C+MA
+1497,"Solution Engineer, Nonprofit Organizations",Salesforce,"Boston, MA 02116 (Back Bay area)+1 location",10,Infrastructure,Boston%2C+MA
+1498,Virtual Public Meetings Co,Mass Dept of Transportation,"Boston, MA 02116 (Back Bay area)",15,Infrastructure,Boston%2C+MA
+1499,"MuleSoft Strategic Advisor, Customer Success Strategy & Arch...",Salesforce,"Boston, MA 02116 (Back Bay area)",10,Infrastructure,Boston%2C+MA
+1500,"Senior Director, Development Operations, Infrastructure and...",Intellia,"Cambridge, MA 02139 (Cambridgeport area)",15,Infrastructure,Boston%2C+MA
+1501,Infrastructure Svc Eng Advisor,Anthem,"Boston, MA 02109 (Haymarket area)",9,Infrastructure,Boston%2C+MA
+1502,Senior Customer Success Technical Architect,Salesforce,"Boston, MA 02116 (Back Bay area)",11,Infrastructure,Boston%2C+MA
+1503,PLM Infrastructure Architect,Siemens,"Boston, MA",12,Infrastructure,Boston%2C+MA
+1504,Order Management Representative - Remote,Dynatrace,"Waltham, MA 02451•Remote",9,Infrastructure,Boston%2C+MA
+1505,Administrative Assistant,Pagaya Investments,"Boston, MA",12,AI,Boston%2C+MA
+1506,Material Handler,Amazon.com Services LLC,"Westborough, MA 01581+1 location",11,AI,Boston%2C+MA
+1507,Associate Data Scientist,Veolia,"Boston, MA",15,AI,Boston%2C+MA
+1508,"AI/ML - Sr Data Scientist, AI/ML Data",Apple,"Boston, MA 02116 (Back Bay area)",15,AI,Boston%2C+MA
+1509,"Robotics Software Engineer, Robotics AI",Amazon.com Services LLC,"Cambridge, MA+3 locations",14,AI,Boston%2C+MA
+1510,ML Data Linguist-I,Amazon.com Services LLC,"Cambridge, MA",11,AI,Boston%2C+MA
+1511,"Visiting Scientist, AI",Facebook App,"Boston, MA",11,AI,Boston%2C+MA
+1512,SLAM and Perception Engineer,Adaviv,"Somerville, MA 02143",15,AI,Boston%2C+MA
+1513,Software Technician/Data Scientist,Northeastern University,"Boston, MA",15,AI,Boston%2C+MA
+1514,"Manager, Software Engineering, Computer Vision - Facebook AI",Facebook App,"Boston, MA",11,AI,Boston%2C+MA
+1515,"Front End Engineer, Commerce Cloud",Salesforce,"Boston, MA 02116 (Back Bay area)",11,AI,Boston%2C+MA
+1516,"Telco, Media & Entertainment - AI and Data Transformation Ma...",Deloitte,"Boston, MA 02116 (Back Bay area)",15,AI,Boston%2C+MA
+1517,"Data Science, Senior Consultant - Applied AI",Deloitte,"Boston, MA 02116 (Back Bay area)+3 locations",9,AI,Boston%2C+MA
+1518,Clinical Informatics Associate Manager,Accenture,"Boston, MA",12,AI,Boston%2C+MA
+1519,"General Manager, Product Management","Alteryx, Inc.","Boston, MA•Remote",15,AI,Boston%2C+MA
+1520,Service Delivery Manager - Demand Management & Governance,Takeda Pharmaceutical,"Boston, MA",9,AI,Boston%2C+MA
+1521,Machine Learning Scientist,Exponent,"Natick, MA",15,AI,Boston%2C+MA
+1522,Virtual Senior AI/ML Ops,Deloitte,"Boston, MA 02116 (Back Bay area)",15,AI,Boston%2C+MA
+1523,Research Fellow,Massachusetts General Hospital(MGH),"Charlestown, MA 02129",15,AI,Boston%2C+MA
+1524,Assistant Director Student Success: Retention & Engagement,Merrimack College,"North Andover, MA 01845",11,AI,Boston%2C+MA
+1525,Research Data Science and Informatics Leader,Merck,"Boston, MA",12,AI,Boston%2C+MA
+1526,"Data & Analytics Manager, Deloitte Health Equity Institute,...",Deloitte,"Boston, MA 02116 (Back Bay area)",9,AI,Boston%2C+MA
+1527,Senior Scientist - Manufacturing Intelligence,Pfizer,"Andover, MA 01810",10,AI,Boston%2C+MA
+1528,Solutions Architect,"Amazon Web Services, Inc.","Boston, MA",14,AI,Boston%2C+MA
+1529,Responsible AI Analyst - AI & EmTech - PwC Labs,PRICE WATERHOUSE COOPERS,"Boston, MA 02210 (South Boston area)",10,AI,Boston%2C+MA
+1530,Product Engineer,RaySecur,"Boston, MA",11,AI,Boston%2C+MA
+1531,AI and Data Strategy Senior Manager,Deloitte,"Boston, MA 02116 (Back Bay area)+1 location",15,AI,Boston%2C+MA
+1532,Principal Data Scientist,Fidelity Investments,"Boston, MA 02210 (South Boston area)",9,AI,Boston%2C+MA
+1533,Postdoctoral Fellow: Machine Learning to Predict Cardiovascu...,AstraZeneca,"Waltham, MA 02451",14,AI,Boston%2C+MA
+1534,"Manufacturing Engineer, Amazon Robotics",Amazon.com Services LLC,"North Reading, MA 01864",9,AI,Boston%2C+MA
+1535,"Software Engineer III, Machine Learning and Computer Vision",Google,"Cambridge, MA (MIT area)",11,Machine+Learning,Boston%2C+MA
+1536,Postdoctoral Fellow: Machine Learning to Predict Cardiovascu...,AstraZeneca,"Waltham, MA 02451",14,Machine+Learning,Boston%2C+MA
+1537,Senior Cognitive/Machine Learning Professional,Humana,"Boston, MA 02110 (Downtown area)",8,Machine+Learning,Boston%2C+MA
+1538,Biostatistician II (Remote Position),CorEvitas,"Waltham, MA 02451•Remote",10,Machine+Learning,Boston%2C+MA
+1539,Analyst IV Machine Learning,Peapod Digital Labs,"Quincy, MA 02169",10,Machine+Learning,Boston%2C+MA
+1540,Data Scientist,"GrapheneDx, Inc","Boston, MA",8,Machine+Learning,Boston%2C+MA
+1541,Research Associate,Harvard University,"Boston, MA",12,Machine+Learning,Boston%2C+MA
+1542,Software Development Engineer,Amazon.com Services LLC,"Cambridge, MA+11 locations",8,Machine+Learning,Boston%2C+MA
+1543,Research Scientist - Statistical Learning and Experimentatio...,Facebook App,"Boston, MA+9 locations",11,Machine+Learning,Boston%2C+MA
+1544,ML Data Linguist-I,Amazon.com Services LLC,"Cambridge, MA",11,Machine+Learning,Boston%2C+MA
+1545,"Scientist, Bioinformatics","Flagship Pioneering, Inc.","Cambridge, MA 02142 (Kendall Square area)+1 location",11,Machine+Learning,Boston%2C+MA
+1546,Economist - Full Time Opportunities 2022,Wayfair,"Boston, MA",14,Machine+Learning,Boston%2C+MA
+1547,Junior Data Engineer,MIT,"Cambridge, MA 02139 (MIT area)",10,Machine+Learning,Boston%2C+MA
+1548,Senior Cloud Engineer - Architecture and Ops,Pearson,"Boston, MA+1 location",8,Machine+Learning,Boston%2C+MA
+1549,Computational Biologist,GSK,"Cambridge, MA 02140 (North Cambridge area)",11,Machine+Learning,Boston%2C+MA
+1550,"Director, Software Engineering-Package Planning",Chewy,"Boston, MA 02210 (South Boston area)+2 locations",11,Machine+Learning,Boston%2C+MA
+1551,Analytics Strategy Manager,Accenture,"Boston, MA",12,Machine+Learning,Boston%2C+MA
+1552,Software Quality Engineer,Abbott Laboratories,"Westford, MA",11,Machine+Learning,Boston%2C+MA
+1553,Product Designer,Cognex Corporation,"Natick, MA 01760",11,Machine+Learning,Boston%2C+MA
+1554,Sr. Research Scientist,Motorola Solutions,"Somerville, MA",11,Machine+Learning,Boston%2C+MA
+1555,Staff Computer Vision and Data Scientist,Baker Hughes,"Billerica, MA 01821•Remote",11,Machine+Learning,Boston%2C+MA
+1556,Senior Data Scientist,Apple,"Cambridge, MA",11,Machine+Learning,Boston%2C+MA
+1557,Data Engineer,Analog Devices,"Boston, MA",8,Machine+Learning,Boston%2C+MA
+1558,"Eng II, Systems Engrg",Raytheon Missiles & Defense,"Marlborough, MA",9,Machine+Learning,Boston%2C+MA
+1559,Medicinal Chemistry Leader,Animol Discovery,"Boston, MA 02108 (Back Bay-Beacon Hill area)",12,Machine+Learning,Boston%2C+MA
+1560,Senior Data Scientist,Analog Devices,"Boston, MA",12,Machine+Learning,Boston%2C+MA
+1561,"Scientist, Synthetic Biology DNA Design and Build (all level...","Flagship Pioneering, Inc.","Boston, MA",10,Machine+Learning,Boston%2C+MA
+1562,"Research Fellow - Sahand Hormoz Lab, Systems Biology",Dana-Farber Cancer Institute,"Boston, MA 02215 (Mission Hill area)",8,Machine+Learning,Boston%2C+MA
+1563,User Experience Researcher,Vectra,"Boston, MA",12,Machine+Learning,Boston%2C+MA
+1564,"Data Scientist, Consultant",Deloitte,"Boston, MA 02116 (Back Bay area)+1 location",10,Machine+Learning,Boston%2C+MA
+1565,Data Scientist,Aspen Technology,"Bedford, MA 01730",11,Machine+Learning,Boston%2C+MA
+1566,"Advisor Product Manager - Remote, US",Dell Technologies,"Hopkinton, MA+2 locations•Remote",10,Machine+Learning,Boston%2C+MA
+1567,"Manager 2, Software Engineering - PowerStore",Dell Technologies,"Hopkinton, MA+6 locations•Remote",10,Machine+Learning,Boston%2C+MA
+1568,Vice President Engineering,Akamai,"Cambridge, MA",8,Machine+Learning,Boston%2C+MA
+1569,"Senior Software Engineer, Python",Motorola Solutions,"Somerville, MA",8,Machine+Learning,Boston%2C+MA
+1570,Research Fellow Phd,McLean Hospital(MCL),"Belmont, MA 02478",11,Machine+Learning,Boston%2C+MA
+1571,Marketing Transformation Program Manager - APEX (100% Remote...,Dell Technologies,"Hopkinton, MA•Remote",10,Machine+Learning,Boston%2C+MA
+1572,Software Engineer 2 (Angular/.Net),Dell Technologies,"Hopkinton, MA+2 locations•Remote",10,Machine+Learning,Boston%2C+MA
+1573,Research Data Scientist,Facebook App,"Boston, MA+1 location",11,Machine+Learning,Boston%2C+MA
+1574,"Senior Engineer, Technical Support (I7)",Dell Technologies,"Hopkinton, MA",10,Machine+Learning,Boston%2C+MA
+1575,Research Technician (Translational Optical Imaging),Massachusetts General Hospital(MGH),"Boston, MA 02114 (West End area)",11,Machine+Learning,Boston%2C+MA
+1576,Senior Scientist - Manufacturing Intelligence,Pfizer,"Andover, MA 01810",10,Machine+Learning,Boston%2C+MA
+1577,Principal Engineer,"Amazon Dev Center U.S., Inc.","Boston, MA",8,Machine+Learning,Boston%2C+MA
+1578,"Visiting Scientist, AI",Facebook App,"Boston, MA",11,Machine+Learning,Boston%2C+MA
+1579,Principal Network Engineer - Franklin/Hopkinton MA,Dell Technologies,"Franklin, MA+11 locations",10,Machine+Learning,Boston%2C+MA
+1580,Research Data Science and Informatics Leader,Merck,"Boston, MA",12,Machine+Learning,Boston%2C+MA
+1581,Data Analyst,Commonwealth Care Alliance,"Boston, MA 02111 (Downtown Crossing area)",8,Machine+Learning,Boston%2C+MA
+1582,Manager - Projects,Cognizant Technology Solutions,"Boston, MA 02108 (Downtown area)",11,Machine+Learning,Boston%2C+MA
+1583,Product Manager,Yandex,"Newburyport, MA",9,Machine+Learning,Boston%2C+MA
