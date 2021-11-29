@@ -13,9 +13,5 @@ setup:
 	pip install -r requirements.txt
 
 
-activate:
-	pyenv activate scraper
-
-
-.PHONY: setup activate
+.PHONY: setup
 
